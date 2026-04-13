@@ -1,0 +1,46 @@
+{
+  "name": "Sosyal Media Slider",
+  "desing": {
+    "name": {
+      "tr": "Sosyal Medyada Biz"
+    },
+    "padding": "25px 0px 25px 0px",
+    "margin": "0px 0px 0px 0px",
+    "color": "#fff",
+    "bgcolor": "#601515"
+  },
+  "data": [
+    {
+      "img": "/src/icon/facebook.png",
+      "name": "Facebook",
+      "externalUrl": ""
+    },
+    {
+      "img": "/src/icon/instagram.png",
+      "name": "Instagram",
+      "externalUrl": ""
+    },
+    {
+      "img": "/src/icon/linkedin.png",
+      "name": "LinkedIn",
+      "externalUrl": ""
+    },
+    {
+      "img": "/src/icon/youtube.png",
+      "name": "YouTube",
+      "externalUrl": ""
+    },
+    {
+      "img": "/src/icon/whatsapp.png",
+      "name": "WhatsApp",
+      "externalUrl": ""
+    },
+    {
+      "img": "/src/icon/google-maps.png",
+      "name": "Google Maps",
+      "externalUrl": ""
+    }
+  ],
+  "category": "code",
+  "description": "Sosyal medya hesaplarını görsel ikonlarla sergileyen modül. Facebook, Instagram, LinkedIn, YouTube bağlantılarını şık şekilde gösterir."
+}

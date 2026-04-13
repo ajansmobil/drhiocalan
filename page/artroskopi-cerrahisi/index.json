@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Artroskopi Cerrahisi",
+    "en": "Arthroscopy Surgery",
+    "de": "Arthroskopie-Chirurgie",
+    "ar": "جراحة المنظار المفصلي"
+  },
+  "status": "play",
+  "id": "artroskopi-cerrahisi",
+  "path": "artroskopi-cerrahisi",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 3,
+  "icon": "visibility",
+  "description": {
+    "tr": "Omuz, diz ve ayak bileği artroskopi cerrahisi: eklem hastalıklarının kapalı yöntemle tanı ve tedavisi. Daha az ağrı, hızlı iyileşme.",
+    "en": "Shoulder, knee and ankle arthroscopy surgery: minimally invasive diagnosis and treatment of joint diseases. Less pain, faster recovery.",
+    "de": "Schulter-, Knie- und Sprunggelenkarthroskopie: minimalinvasive Diagnose und Behandlung von Gelenkerkrankungen. Weniger Schmerzen, schnellere Genesung.",
+    "ar": "جراحة تنظير الكتف والركبة والكاحل: التشخيص والعلاج طفيف التوغل لأمراض المفاصل. ألم أقل، تعافٍ أسرع."
+  },
+  "keyword": {
+    "tr": "artroskopi, diz artroskopisi, omuz artroskopisi, ayak bileği artroskopisi, menisküs, çapraz bağ, gaziantep",
+    "en": "arthroscopy, knee arthroscopy, shoulder arthroscopy, ankle arthroscopy, meniscus, cruciate ligament, gaziantep",
+    "de": "Arthroskopie, Kniearthroskopie, Schulterarthroskopie, Sprunggelenkarthroskopie, Meniskus, Kreuzband, Gaziantep",
+    "ar": "تنظير المفاصل، تنظير الركبة، تنظير الكتف، تنظير الكاحل، الغضروف المفصلي، الرباط الصليبي، غازي عنتاب"
+  },
+  "update": "2026-04-13T12:17:37.998Z",
+  "date": "2026-04-13T12:00:00.000Z",
+  "title": {
+    "tr": "Artroskopi Cerrahisi | Op. Dr. Halil İbrahim Öçalan - Gaziantep",
+    "en": "Arthroscopy Surgery | Op. Dr. Halil Ibrahim Ocalan - Gaziantep",
+    "de": "Arthroskopie-Chirurgie | OP-Dr. Halil Ibrahim Oçalan - Gaziantep",
+    "ar": "جراحة المنظار المفصلي | دكتور جراح خليل إبراهيم أوتشالان - غازي عنتاب"
+  },
+  "slider": [],
+  "text": {
+    "tr": "<article class=\"page-rich-text\"><h2>Omuz, Diz ve Ayak Bileği Artroskopi Cerrahisi</h2><p>Artroskopi cerrahisi, eklem hastalıklarının tanı ve tedavisinde kullanılan minimal invaziv (kapalı) cerrahi yöntemlerden biridir. Eklem içine küçük kesilerden yerleştirilen kamera ve özel aletlerle yapılar görüntülenir ve tedavi uygulanır. Omuz, diz ve ayak bileği artroskopisi; daha az ağrı, daha hızlı iyileşme ve kısa sürede günlük yaşama dönüş sağlar.</p><h2>Diz Artroskopisi</h2><p>Menisküs yırtıkları, ön çapraz bağ yaralanmaları, kıkırdak hasarları, eklem içi serbest cisimler ve hareket kısıtlılığı gibi durumlarda kullanılır.</p><h2>Omuz Artroskopisi</h2><p>Omuz çıkığı, rotator manşet yırtıkları, sıkışma sendromu, kıkırdak hasarları ve bağ yaralanmalarında uygulanır.</p><h2>Ayak Bileği Artroskopisi</h2><p>Spor yaralanmaları ve kronik ayak bileği ağrılarında; bağ yaralanmaları, kıkırdak hasarları, sıkışma ve serbest cisimler gibi durumlarda etkilidir.</p><h2>Avantajlar</h2><ul><li>Daha küçük kesiler</li><li>Daha az ağrı</li><li>Hızlı iyileşme</li><li>Kısa hastanede kalış</li><li>Günlük yaşama ve spora daha hızlı dönüş</li></ul><p>Omuz, diz veya ayak bileğinde ağrı, şişlik veya hareket kısıtlılığında uzman değerlendirmesi önemlidir.</p></article>",
+    "en": "<article class=\"page-rich-text\"><h2>Shoulder, Knee and Ankle Arthroscopy</h2><p>Arthroscopy is a minimally invasive joint procedure. A camera and instruments are inserted through small portals to diagnose and treat problems inside the joint.</p><h2>Knee Arthroscopy</h2><p>Used for meniscus tears, ACL injuries, cartilage damage, loose bodies and painful stiffness.</p><h2>Shoulder Arthroscopy</h2><p>Addresses instability, rotator cuff tears, impingement, cartilage lesions and labral injuries.</p><h2>Ankle Arthroscopy</h2><p>Helpful in sports injuries and chronic ankle pain, including ligament and cartilage problems and impingement.</p><h2>Benefits</h2><ul><li>Smaller incisions</li><li>Less pain</li><li>Faster recovery</li><li>Quicker return to activity</li></ul></article>",
+    "de": "<article class=\"page-rich-text\"><h2>Schulter-, Knie- und Sprunggelenkarthroskopie</h2><p>Die Arthroskopie ist ein minimalinvasives Verfahren zur Diagnose und Therapie innerer Gelenkstrukturen.</p><h2>Kniearthroskopie</h2><p>Meniskusläsionen, Kreuzbandverletzungen, Knorpelschäden und Gelenkmaus u. a.</p><h2>Schulterarthroskopie</h2><p>Instabilität, Rotatorenmanschette, Impingement, Knorpelschäden.</p><h2>Sprunggelenkarthroskopie</h2><p>Bandläsionen, chronische Schmerzen, Impingement.</p><ul><li>Kleinere Schnitte</li><li>Weniger Schmerz</li><li>Schnellere Rehabilitation</li></ul></article>",
+    "ar": "<article class=\"page-rich-text\" dir=\"rtl\"><h2>تنظير الكتف والركبة والكاحل</h2><p>جراحة طفيفة التوغل لتشخيص وعلاج مشاكل المفصل عبر شقوق صغيرة وكاميرا.</p><h2>تنظير الركبة</h2><p>لتمزق الغضروف الهلالي وإصابة الرباط الصليبي وتلف الغضروف والأجسام الحرة.</p><h2>تنظير الكتف</h2><p>للخلع وتمزق الكفة المدورة والانضغاط.</p><h2>تنظير الكاحل</h2><p>لإصابات رياضية وألم مزمن في الكاحل.</p><ul><li>شقوق أصغر</li><li>ألم أقل</li><li>تعافٍ أسرع</li></ul></article>"
+  }
+}

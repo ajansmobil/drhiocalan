@@ -1,0 +1,42 @@
+{
+  "name": "WhatsApp 6",
+  "desing": {
+    "number": "905320000000",
+    "img": "logo.png",
+    "name": {
+      "tr": "Müşteri Desteği",
+      "en": "Customer Support",
+      "ar": "دعم العملاء"
+    },
+    "status": {
+      "tr": "Şu anda çevrimiçi",
+      "en": "Currently online",
+      "ar": "متصل الآن"
+    },
+    "message": {
+      "tr": "Merhaba! Size nasıl yardımcı olabilirim?",
+      "en": "Hello! How can I help you?",
+      "ar": "مرحباً! كيف يمكنني مساعدتك؟"
+    },
+    "time": {
+      "tr": "Şimdi",
+      "en": "Now",
+      "ar": "الآن"
+    },
+    "button_text": {
+      "tr": "Sohbete Başla",
+      "en": "Start Chat",
+      "ar": "ابدأ المحادثة"
+    },
+    "avatar": "agent.png",
+    "position": "fixed",
+    "color": "#25D366",
+    "z_index": 10000,
+    "advanced_features": true,
+    "custom_functions": true,
+    "advanced_integration": true
+  },
+  "category": "contact",
+  "data": [],
+  "description": "WhatsApp iletişim widget'ı. Ziyaretçilerin tek tıkla WhatsApp üzerinden mesaj göndermesini sağlar. Floating button ve chat görünümü ile müşteri desteği için idealdir. 1 projede aktif."
+}

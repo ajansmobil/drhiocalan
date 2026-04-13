@@ -1,0 +1,41 @@
+{
+  "name": {
+    "tr": "Yasal Uyarı",
+    "en": "Legal Notice",
+    "de": "Rechtlicher Hinweis",
+    "ar": "إخلاء مسؤولية قانوني"
+  },
+  "status": "play",
+  "id": "yasaluyari",
+  "path": "yasal-uyari",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 7,
+  "icon": "home",
+  "description": {
+    "tr": "Yasal uyarılar ve kullanım koşulları.",
+    "en": "Legal notices and terms of use.",
+    "de": "Rechtliche Hinweise und Nutzungsbedingungen.",
+    "ar": "إخلاءات المسؤولية القانونية وشروط الاستخدام."
+  },
+  "keyword": {
+    "tr": "yasal uyarı, kullanım koşulları, hukuki",
+    "en": "legal notice, terms of use, legal",
+    "de": "rechtlicher hinweis, nutzungsbedingungen, rechtlich",
+    "ar": "إخلاء مسؤولية قانوني، شروط الاستخدام، قانوني"
+  },
+  "update": "2026-04-13T12:17:38.095Z",
+  "date": "2026-04-11T07:11:42.504Z",
+  "text": {
+    "tr": "<p>Yasal uyarı: web sitesinin kullanım koşulları ve yasal bilgilendirme.</p>\n<p>Bu web sitesi, Op. Dr. Halil İbrahim Öçalan tarafından sağlık hizmetleri hakkında bilgilendirme amacıyla hazırlanmıştır. Sitedeki bilgiler genel bilgilendirme amaçlıdır ve tıbbi tavsiye yerine geçmez. Teşhis ve tedavi için mutlaka uzman hekime başvurunuz. Web sitesi içeriği telif hakları ile korunmaktadır.</p>",
+    "en": "<p>Legal notice: terms of use of the website and legal information.</p>\n<p>This website has been prepared by Op. Dr. Halil İbrahim Öçalan for informational purposes about healthcare services. The information on the site is for general informational purposes and does not constitute medical advice. For diagnosis and treatment, you must consult a specialist physician. The website content is protected by copyright.</p>",
+    "de": "<p>Rechtlicher Hinweis: Nutzungsbedingungen der Website und rechtliche Informationen.</p>\n<p>Diese Website wurde von Op. Dr. Halil İbrahim Öçalan zu Informationszwecken über Gesundheitsdienstleistungen erstellt. Die Informationen auf der Website dienen allgemeinen Informationszwecken und stellen keine medizinische Beratung dar. Für Diagnose und Behandlung müssen Sie sich unbedingt an einen Facharzt wenden. Der Website-Inhalt ist durch Urheberrechte geschützt.</p>",
+    "ar": "<p>إشعار قانوني: شروط استخدام الموقع والمعلومات القانونية.</p>\n<p>تم إعداد هذا الموقع الإلكتروني بواسطة دكتور جراح خليل إبراهيم أوتشالان لأغراض إعلامية حول خدمات الرعاية الصحية. المعلومات الموجودة في الموقع هي لأغراض إعلامية عامة ولا تشكل نصيحة طبية. للتشخيص والعلاج، يجب عليك استشارة طبيب متخصص. محتوى الموقع محمي بحقوق النشر.</p>"
+  },
+  "slider": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "DR. Halil Öcalan",
+  "short_name": "DR. Halil Öc",
+  "description": "Op. Dr. Halil İbrahim Öçalan - Ortopedi ve Travmatoloji Uzmanı. Gaziantep'te profesyonel ortopedik tedavi, travma cerrahisi, spor cerrahisi, protez cerrahisi ve daha fazla konuda uzman hizmet.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo2.webp",
+      "sizes": "any",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}

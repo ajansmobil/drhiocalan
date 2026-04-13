@@ -1,0 +1,306 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menu 2",
+      "path": "code",
+      "local": "header",
+      "category": "code",
+      "id": "tep2ra",
+      "desing": {
+        "color": "#134E4A",
+        "bgcolor": "#FFFCF8",
+        "activebgcolor": "#B45309",
+        "activecolor": "#FFFBEB",
+        "clinical": "#0D9488",
+        "clinicalDark": "#0F766E",
+        "line": "rgba(28, 25, 23, 0.09)"
+      },
+      "version": "1.0.0",
+      "icon": "menu",
+      "data": []
+    },
+    {
+      "index": 1,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "menu",
+      "id": "vey1el",
+      "desing": {
+        "delay": 4500,
+        "margin": "0px 0 12px 0"
+      },
+      "version": "1.0.0",
+      "icon": "menu",
+      "data": [
+        {
+          "img": "1.webp"
+        },
+        {
+          "img": "2.webp"
+        },
+        {
+          "img": "3.webp"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "Ortopedi tedavi kartları",
+      "path": "code",
+      "local": "body",
+      "category": "code",
+      "id": "ebo4ww",
+      "desing": {
+        "page": "products",
+        "size": 4,
+        "category": "",
+        "margin": "0px",
+        "max": 8,
+        "containerWidth": "min(100%, 1080px)",
+        "bgcolor": "#F5F0E8",
+        "cardbg": "#FFFCF8",
+        "ink": "#1C1917",
+        "muted": "#78716C",
+        "clinical": "#0D9488",
+        "clinicalDark": "#0F766E",
+        "clinicalSoft": "rgba(13, 148, 136, 0.18)",
+        "line": "rgba(28, 25, 23, 0.09)",
+        "radiusCard": "14px",
+        "shadowCard": "0 2px 8px rgba(28, 25, 23, 0.06), 0 12px 32px rgba(15, 118, 110, 0.07)",
+        "shadowHover": "0 10px 24px rgba(28, 25, 23, 0.1), 0 20px 48px rgba(13, 148, 136, 0.14)",
+        "sectionEyebrow": {
+          "tr": "Ortopedi ve travmatoloji",
+          "en": "Orthopedics and traumatology",
+          "de": "Orthopädie und Unfallchirurgie",
+          "ar": "جراحة العظام والصدمات"
+        },
+        "sectionTitle": {
+          "tr": "Tedavi ve uygulamalar",
+          "en": "Treatments and procedures",
+          "de": "Behandlungen und Eingriffe",
+          "ar": "العلاجات والإجراءات"
+        },
+        "sectionLead": {
+          "tr": "Koruyucu yaklaşım, tanı ve cerrahi seçenekler hakkında güvenilir bilgiye buradan ulaşabilirsiniz.",
+          "en": "Find reliable information on preventive care, diagnosis and surgical options here.",
+          "de": "Zuverlässige Informationen zu Prävention, Diagnose und chirurgischen Optionen finden Sie hier.",
+          "ar": "اعثر هنا على معلومات موثوقة عن الوقاية والتشخيص والخيارات الجراحية."
+        },
+        "ctaLabel": {
+          "tr": "Detaylı bilgi",
+          "en": "Learn more",
+          "de": "Mehr erfahren",
+          "ar": "المزيد"
+        }
+      },
+      "version": "1.0.0",
+      "icon": "grid_view"
+    },
+    {
+      "index": 3,
+      "name": "YouTube şeridi",
+      "path": "code",
+      "local": "body",
+      "category": "code",
+      "id": "ytb4nd",
+      "desing": {
+        "channelUrl": "",
+        "bandTitle": "YouTube videoları",
+        "videoIds": [],
+        "bgcolor": "#134E4A",
+        "color": "#ECFEFF",
+        "accent": "#F59E0B",
+        "titlecolor": "#F0FDFA",
+        "padding": "25px 0px 25px 0px",
+        "margin": "0px 0px 0px 0px",
+        "border_radius": "10px",
+        "button": "true"
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset"
+    },
+    {
+      "index": 4,
+      "name": "Sosyal Media Slider",
+      "path": "code",
+      "local": "body",
+      "category": "code",
+      "id": "w8sz96",
+      "desing": {
+        "name": {
+          "tr": "Sosyal Medyada Biz",
+          "en": "Follow Us on Social Media",
+          "de": "Folgen Sie uns in den Sozialen Medien",
+          "ar": "تابعونا على وسائل التواصل"
+        },
+        "padding": "25px 0px 25px 0px",
+        "margin": "0px 0px 0px 0px",
+        "color": "#FFFBEB",
+        "bgcolor": "#115E59"
+      },
+      "data": [
+        {
+          "img": "/src/icon/facebook.png",
+          "name": "Facebook",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/instagram.png",
+          "name": "Instagram",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/linkedin.png",
+          "name": "LinkedIn",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/youtube.png",
+          "name": "YouTube",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/whatsapp.png",
+          "name": "WhatsApp",
+          "externalUrl": ""
+        }
+      ],
+      "version": "1.0.0",
+      "icon": "code"
+    },
+    {
+      "index": 5,
+      "name": "yan iletişim",
+      "path": "code",
+      "local": "body",
+      "category": "code",
+      "id": "o4ql3g",
+      "desing": {
+        "number": "905336437427",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "de": "Kontaktieren Sie uns",
+          "ar": "تواصل معنا"
+        },
+        "position": "fixed",
+        "color": "#25D366",
+        "z_index": 10000,
+        "custom_design": true,
+        "layout": "custom",
+        "customizable": true
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "code"
+    },
+    {
+      "index": 6,
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "id": "fhxr98",
+      "desing": {
+        "color": "#134E4A",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "de": "Kontaktieren Sie uns",
+          "ar": "اتصل بنا"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "+90 533 643 74 27",
+          "url": "tel:+905336437427"
+        },
+        {
+          "icon": "email",
+          "text": "drhalilocalan@gmail.com"
+        },
+        {
+          "icon": "map",
+          "text": "25 Aralık Mah. Tüfekçi Yusuf Bulvarı No: 98 Özel Deva Hastanesi Şahinbey/Gaziantep"
+        }
+      ],
+      "version": "1.0.0",
+      "icon": "contact_mail"
+    },
+    {
+      "index": 7,
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "id": "bi4hta",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#fff",
+        "color": "#134E4A",
+        "img": "map.png",
+        "externalUrl": ""
+      },
+      "version": "1.0.0",
+      "icon": "map"
+    },
+    {
+      "index": 8,
+      "name": "Kurumsal Sayfa Desing",
+      "path": "code",
+      "local": "body",
+      "category": "code",
+      "id": "tp5jo4",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#134E4A",
+        "menu-active": "#B45309",
+        "textcolor": "#fff"
+      },
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "index": 9,
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "id": "txt39m",
+      "desing": {
+        "color": "#FAFAF9",
+        "bgcolor": "#292524",
+        "img": "",
+        "imgwidth": "250px"
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset"
+    },
+    {
+      "index": 10,
+      "name": "Sayfa Listesi Column",
+      "path": "page-list-text-2",
+      "local": "body",
+      "category": "page-list",
+      "id": "jrpjnl",
+      "desing": {
+        "page": "products",
+        "sectionbg": "#1C1917",
+        "bgcolor": "#134E4A",
+        "color": "#FAFAF9",
+        "font-size": "18px",
+        "accent": "#F59E0B",
+        "desc-size": "14px"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Page Desing 5",
+  "desing": {
+    "height": "200",
+    "opacity": "0.5",
+    "font-size": "32",
+    "backgroundcolor": "#000",
+    "menu-active": "#000",
+    "textcolor": "#fff"
+  },
+  "category": "code",
+  "description": "Kompakt sayfa başlık ve hero banner modülü. Küçük font boyutu ile modern minimalist tasarım sunar. 7 farklı projede kullanılır: ajans, mobil uygulamalar, kargo, kurumsal, ambalaj, inşaat ve sağlık sektörlerinde. Kurumsal sayfalara özel kategori sistemi, aktif menü renklendirme ve responsive header yapısı içerir.",
+  "version": "1.0.0",
+  "icon": "web"
+}

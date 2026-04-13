@@ -1,0 +1,43 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About Us",
+    "de": "Über uns",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "person",
+  "description": {
+    "tr": "Op. Dr. Halil İbrahim Öçalan, Ortopedi ve Travmatoloji alanında uzman hekim. Gaziantep'te modern tıbbi hizmetler.",
+    "en": "Op. Dr. Halil Ibrahim Ocalan, specialist in Orthopedics and Traumatology. Modern medical services in Gaziantep.",
+    "de": "OP-Dr. Halil İbrahim Öçalan, Facharzt für Orthopädie und Unfallchirurgie. Moderne medizinische Dienstleistungen in Gaziantep.",
+    "ar": "دكتور جراح خليل إبراهيم أوتشالان، أخصائي في مجال العظام والصدمات. خدمات طبية حديثة في غازي عنتاب."
+  },
+  "keyword": {
+    "tr": "hakkımızda, dr halil öçalan, ortopedi uzmanı, gaziantep",
+    "en": "about us, dr halil ocalan, orthopedic specialist, gaziantep",
+    "de": "über uns, dr. halil oçalan, orthopädie-facharzt, gaziantep",
+    "ar": "من نحن، دكتور خليل أوشالان، أخصائي عظام، غازي عنتاب"
+  },
+  "update": "2026-04-13T12:17:38.041Z",
+  "date": "2026-04-11T07:11:42.467Z",
+  "title": {
+    "tr": "Op. Dr. Halil İbrahim Öçalan | Hakkımızda - Ortopedi ve Travmatoloji Uzmanı",
+    "en": "About Op. Dr. Halil Ibrahim Ocalan | Orthopedics and Traumatology Specialist",
+    "de": "Über OP-Dr. Halil Ibrahim Oçalan – Facharzt für Orthopädie und Unfallchirurgie",
+    "ar": "حول الدكتور جراح خليل إبراهيم أوتشالان | أخصائي العظام والصدمات"
+  },
+  "slider": []
+}

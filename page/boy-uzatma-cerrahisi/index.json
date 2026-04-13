@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Boy Uzatma Cerrahisi",
+    "en": "Limb Lengthening Surgery",
+    "de": "Beinverlängerungschirurgie",
+    "ar": "جراحة إطالة القامة"
+  },
+  "status": "play",
+  "id": "boy-uzatma-cerrahisi",
+  "path": "boy-uzatma-cerrahisi",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 7,
+  "icon": "height",
+  "description": {
+    "tr": "Boy uzatma cerrahisi: kemiklerin kontrollü uzatılması ile bacak kısalıkları ve boy eşitsizliklerinin tedavisi. Modern ortopedik yöntemler.",
+    "en": "Limb lengthening surgery: treatment of limb shortness and height discrepancies through controlled bone lengthening. Modern orthopedic methods.",
+    "de": "Beinverlängerungschirurgie: Behandlung von Beinverkürzungen und Größenunterschieden durch kontrollierte Knochenverlängerung. Moderne orthopädische Methoden.",
+    "ar": "جراحة إطالة القامة: علاج قصر الأطراف وعدم تساوي الطول من خلال إطالة العظام المتحكم بها. أساليب عظمية حديثة."
+  },
+  "keyword": {
+    "tr": "boy uzatma, kemik uzatma, bacak uzatma, bacak kısalığı, boy uzatma ameliyatı, eksternal fiksatör, gaziantep",
+    "en": "limb lengthening, bone lengthening, leg lengthening, limb shortness, lengthening surgery, external fixator, gaziantep",
+    "de": "Beinverlängerung, Knochenverlängerung, Beinverkürzung, Verlängerungschirurgie, externer Fixateur, Gaziantep",
+    "ar": "إطالة القامة، إطالة العظام، إطالة الساق، قصر الأطراف، جراحة الإطالة، المثبت الخارجي، غازي عنتاب"
+  },
+  "update": "2026-04-13T12:17:38.033Z",
+  "date": "2026-04-13T12:00:00.000Z",
+  "title": {
+    "tr": "Boy Uzatma Cerrahisi | Op. Dr. Halil İbrahim Öçalan - Gaziantep",
+    "en": "Limb Lengthening Surgery | Op. Dr. Halil Ibrahim Ocalan - Gaziantep",
+    "de": "Beinverlängerungschirurgie | OP-Dr. Halil Ibrahim Oçalan - Gaziantep",
+    "ar": "جراحة إطالة القامة | دكتور جراح خليل إبراهيم أوتشالان - غازي عنتاب"
+  },
+  "slider": [],
+  "text": {
+    "tr": "<article class=\"page-rich-text\"><h2>Boy Uzatma Cerrahisi Nedir?</h2><p>Boy uzatma cerrahisi; kemiklerin kontrollü uzatılması ile bacak kısalıkları, boy eşitsizlikleri ve seçili deformitelerin tedavisinde kullanılan modern ortopedik yöntemlerdir. Estetik beklentilerde de değerlendirilebilir.</p><p>Kemik kontrollü kesildikten sonra özel cihaz veya implantlarla yavaş uzatma yapılır; kemik dokusu yenilenerek uzama sağlanır.</p><h2>Endikasyonlar</h2><ul><li>Bacak boyu eşitsizliği</li><li>Doğuştan kemik kısalıkları</li><li>Travma sonrası kısalık</li><li>Kemik deformiteleri</li><li>Seçilmiş estetik başvurular</li></ul><h2>Yöntemler</h2><ul><li>Eksternal fiksatör</li><li>İntramedüller uzatma çivileri</li><li>Kemik düzeltme ve uzatma kombinasyonları</li></ul><h2>Sonrası</h2><p>Uzatma sürecinde düzenli kontrol ve fizik tedavi önemlidir. Bacak uzunluk farkı veya kısalık için Ortopedi ve Travmatoloji Uzmanı değerlendirmesi en doğru yaklaşımdır.</p></article>",
+    "en": "<article class=\"page-rich-text\"><h2>Limb Lengthening</h2><p>Controlled bone lengthening to treat leg length discrepancy, short stature after trauma or congenital conditions, and selected deformities. Cosmetic lengthening may be considered in selected cases.</p><h2>Indications</h2><ul><li>Leg length inequality</li><li>Congenital shortening</li><li>Post-traumatic shortening</li><li>Deformity correction</li></ul><h2>Methods</h2><ul><li>External fixators</li><li>Intramedullary lengthening nails</li><li>Combined osteotomy and lengthening</li></ul><p>Follow-up and physiotherapy are essential during distraction.</p></article>",
+    "de": "<article class=\"page-rich-text\"><h2>Beinverlängerung</h2><p>Kontrollierte Knochenverlängerung bei Beinlängendifferenz, angeborener oder posttraumatischer Verkürzung und ausgewählten Deformitäten.</p><ul><li>Beinlängendifferenz</li><li>angeborene Verkürzung</li><li>nach Frakturen</li></ul><h2>Methoden</h2><ul><li>externe Fixateure</li><li>marknagelgestützte Verlängerung</li></ul><p>Regelmäßige Kontrollen und Physiotherapie sind wichtig.</p></article>",
+    "ar": "<article class=\"page-rich-text\" dir=\"rtl\"><h2>جراحة إطالة القامة</h2><p>إطالة العظم بشكل متحكم لعلاج تفاوت طول الأطراف أو القصر بعد الصدمة أو التشوهات الخلقية.</p><ul><li>اختلاف طول الساقين</li><li>قصر خلقي أو بعد الكسر</li></ul><h2>طرق</h2><ul><li>جهاز خارجي</li><li>مسامير إطالة داخل النخاع</li></ul><p>المتابعة والعلاج الطبيعي ضروريان أثناء الإطالة.</p></article>"
+  }
+}

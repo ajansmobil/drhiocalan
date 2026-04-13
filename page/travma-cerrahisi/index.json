@@ -1,0 +1,42 @@
+{
+  "name": {
+    "tr": "Travma Cerrahisi",
+    "en": "Trauma Surgery",
+    "de": "Unfallchirurgie",
+    "ar": "جراحة الصدمات"
+  },
+  "status": "play",
+  "id": "travma-cerrahisi",
+  "path": "travma-cerrahisi",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "emergency",
+  "description": {
+    "tr": "Travma cerrahisi: kırık, çıkık, bağ yaralanmaları ve yumuşak doku hasarlarının cerrahi ve cerrahi dışı tedavisi. Gaziantep'te uzman hizmet.",
+    "en": "Trauma surgery: surgical and non-surgical treatment of fractures, dislocations, ligament injuries and soft tissue damage. Expert care in Gaziantep.",
+    "de": "Unfallchirurgie: chirurgische und konservative Behandlung von Frakturen, Luxationen, Bandverletzungen und Weichteilschäden. Fachärztliche Versorgung in Gaziantep.",
+    "ar": "جراحة الصدمات: العلاج الجراحي وغير الجراحي للكسور والخلع وإصابات الأربطة وتلف الأنسجة الرخوة. رعاية متخصصة في غازي عنتاب."
+  },
+  "keyword": {
+    "tr": "travma cerrahisi, kırık tedavisi, çıkık tedavisi, bağ yaralanması, ortopedik travma, gaziantep",
+    "en": "trauma surgery, fracture treatment, dislocation treatment, ligament injury, orthopedic trauma, gaziantep",
+    "de": "Unfallchirurgie, Frakturbehandlung, Luxationsbehandlung, Bandverletzung, orthopädisches Trauma, Gaziantep",
+    "ar": "جراحة الصدمات، علاج الكسور، علاج الخلع، إصابة الأربطة، صدمات العظام، غازي عنتاب"
+  },
+  "update": "2026-04-13T12:17:37.971Z",
+  "date": "2026-04-13T12:00:00.000Z",
+  "title": {
+    "tr": "Travma Cerrahisi | Op. Dr. Halil İbrahim Öçalan - Gaziantep",
+    "en": "Trauma Surgery | Op. Dr. Halil Ibrahim Ocalan - Gaziantep",
+    "de": "Unfallchirurgie | OP-Dr. Halil Ibrahim Oçalan - Gaziantep",
+    "ar": "جراحة الصدمات | دكتور جراح خليل إبراهيم أوتشالان - غازي عنتاب"
+  },
+  "slider": [],
+  "img": "kart.webp"
+}

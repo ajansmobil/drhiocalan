@@ -1,0 +1,21 @@
+{
+  "name": "YouTube şeridi",
+  "description": "Yatay kaydırmalı YouTube gömülü oynatıcılar; videoIds + kanal URL’si. Dr. Öçalan sitesinde kanal ve videolar modules.json üzerinden doldurulur.",
+  "version": "1.0.0",
+  "icon": "smart_display",
+  "category": "code",
+  "desing": {
+    "channelUrl": "",
+    "bandTitle": "YouTube videoları",
+    "videoIds": [],
+    "bgcolor": "#0d1926",
+    "color": "#e2e8f0",
+    "accent": "#F59E0B",
+    "titlecolor": "#e2e8f0",
+    "padding": "25px 0px 25px 0px",
+    "margin": "0px 0px 0px 0px",
+    "border_radius": "10px",
+    "button": "true"
+  },
+  "data": []
+}

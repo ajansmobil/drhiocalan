@@ -1,0 +1,36 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Op. Dr. Halil İbrahim Öçalan - Ortopedi ve Travmatoloji Uzmanı. Gaziantep'te profesyonel ortopedik tedavi, travma cerrahisi, spor cerrahisi, protez cerrahisi ve daha fazla konuda uzman hizmet.",
+    "en": "Op. Dr. Halil İbrahim Öçalan - Orthopedics and Traumatology Specialist. Professional orthopedic treatment, trauma surgery, sports surgery, prosthetic surgery, and specialized services on many other topics in Gaziantep.",
+    "de": "OP-Dr. Halil İbrahim Öçalan – Facharzt für Orthopädie und Unfallchirurgie. In Gaziantep professionelle orthopädische Behandlung, Unfallchirurgie, Sportchirurgie, Prothesenchirurgie sowie weitere Spezialgebiete mit fachkundiger Expertise.",
+    "ar": "دكتور جراح خليل إبراهيم أوتشالان - أخصائي العظام والصدمات. علاج عظمي احترافي، وجراحة صدمات، وجراحة رياضية، وجراحة تعويضات، وخدمات متخصصة في مجالات إضافية بمدينة غازي عنتاب."
+  },
+  "keyword": {
+    "tr": "ortopedi, travmatoloji, gaziantep ortopedi, diz protezi, kalça protezi, spor cerrahisi, el cerrahisi, artroskopi, dr halil öçalan",
+    "en": "Orthopedics, Traumatology, Gaziantep orthopedics, Knee replacement, Hip replacement, Sports surgery, Hand surgery, Arthroscopy, Dr. Halil Öçalan",
+    "de": "Orthopädie, Traumatologie, Orthopädie Gaziantep, Knieprothese, Hüftprothese, Sportchirurgie, Handchirurgie, Arthroskopie, Dr. Halil Öçalan",
+    "ar": "جراحة العظام، جراحة الصدمات، جراحات عظام غازي عنتاب، زراعة مفصل الركبة، زراعة مفصل الورك، جراحة الرياضة، جراحة اليد، تنظير المفاصل، دكتور خليل أوشالان"
+  },
+  "category": "Kurumsal",
+  "name": "DR. Halil Öcalan",
+  "domain": "drhiocalan.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "de": true,
+    "ar": true,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo2.webp",
+  "multi": false,
+  "eticaret": false
+}

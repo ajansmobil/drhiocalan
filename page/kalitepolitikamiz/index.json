@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Our Quality Policy",
+    "de": "Unsere Qualitätsrichtlinie",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalite-politikamiz",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 3,
+  "icon": "home",
+  "description": {
+    "tr": "Hastalarımıza en iyi hizmeti sunmak için sürekli iyileştirme politikası izliyoruz.",
+    "en": "We follow a continuous improvement policy to provide the best service to our patients.",
+    "de": "Wir verfolgen eine kontinuierliche Verbesserungsrichtlinie, um unseren Patienten den besten Service zu bieten.",
+    "ar": "نحن نتبع سياسة التحسين المستمر لتوفير أفضل خدمة لمرضانا."
+  },
+  "keyword": {
+    "tr": "kalite politikası, iyileştirme, hasta memnuniyeti",
+    "en": "quality policy, improvement, patient satisfaction",
+    "de": "qualitätsrichtlinie, verbesserung, patientenzufriedenheit",
+    "ar": "سياسة الجودة، التحسين، رضا المرضى"
+  },
+  "update": "2026-04-13T12:17:38.064Z",
+  "date": "2026-04-11T07:11:42.482Z",
+  "title": {
+    "tr": "Kalite Politikamız",
+    "en": "Our Quality Policy",
+    "de": "Unsere Qualitätsrichtlinie",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "text": {
+    "tr": "<h2>Kalite Politikamız</h2><p>Op. Dr. Halil İbrahim Öçalan olarak kalite politikamız, ortopedi ve travmatoloji alanında sunduğumuz sağlık hizmetlerini sürekli iyileştirmek, hasta güvenliğini en üst düzeyde tutmak ve her hastaya en yüksek standartlarda tedavi hizmeti sunmaktır.</p><h3>Kalite İlkelerimiz</h3><ul><li><strong>Hasta Güvenliği:</strong> Tüm tedavi süreçlerinde hasta güvenliğini ön planda tutarak, risk yönetimi ve enfeksiyon kontrol protokollerine uyuyoruz.</li><li><strong>Kanıta Dayalı Tedavi:</strong> Güncel bilimsel veriler ve klinik araştırmalara dayalı tedavi yöntemlerini uyguluyoruz.</li><li><strong>Sürekli İyileştirme:</strong> Hizmet kalitemizi düzenli olarak değerlendiriyor ve iyileştirme fırsatlarını tespit ederek uyguluyoruz.</li><li><strong>Hasta Memnuniyeti:</strong> Hastalarımızın geri bildirimlerini dikkate alarak, hizmet süreçlerimizi sürekli geliştiriyoruz.</li><li><strong>Etik Değerler:</strong> Tıbbi etik ilkelere bağlı kalarak, dürüst ve şeffaf bir sağlık hizmeti anlayışı benimsiyoruz.</li><li><strong>Mesleki Gelişim:</strong> Sürekli eğitim ve mesleki gelişim faaliyetleri ile bilgi birikimimizi güncel tutuyoruz.</li></ul>",
+    "en": "<h2>Our Quality Policy</h2><p>As Op. Dr. Halil Ibrahim Ocalan, our quality policy is to continuously improve the healthcare services we provide in orthopedics and traumatology, maintain patient safety at the highest level, and offer every patient the highest standard of treatment.</p><h3>Our Quality Principles</h3><ul><li><strong>Patient Safety:</strong> We prioritize patient safety in all treatment processes, adhering to risk management and infection control protocols.</li><li><strong>Evidence-Based Treatment:</strong> We apply treatment methods based on current scientific data and clinical research.</li><li><strong>Continuous Improvement:</strong> We regularly evaluate our service quality and identify and implement improvement opportunities.</li><li><strong>Patient Satisfaction:</strong> We continuously develop our service processes by taking our patients' feedback into account.</li><li><strong>Ethical Values:</strong> We adopt an honest and transparent healthcare approach, adhering to medical ethical principles.</li><li><strong>Professional Development:</strong> We keep our knowledge up to date through continuous education and professional development activities.</li></ul>",
+    "de": "<h2>Unsere Qualitätspolitik</h2><p>Als OP-Dr. Halil Ibrahim Ocalan ist es unsere Qualitätspolitik, die von uns angebotenen Gesundheitsdienstleistungen in der Orthopädie und Unfallchirurgie kontinuierlich zu verbessern, die Patientensicherheit auf höchstem Niveau zu halten und jedem Patienten eine Behandlung nach höchsten Standards zu bieten.</p><h3>Unsere Qualitätsgrundsätze</h3><ul><li><strong>Patientensicherheit:</strong> Wir priorisieren die Patientensicherheit in allen Behandlungsprozessen.</li><li><strong>Evidenzbasierte Behandlung:</strong> Wir wenden Behandlungsmethoden an, die auf aktuellen wissenschaftlichen Daten basieren.</li><li><strong>Kontinuierliche Verbesserung:</strong> Wir bewerten regelmäßig unsere Servicequalität und setzen Verbesserungen um.</li><li><strong>Patientenzufriedenheit:</strong> Wir entwickeln unsere Serviceprozesse durch Berücksichtigung von Patientenfeedback weiter.</li><li><strong>Ethische Werte:</strong> Wir pflegen einen ehrlichen und transparenten Gesundheitsansatz.</li><li><strong>Berufliche Entwicklung:</strong> Wir halten unser Wissen durch kontinuierliche Fortbildung aktuell.</li></ul>",
+    "ar": "<h2>سياسة الجودة لدينا</h2><p>بصفتنا الدكتور جراح خليل إبراهيم أوتشالان، سياسة الجودة لدينا هي تحسين خدمات الرعاية الصحية التي نقدمها في مجال جراحة العظام والصدمات باستمرار، والحفاظ على سلامة المرضى على أعلى مستوى، وتقديم أعلى معايير العلاج لكل مريض.</p><h3>مبادئ الجودة لدينا</h3><ul><li><strong>سلامة المرضى:</strong> نعطي الأولوية لسلامة المرضى في جميع عمليات العلاج.</li><li><strong>العلاج القائم على الأدلة:</strong> نطبق طرق العلاج المستندة إلى البيانات العلمية الحالية.</li><li><strong>التحسين المستمر:</strong> نقيم جودة خدماتنا بانتظام وننفذ فرص التحسين.</li><li><strong>رضا المرضى:</strong> نطور عمليات خدماتنا باستمرار من خلال مراعاة ملاحظات مرضانا.</li><li><strong>القيم الأخلاقية:</strong> نتبنى نهج رعاية صحية صادق وشفاف.</li><li><strong>التطوير المهني:</strong> نحافظ على تحديث معرفتنا من خلال التعليم المستمر.</li></ul>"
+  }
+}

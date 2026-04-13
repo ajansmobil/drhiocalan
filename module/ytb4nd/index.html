@@ -1,0 +1,202 @@
+
+<div class="ytb4ndmodulexbody">
+  <div class="ytb4ndmodulex">
+    
+    <div class="ytb4ndmodulextitle">{{name}}</div>
+    {{channel_html}}
+    
+    <div class="modulex swiper-container ytb4nd-modulex-swiper">
+      <div class="swiper-wrapper">{{html}}</div>
+      <div
+        class="swiper-button-next swiper-button-next-ytb4nd-modulex"
+        aria-hidden="true"
+      ></div>
+      <div
+        class="swiper-button-prev swiper-button-prev-ytb4nd-modulex"
+        aria-hidden="true"
+      ></div>
+      <div class="swiper-pagination swiper-pagination-ytb4nd-modulex"></div>
+    </div>
+  </div>
+</div>
+<style>
+  
+  .ytb4ndmodulexbody {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: --bgcolor--;
+    padding: --padding--;
+    margin: --margin--;
+  }
+  .ytb4ndmodulex {
+    width: var(--max);
+    margin: 10px 0;
+  }
+  @media screen and (max-width: 1024px) {
+    .ytb4ndmodulex {
+      width: 100%;
+    }
+  }
+
+  
+  .ytb4ndmodulextitle {
+    width: 100%;
+    font-size: clamp(1.125rem, 2.5vw, 1.5rem);
+    font-weight: 500;
+    color: --titlecolor--;
+  }
+  .ytb4ndmodulexchannel {
+    width: 100%;
+    margin: 8px 0 12px;
+  }
+  .ytb4ndmodulexchannel a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border-radius: --border_radius--;
+    background: --accent--;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+  .ytb4ndmodulexchannel a:hover {
+    filter: brightness(1.08);
+  }
+
+  
+  .modulex {
+    overflow: hidden;
+  }
+  .modulex::-webkit-scrollbar {
+    display: none;
+  }
+  .swiper-pagination-ytb4nd-modulex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px !important;
+    position: relative;
+  }
+  .swiper-button-prev-ytb4nd-modulex,
+  .swiper-button-next-ytb4nd-modulex {
+    color: --color--;
+    font-size: 28px;
+    font-weight: bold;
+    z-index: 10;
+    opacity: 0.4;
+    cursor: pointer;
+  }
+  .ytb4nd-modulex-swiper .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .ytb4nd-modulex-swiper .swiper-pagination-bullet {
+    background: rgba(255, 255, 255, 0.4);
+    opacity: 1;
+    cursor: pointer;
+  }
+  .ytb4nd-modulex-swiper .swiper-pagination-bullet-active {
+    background: --accent--;
+  }
+
+  
+  .ytb4nd-frame {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    aspect-ratio: 16 / 9;
+    border-radius: --border_radius--;
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 5px 11px rgba(0, 0, 0, 0.4);
+  }
+  .ytb4nd-frame iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+<script>
+  
+  setTimeout(function ytb4ndSwiperBoot() {
+    var rootSel = ".ytb4nd-modulex-swiper";
+    var maxTry = 24;
+    var intervalMs = 250;
+    var n = 0;
+    var timer = setInterval(function () {
+      n++;
+      if (typeof Swiper !== "function") {
+        if (n >= maxTry) {
+          clearInterval(timer);
+          console.warn("ytb4nd: Swiper yüklenemedi, slayt başlatılamadı.");
+        }
+        return;
+      }
+      clearInterval(timer);
+      var jsonslider = {
+        slidesPerView: 1,
+        spaceBetween: 24,
+        simulateTouch: true,
+        loop: __YT_LOOP__,
+        speed: 500,
+        autoplay: __YT_AUTOPLAY__,
+        pagination: {
+          el: ".swiper-pagination-ytb4nd-modulex",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: ".swiper-button-next-ytb4nd-modulex",
+          prevEl: ".swiper-button-prev-ytb4nd-modulex",
+        },
+        
+        on: {
+          slideChange: function ytb4ndOnSlideChangePauseOthers() {
+            var box = document.querySelector(rootSel);
+            if (!box) {
+              return;
+            }
+            var pausePayload = '{"event":"command","func":"pauseVideo","args":""}';
+            var allSlides = box.querySelectorAll(".swiper-slide");
+            var s = 0;
+            for (s = 0; s < allSlides.length; s++) {
+              var oneSlide = allSlides[s];
+              if (oneSlide.classList.contains("swiper-slide-active")) {
+                continue;
+              }
+              var frame = oneSlide.querySelector("iframe");
+              if (!frame || !frame.contentWindow) {
+                continue;
+              }
+              try {
+                frame.contentWindow.postMessage(pausePayload, "*");
+              } catch (errPause) {
+                
+              }
+            }
+          },
+        },
+      };
+      if ("{{button}}" !== "true") {
+        var btnNext = document.querySelector(".swiper-button-next-ytb4nd-modulex");
+        var btnPrev = document.querySelector(".swiper-button-prev-ytb4nd-modulex");
+        if (btnNext) {
+          btnNext.style.display = "none";
+        }
+        if (btnPrev) {
+          btnPrev.style.display = "none";
+        }
+      }
+      new Swiper(rootSel, jsonslider);
+    }, intervalMs);
+  }, 500);
+</script>

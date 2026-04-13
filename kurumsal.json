@@ -1,0 +1,240 @@
+{
+  "name": "Kurumsal",
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About Us",
+        "de": "Über uns",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "desc": {},
+      "index": 0,
+      "icon": "person",
+      "description": {
+        "tr": "Op. Dr. Halil İbrahim Öçalan, Ortopedi ve Travmatoloji alanında uzman hekim. Gaziantep'te modern tıbbi hizmetler.",
+        "en": "Op. Dr. Halil Ibrahim Ocalan, specialist in Orthopedics and Traumatology. Modern medical services in Gaziantep.",
+        "de": "OP-Dr. Halil İbrahim Öçalan, Facharzt für Orthopädie und Unfallchirurgie. Moderne medizinische Dienstleistungen in Gaziantep.",
+        "ar": "دكتور جراح خليل إبراهيم أوتشالان، أخصائي في مجال العظام والصدمات. خدمات طبية حديثة في غازي عنتاب."
+      },
+      "keyword": {
+        "tr": "hakkımızda, dr halil öçalan, ortopedi uzmanı, gaziantep",
+        "en": "about us, dr halil ocalan, orthopedic specialist, gaziantep",
+        "de": "über uns, dr. halil oçalan, orthopädie-facharzt, gaziantep",
+        "ar": "من نحن، دكتور خليل أوشالان، أخصائي عظام، غازي عنتاب"
+      },
+      "update": "2026-04-13T12:17:38.041Z",
+      "date": "2026-04-11T07:11:42.467Z",
+      "title": {
+        "tr": "Op. Dr. Halil İbrahim Öçalan | Hakkımızda - Ortopedi ve Travmatoloji Uzmanı",
+        "en": "About Op. Dr. Halil Ibrahim Ocalan | Orthopedics and Traumatology Specialist",
+        "de": "Über OP-Dr. Halil Ibrahim Oçalan – Facharzt für Orthopädie und Unfallchirurgie",
+        "ar": "حول الدكتور جراح خليل إبراهيم أوتشالان | أخصائي العظام والصدمات"
+      },
+      "slider": []
+    },
+    {
+      "name": {
+        "tr": "Misyon",
+        "en": "Mission",
+        "de": "Mission",
+        "ar": "الرؤية"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyon",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1,
+      "icon": "home",
+      "description": {
+        "tr": "Misyonumuz, hastalarımıza en kaliteli ortopedik hizmeti sunmak ve yaşam kalitelerini artırmaktır.",
+        "en": "Our mission is to provide our patients with the highest quality orthopedic service and improve their quality of life.",
+        "de": "Unsere Mission ist es, unseren Patienten die höchstwertige orthopädische Versorgung zu bieten und ihre Lebensqualität zu verbessern.",
+        "ar": "مهمتنا هي تزويد مرضى بأعلى جودة من الخدمة العظمية وتحسين جودة حياتهم."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Vizyon",
+        "en": "Vision",
+        "de": "Vision",
+        "ar": "الرؤية"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyon",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2,
+      "icon": "home",
+      "description": {
+        "tr": "Vizyonumuz, Gaziantep ve çevresinde ortopedi alanında referans hastane olmak ve en son teknoloji tedavi yöntemlerini uygulamaktır.",
+        "en": "Our vision is to become a reference hospital in orthopedics in Gaziantep and surrounding areas and apply the latest technology treatment methods.",
+        "de": "Unsere Vision ist es, in Gaziantep und Umgebung ein Referenzkrankenhaus für Orthopädie zu werden und modernste Behandlungsmethoden anzuwenden.",
+        "ar": "رؤيتنا أن نكون مستشفى مرجعي في مجال العظام في غازي عنتاب والمناطق المحيطة وتطبيق أحدث تقنيات العلاج."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız",
+        "en": "Our Quality Policy",
+        "de": "Unsere Qualitätsrichtlinie",
+        "ar": "سياسة الجودة لدينا"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalite-politikamiz",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3,
+      "icon": "home",
+      "description": {
+        "tr": "Hastalarımıza en iyi hizmeti sunmak için sürekli iyileştirme politikası izliyoruz.",
+        "en": "We follow a continuous improvement policy to provide the best service to our patients.",
+        "de": "Wir verfolgen eine kontinuierliche Verbesserungsrichtlinie, um unseren Patienten den besten Service zu bieten.",
+        "ar": "نحن نتبع سياسة التحسين المستمر لتوفير أفضل خدمة لمرضانا."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy",
+        "de": "Datenschutzerklärung",
+        "ar": "سياسة الخصوصية"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilik-politikasi",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4,
+      "icon": "home",
+      "description": {
+        "tr": "Kişisel verileriniz güvence altındadır. KVKK uyumlu veri işleme politikamız.",
+        "en": "Your personal data is secure. Our data processing policy compliant with KVKK.",
+        "de": "Ihre persönlichen Daten sind sicher. Unsere Datenschutzrichtlinie in Übereinstimmung mit KVKK.",
+        "ar": "بياناتك الشخصية آمنة. سياسة معالجة البيانات الخاصة بنا متوافقة مع KVKK."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "de": "Personendaten",
+        "ar": "البيانات الشخصية"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisisel-veriler",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5,
+      "icon": "home",
+      "description": {
+        "tr": "Kişisel verilerinizin korunması ve işlenmesi hakkında bilgiler.",
+        "en": "Information about the protection and processing of your personal data.",
+        "de": "Informationen zum Schutz und zur Verarbeitung Ihrer Personendaten.",
+        "ar": "معلومات حول حماية ومعالجة بياناتك الشخصية."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights",
+        "de": "Benutzerrechte",
+        "ar": "حقوق المستخدمين"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanici-haklari",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6,
+      "icon": "home",
+      "description": {
+        "tr": "Hasta hakları ve kullanım koşulları hakkında bilgiler.",
+        "en": "Information about patient rights and terms of use.",
+        "de": "Informationen über Patientenrechte und Nutzungsbedingungen.",
+        "ar": "معلومات حول حقوق المرضى وشروط الاستخدام."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı",
+        "en": "Legal Notice",
+        "de": "Rechtlicher Hinweis",
+        "ar": "إخلاء مسؤولية قانوني"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasal-uyari",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7,
+      "icon": "home",
+      "description": {
+        "tr": "Yasal uyarılar ve kullanım koşulları.",
+        "en": "Legal notices and terms of use.",
+        "de": "Rechtliche Hinweise und Nutzungsbedingungen.",
+        "ar": "إخلاءات المسؤولية القانونية وشروط الاستخدام."
+      },
+      "desc": {}
+    }
+  ],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4"
+    ],
+    "footer": []
+  }
+}

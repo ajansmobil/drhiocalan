@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Deformite Cerrahisi",
+    "en": "Deformity Surgery",
+    "de": "Deformitätenchirurgie",
+    "ar": "جراحة التشوهات"
+  },
+  "status": "play",
+  "id": "deformite-cerrahisi",
+  "path": "deformite-cerrahisi",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 6,
+  "icon": "straighten",
+  "description": {
+    "tr": "Deformite cerrahisi: kemik ve eklemlerdeki şekil bozukluklarının cerrahi düzeltilmesi. Bacak eğrilikleri, uzunluk farkları ve eklem sorunları.",
+    "en": "Deformity surgery: surgical correction of bone and joint deformities. Leg curvatures, length discrepancies and joint problems.",
+    "de": "Deformitätenchirurgie: chirurgische Korrektur von Knochen- und Gelenkdeformitäten. Beinverkrümmungen, Längendifferenzen und Gelenkprobleme.",
+    "ar": "جراحة التشوهات: التصحيح الجراحي لتشوهات العظام والمفاصل. انحناءات الساق وفروق الطول ومشاكل المفاصل."
+  },
+  "keyword": {
+    "tr": "deformite cerrahisi, kemik eğriliği, bacak eğriliği, O bacak, X bacak, osteotomi, bacak uzunluk farkı, gaziantep",
+    "en": "deformity surgery, bone curvature, leg curvature, bow legs, knock knees, osteotomy, leg length discrepancy, gaziantep",
+    "de": "Deformitätenchirurgie, Knochenverkrümmung, Beinverkrümmung, O-Beine, X-Beine, Osteotomie, Beinlängendifferenz, Gaziantep",
+    "ar": "جراحة التشوهات، انحناء العظام، انحناء الساق، تقوس الساقين، الركبة الفحجاء، قطع العظم، فرق طول الساق، غازي عنتاب"
+  },
+  "update": "2026-04-13T12:17:38.024Z",
+  "date": "2026-04-13T12:00:00.000Z",
+  "title": {
+    "tr": "Deformite Cerrahisi | Op. Dr. Halil İbrahim Öçalan - Gaziantep",
+    "en": "Deformity Surgery | Op. Dr. Halil Ibrahim Ocalan - Gaziantep",
+    "de": "Deformitätenchirurgie | OP-Dr. Halil Ibrahim Oçalan - Gaziantep",
+    "ar": "جراحة التشوهات | دكتور جراح خليل إبراهيم أوتشالان - غازي عنتاب"
+  },
+  "slider": [],
+  "text": {
+    "tr": "<article class=\"page-rich-text\"><h2>Deformite Cerrahisi Nedir?</h2><p>Deformite cerrahisi; kemik ve eklemlerde doğuştan veya sonradan gelişen şekil bozukluklarının cerrahi olarak düzeltilmesidir. Eğrilikler, kısalıklar ve hizalanma bozuklukları ağrı ve fonksiyon kaybına yol açabilir.</p><h2>Deformite Nedenleri</h2><ul><li>Doğumsal kemik ve eklem bozuklukları</li><li>Kırık sonrası yanlış kaynama</li><li>Büyüme plağı hasarı</li><li>Enfeksiyon ve romatizmal hastalıklar</li></ul><h2>Uygulama Alanları</h2><ul><li>Bacak eğrilikleri (O-X bacak)</li><li>Bacak uzunluk farkı</li><li>Yanlış kaynamış kırıklar</li><li>Diz ve kalça hizalanma bozuklukları</li><li>Doğumsal deformiteler</li></ul><h2>Yöntemler</h2><ul><li>Osteotomi (kemik düzeltme)</li><li>Uzatma teknikleri</li><li>Plak, vida veya çivi ile tespit</li><li>Eklem hizalamasını düzeltme</li></ul><p>Amaç ağrısız hareket ve yaşam kalitesidir. Eğrilik veya uzunluk farkı şikayetlerinde uzman değerlendirmesi önemlidir.</p></article>",
+    "en": "<article class=\"page-rich-text\"><h2>Deformity Correction Surgery</h2><p>Surgical correction of congenital or acquired bone and joint deformities to restore alignment, length and function.</p><h2>Common Causes</h2><ul><li>Congenital malalignment</li><li>Malunited fractures</li><li>Growth plate injury</li><li>Infection or inflammatory disease</li></ul><h2>Examples</h2><ul><li>Angular deformities (bow legs, knock knees)</li><li>Leg length discrepancy</li><li>Hip and knee malalignment</li></ul><h2>Techniques</h2><ul><li>Osteotomy</li><li>Lengthening procedures</li><li>Internal fixation</li></ul></article>",
+    "de": "<article class=\"page-rich-text\"><h2>Deformitätenchirurgie</h2><p>Korrektur angeborener oder erworbener Knochen- und Gelenkfehlstellungen zur Verbesserung von Belastung und Funktion.</p><ul><li>Fehlstellungen nach Frakturen</li><li>Wachstumsstörungen</li><li>Beinlängendifferenz, O-/X-Bein</li></ul><h2>Verfahren</h2><ul><li>Osteotomie</li><li>Verlängerungsverfahren</li><li>Osteosynthese</li></ul></article>",
+    "ar": "<article class=\"page-rich-text\" dir=\"rtl\"><h2>جراحة التشوهات</h2><p>تصحيح تشوهات العظام والمفاصل الخلقية أو المكتسبة لاستعادة المحاذاة والطول والوظيفة.</p><ul><li>سوء التئام الكسور</li><li>فروق طول الأطراف</li><li>اعوجاج الساقين</li></ul><h2>تقنيات</h2><ul><li>قطع العظم وتدويره</li><li>إطالة العظم</li><li>تثبيت داخلي</li></ul></article>"
+  }
+}

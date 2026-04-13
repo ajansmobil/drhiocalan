@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Gizlilik Politikası",
+    "en": "Privacy Policy",
+    "de": "Datenschutzerklärung",
+    "ar": "سياسة الخصوصية"
+  },
+  "status": "play",
+  "id": "gizlilikpolitikasi",
+  "path": "gizlilik-politikasi",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 4,
+  "icon": "home",
+  "description": {
+    "tr": "Kişisel verileriniz güvence altındadır. KVKK uyumlu veri işleme politikamız.",
+    "en": "Your personal data is secure. Our data processing policy compliant with KVKK.",
+    "de": "Ihre persönlichen Daten sind sicher. Unsere Datenschutzrichtlinie in Übereinstimmung mit KVKK.",
+    "ar": "بياناتك الشخصية آمنة. سياسة معالجة البيانات الخاصة بنا متوافقة مع KVKK."
+  },
+  "keyword": {
+    "tr": "gizlilik politikası, kvkk, veri koruma",
+    "en": "privacy policy, data protection, kvkk compliance",
+    "de": "datenschutzrichtlinie, datenschutz, kvkk konformität",
+    "ar": "سياسة الخصوصية، حماية البيانات، الامتثال KVKK"
+  },
+  "update": "2026-04-13T12:17:38.072Z",
+  "date": "2026-04-11T07:11:42.489Z",
+  "title": {
+    "tr": "Gizlilik Politikası",
+    "en": "Privacy Policy",
+    "de": "Datenschutzerklärung",
+    "ar": "سياسة الخصوصية"
+  },
+  "text": {
+    "tr": "<h2>Gizlilik Politikası</h2><p>Op. Dr. Halil İbrahim Öçalan web sitesini ziyaret ettiğinizde gizliliğiniz bizim için önemlidir. Bu gizlilik politikası, kişisel verilerinizin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır.</p><h3>Toplanan Bilgiler</h3><p>Web sitemizi ziyaret ettiğinizde aşağıdaki bilgiler toplanabilir:</p><ul><li>İletişim formu aracılığıyla gönderdiğiniz ad, e-posta adresi ve telefon numarası</li><li>Randevu talebi sırasında verdiğiniz kişisel bilgiler</li><li>Web sitesi kullanım istatistikleri (çerezler aracılığıyla)</li></ul><h3>Bilgilerin Kullanımı</h3><p>Toplanan kişisel bilgiler aşağıdaki amaçlarla kullanılmaktadır:</p><ul><li>Randevu taleplerinin değerlendirilmesi ve iletişim kurulması</li><li>Sağlık hizmetlerimiz hakkında bilgi verilmesi</li><li>Web sitesi deneyiminin iyileştirilmesi</li><li>Yasal yükümlülüklerin yerine getirilmesi</li></ul><h3>Bilgilerin Korunması</h3><p>Kişisel verileriniz, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında korunmaktadır. Verileriniz üçüncü şahıslarla yasal zorunluluklar dışında paylaşılmaz.</p><h3>Çerezler</h3><p>Web sitemiz, kullanıcı deneyimini iyileştirmek amacıyla çerezler kullanabilir. Tarayıcı ayarlarınızdan çerezleri devre dışı bırakabilirsiniz.</p><h3>İletişim</h3><p>Gizlilik politikamız hakkında sorularınız için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Privacy Policy</h2><p>Your privacy is important to us when you visit the Op. Dr. Halil Ibrahim Ocalan website. This privacy policy explains how your personal data is collected, used and protected.</p><h3>Information Collected</h3><ul><li>Name, email address and phone number submitted through the contact form</li><li>Personal information provided during appointment requests</li><li>Website usage statistics (through cookies)</li></ul><h3>Use of Information</h3><ul><li>Evaluation of appointment requests and establishing contact</li><li>Providing information about our healthcare services</li><li>Improving the website experience</li><li>Fulfilling legal obligations</li></ul><h3>Protection of Information</h3><p>Your personal data is protected under the Personal Data Protection Law (KVKK) No. 6698. Your data is not shared with third parties except for legal obligations.</p><h3>Cookies</h3><p>Our website may use cookies to improve user experience. You can disable cookies from your browser settings.</p><h3>Contact</h3><p>Please contact us for questions about our privacy policy.</p>",
+    "de": "<h2>Datenschutzerklärung</h2><p>Ihre Privatsphäre ist uns wichtig, wenn Sie die Website von OP-Dr. Halil Ibrahim Ocalan besuchen. Diese Datenschutzrichtlinie erklärt, wie Ihre persönlichen Daten gesammelt, verwendet und geschützt werden.</p><h3>Erhobene Informationen</h3><ul><li>Name, E-Mail-Adresse und Telefonnummer über das Kontaktformular</li><li>Persönliche Informationen bei Terminanfragen</li><li>Website-Nutzungsstatistiken (durch Cookies)</li></ul><h3>Verwendung der Informationen</h3><ul><li>Bearbeitung von Terminanfragen und Kontaktaufnahme</li><li>Information über unsere Gesundheitsdienstleistungen</li><li>Verbesserung der Website-Erfahrung</li><li>Erfüllung gesetzlicher Verpflichtungen</li></ul><h3>Schutz der Informationen</h3><p>Ihre persönlichen Daten werden gemäß dem Datenschutzgesetz (KVKK) Nr. 6698 geschützt.</p><h3>Cookies</h3><p>Unsere Website kann Cookies verwenden, um die Benutzererfahrung zu verbessern.</p>",
+    "ar": "<h2>سياسة الخصوصية</h2><p>خصوصيتك مهمة لنا عند زيارتك لموقع الدكتور جراح خليل إبراهيم أوتشالان. توضح سياسة الخصوصية هذه كيفية جمع بياناتك الشخصية واستخدامها وحمايتها.</p><h3>المعلومات المجمعة</h3><ul><li>الاسم وعنوان البريد الإلكتروني ورقم الهاتف المقدمة عبر نموذج الاتصال</li><li>المعلومات الشخصية المقدمة أثناء طلبات المواعيد</li><li>إحصائيات استخدام الموقع (عبر ملفات تعريف الارتباط)</li></ul><h3>استخدام المعلومات</h3><ul><li>تقييم طلبات المواعيد وإجراء الاتصال</li><li>تقديم معلومات حول خدماتنا الصحية</li><li>تحسين تجربة الموقع</li><li>الوفاء بالالتزامات القانونية</li></ul><h3>حماية المعلومات</h3><p>بياناتك الشخصية محمية بموجب قانون حماية البيانات الشخصية (KVKK) رقم 6698.</p>"
+  }
+}

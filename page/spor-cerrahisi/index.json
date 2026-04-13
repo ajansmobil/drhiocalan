@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Spor Cerrahisi",
+    "en": "Sports Surgery",
+    "de": "Sportchirurgie",
+    "ar": "جراحة الرياضة"
+  },
+  "status": "play",
+  "id": "spor-cerrahisi",
+  "path": "spor-cerrahisi",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 2,
+  "icon": "sports_soccer",
+  "description": {
+    "tr": "Spor cerrahisi: kas, bağ, tendon ve eklem yaralanmalarının tanı ve tedavisi. Diz, omuz, ayak bileği yaralanmalarında uzman cerrahi hizmet.",
+    "en": "Sports surgery: diagnosis and treatment of muscle, ligament, tendon and joint injuries. Expert surgical care for knee, shoulder and ankle injuries.",
+    "de": "Sportchirurgie: Diagnose und Behandlung von Muskel-, Band-, Sehnen- und Gelenkverletzungen. Fachärztliche chirurgische Versorgung bei Knie-, Schulter- und Sprunggelenkverletzungen.",
+    "ar": "جراحة الرياضة: تشخيص وعلاج إصابات العضلات والأربطة والأوتار والمفاصل. رعاية جراحية متخصصة لإصابات الركبة والكتف والكاحل."
+  },
+  "keyword": {
+    "tr": "spor cerrahisi, spor yaralanması, ön çapraz bağ, menisküs, omuz çıkığı, rotator manşet, gaziantep",
+    "en": "sports surgery, sports injury, ACL, meniscus, shoulder dislocation, rotator cuff, gaziantep",
+    "de": "Sportchirurgie, Sportverletzung, Kreuzband, Meniskus, Schulterluxation, Rotatorenmanschette, Gaziantep",
+    "ar": "جراحة الرياضة، إصابة رياضية، الرباط الصليبي، الغضروف المفصلي، خلع الكتف، الكفة المدورة، غازي عنتاب"
+  },
+  "update": "2026-04-13T12:17:37.989Z",
+  "date": "2026-04-13T12:00:00.000Z",
+  "title": {
+    "tr": "Spor Cerrahisi | Op. Dr. Halil İbrahim Öçalan - Gaziantep",
+    "en": "Sports Surgery | Op. Dr. Halil Ibrahim Ocalan - Gaziantep",
+    "de": "Sportchirurgie | OP-Dr. Halil Ibrahim Oçalan - Gaziantep",
+    "ar": "جراحة الرياضة | دكتور جراح خليل إبراهيم أوتشالان - غازي عنتاب"
+  },
+  "slider": [],
+  "text": {
+    "tr": "<article class=\"page-rich-text\"><h2>Spor Cerrahisi Nedir?</h2><p>Spor cerrahisi, spor yaparken veya günlük fiziksel aktiviteler sırasında oluşan kas, bağ, tendon ve eklem yaralanmalarının tanı ve tedavisi ile ilgilenen ortopedi ve travmatoloji alanıdır. Spor yaralanmaları özellikle diz, omuz, ayak bileği ve kalça eklemlerinde sık görülür. Doğru tanı ve zamanında tedavi, spora güvenli bir şekilde geri dönüş için büyük önem taşır.</p><h2>Spor Yaralanmaları Nelerdir?</h2><ul><li>Ön çapraz bağ (ACL) yaralanmaları</li><li>Menisküs yırtıkları</li><li>Omuz çıkıkları ve omuz bağ yaralanmaları</li><li>Rotator manşet yırtıkları</li><li>Ayak bileği bağ yaralanmaları</li><li>Kas ve tendon yırtıkları</li><li>Spor kaynaklı kırık ve çıkıklar</li><li>Diz ve omuz kıkırdak yaralanmaları</li></ul><h2>Tedavi Yöntemleri</h2><ul><li>Artroskopik (kapalı) cerrahi yöntemleri</li><li>Ön çapraz bağ (ACL) rekonstrüksiyonu</li><li>Menisküs onarımı veya menisküs cerrahisi</li><li>Omuz stabilizasyon ameliyatları</li><li>Tendon ve bağ onarımları</li><li>Spor rehabilitasyonu ve güçlendirme programları</li></ul><h2>Spora Güvenli Dönüş</h2><p>Doğru cerrahi teknikler ve uygun rehabilitasyon ile eklem fonksiyonları büyük ölçüde yeniden kazanılabilir. Ağrı, şişlik veya hareket kısıtlılığında Ortopedi ve Travmatoloji Uzmanı değerlendirmesi önerilir.</p></article>",
+    "en": "<article class=\"page-rich-text\"><h2>Sports Surgery</h2><p>Sports surgery addresses muscle, ligament, tendon and joint injuries during sport or daily activity. Knee, shoulder, ankle and hip are commonly affected. Accurate diagnosis and timely treatment support a safe return to sport.</p><h2>Common Injuries</h2><ul><li>ACL injuries</li><li>Meniscus tears</li><li>Shoulder instability and labral lesions</li><li>Rotator cuff tears</li><li>Ankle ligament injuries</li><li>Muscle and tendon tears</li><li>Sports-related fractures and dislocations</li><li>Cartilage injuries</li></ul><h2>Treatment Options</h2><ul><li>Arthroscopic surgery</li><li>ACL reconstruction</li><li>Meniscus repair or partial meniscectomy</li><li>Shoulder stabilization</li><li>Tendon and ligament repair</li><li>Structured rehabilitation</li></ul><p>See a specialist if you have pain, swelling, instability or weakness.</p></article>",
+    "de": "<article class=\"page-rich-text\"><h2>Sportchirurgie</h2><p>Die Sportchirurgie behandelt Muskel-, Band-, Sehnen- und Gelenkverletzungen im Sport und Alltag — besonders Knie, Schulter, Sprunggelenk und Hüfte.</p><h2>Häufige Verletzungen</h2><ul><li>Kreuzbandruptur (VKB)</li><li>Meniskusläsionen</li><li>Schulterluxation und -instabilität</li><li>Rotatorenmanschettenruptur</li><li>Sprunggelenksbandverletzungen</li><li>Muskel- und Sehnenrisse</li></ul><h2>Therapie</h2><ul><li>Arthroskopie</li><li>Kreuzbandplastik</li><li>Meniskusnaht/-teilresektion</li><li>Schulterstabilisierung</li><li>Rehabilitation</li></ul></article>",
+    "ar": "<article class=\"page-rich-text\" dir=\"rtl\"><h2>جراحة الرياضة</h2><p>تعنى بتشخيص وعلاج إصابات العضلات والأربطة والأوتار والمفاصل أثناء النشاط الرياضي أو اليومي.</p><h2>إصابات شائعة</h2><ul><li>إصابة الرباط الصليبي الأمامي</li><li>تمزق الغضروف الهلالي</li><li>خلع الكتف وإصابات أوتار الكتف</li><li>إصابات كاحل</li></ul><h2>العلاج</h2><ul><li>تنظير المفاصل</li><li>إعادة بناء الرباط الصليبي</li><li>إصلاح الغضروف</li><li>تثبيت الكتف</li><li>إعادة التأهيل</li></ul></article>"
+  }
+}

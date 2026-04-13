@@ -1,0 +1,910 @@
+
+<div class="modulex modulex-dr-signature">
+  
+  <div class="modulextitle">
+    <div class="modulextitlebody">
+      <div class="modulextitlebodylang">
+        <ul>
+          {{langhtml}}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="modulex-bar">
+    <div class="modulex-shell">
+      <div class="modulexbody">
+        <div class="modulexbody-inner">
+          <div class="modulex-logo-card">
+            <a href="/{{lang}}/" class="modulexbodylogolink" title="@home@"
+              ><img
+                src="/img/{{logo}}?v={{random}}"
+                alt="{{web-name}} Logo"
+                class="modulexbodylogo"
+                loading="lazy"
+            /></a>
+          </div>
+          <button type="button" class="modulex-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat" title="Menü">
+            <span class="material-symbols-outlined" aria-hidden="true">menu</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="modulexmenubody">
+        <div class="modulexmenu" id="menu-2-root">
+          <div class="modulex-drawer-header">
+            <span class="modulex-drawer-title">@menu@</span>
+            <button type="button" class="modulex-drawer-close" onclick="menu2_toggle()" aria-label="Menüyü kapat" title="Kapat">
+              <span class="material-symbols-outlined" aria-hidden="true">close</span>
+            </button>
+          </div>
+          <div class="modulex-mainnav-wrap modulex-nav-dock">
+            <div class="modulexmenulistbody">
+              <div class="modulexmenulist">
+                <nav class="modulexmenunav" aria-label="Ana menü">
+                  <ul>
+                    {{html}}
+                  </ul>
+                </nav>
+              </div>
+            </div>
+            <a class="modulex-cta" href="/{{lang}}/iletisim/">@contact-us@</a>
+          </div>
+          <div class="modulexlanguages-mobile">
+            <ul>
+              {{langhtml}}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modulex-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
+  </div>
+
+  
+  <div class="modulex-wave" aria-hidden="true">
+    <svg class="modulex-wave-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 64" preserveAspectRatio="none">
+      <path
+        fill="currentColor"
+        d="M0,36 C180,8 360,56 540,32 C720,8 900,52 1080,28 C1260,12 1350,20 1440,16 L1440,64 L0,64 Z"
+      />
+    </svg>
+  </div>
+</div>
+<style>
+  
+
+  .modulex-dr-signature {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    background: linear-gradient(
+      165deg,
+      color-mix(in srgb, --clinical-- 9%, --bgcolor--) 0%,
+      --bgcolor-- 38%,
+      color-mix(in srgb, --activebgcolor-- 4%, --bgcolor--) 100%
+    );
+    font-family: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 1100;
+    padding-bottom: 0;
+    border-bottom: none;
+    box-shadow: none;
+  }
+
+  .modulex-dr-signature::after {
+    display: none;
+  }
+
+  
+  .modulextitle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: auto;
+    width: auto;
+    max-width: calc(100% - 24px);
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    background: transparent;
+    border-bottom: none;
+    z-index: 10;
+    pointer-events: none;
+  }
+
+  .modulextitle:has(.modulextitlebodylang:empty),
+  .modulextitle:has(.modulextitlebodylang ul:empty) {
+    display: none;
+  }
+
+  .modulextitlebody {
+    color: --color--;
+    width: auto;
+    max-width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    padding: 4px 10px 0 6px;
+    box-sizing: border-box;
+    pointer-events: auto;
+  }
+
+  .modulextitlebodylang:empty,
+  .modulextitlebodylang ul:empty {
+    display: none;
+  }
+
+  .modulextitlebodylang ul {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    list-style: none;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  .modulextitlebodylang li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .modulextitlebodylang li a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+    color: --color-- !important;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: opacity 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+    min-height: 26px;
+    min-width: 26px;
+    box-sizing: border-box;
+  }
+
+  .modulextitlebodylang li a .modulex-lang-flag {
+    display: block;
+    width: 22px;
+    height: 22px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 4px;
+    border: 1px solid --line--;
+    box-sizing: border-box;
+  }
+
+  .modulextitlebodylang li a:hover {
+    opacity: 0.88;
+  }
+
+  .modulextitlebodylang li a.modulex-lang-link-active {
+    box-shadow: 0 0 0 2px --clinical--;
+  }
+
+  .modulextitlebodylang li a:focus-visible {
+    outline: 2px solid --clinical--;
+    outline-offset: 2px;
+  }
+
+  
+  .modulex-bar {
+    width: 100%;
+    max-width: min(1200px, 100%);
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 6px 16px 2px 16px;
+    display: block;
+    position: relative;
+    z-index: 1;
+  }
+
+  .modulex-dr-signature:has(.modulextitlebodylang ul:not(:empty)) .modulex-bar {
+    padding-top: 28px;
+  }
+
+  
+  .modulex-dr-signature:has(.modulextitlebodylang ul:not(:empty)) .modulex-shell {
+    padding-right: min(132px, 20vw);
+    box-sizing: border-box;
+  }
+
+  
+  .modulex-shell {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .modulexbody {
+    flex: 0 1 auto;
+    width: auto;
+    max-width: 42%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
+  .modulexbody-inner {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+    min-height: 0;
+    box-sizing: border-box;
+  }
+
+  
+  .modulex-logo-card {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+  .modulexbodylogolink {
+    display: inline-flex;
+    align-items: center;
+    line-height: 0;
+    border-radius: 8px;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    cursor: pointer;
+  }
+
+  .modulexbodylogolink:hover {
+    opacity: 0.92;
+    transform: translateY(-1px);
+  }
+
+  .modulexbodylogolink:focus-visible {
+    outline: 2px solid --clinical--;
+    outline-offset: 4px;
+  }
+
+  .modulex-mobile-toggle {
+    display: none;
+    background: color-mix(in srgb, --bgcolor-- 90%, transparent);
+    color: --color--;
+    border: 1.5px solid color-mix(in srgb, --clinical-- 35%, --color--);
+    border-radius: 12px;
+    padding: 10px 12px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    min-width: 46px;
+    min-height: 46px;
+    box-sizing: border-box;
+    transition: border-color 0.2s ease, background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 4px 14px rgba(19, 78, 74, 0.1);
+  }
+
+  .modulex-mobile-toggle:hover {
+    border-color: --clinical--;
+    color: --clinicalDark--;
+    background: color-mix(in srgb, --clinical-- 10%, --bgcolor--);
+  }
+
+  .modulex-mobile-toggle:focus-visible {
+    outline: 2px solid --activebgcolor--;
+    outline-offset: 2px;
+  }
+
+  .modulex-mobile-toggle span {
+    font-size: 26px;
+  }
+
+  .modulexmenubody {
+    flex: 1 1 0;
+    width: auto;
+    min-width: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: relative;
+    padding-top: 0;
+    overflow: visible;
+  }
+
+  .modulexmenu {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: flex-end;
+  }
+
+  
+  .modulex-nav-dock {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 6px 10px;
+    width: auto;
+    max-width: 100%;
+    min-width: 0;
+    padding: 6px 10px 6px 14px;
+    background: color-mix(in srgb, --bgcolor-- 72%, transparent);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid color-mix(in srgb, --clinical-- 22%, transparent);
+    border-radius: 999px;
+    box-shadow:
+      0 4px 18px rgba(19, 78, 74, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.55);
+  }
+
+  .modulexmenulist {
+    width: auto;
+    padding: 0;
+    margin: 0;
+    border: none;
+    background: transparent;
+  }
+
+  .modulexmenunav ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 4px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .modulexmenunav ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  
+  .modulexmenunav ul a {
+    padding: 8px 14px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.35;
+    letter-spacing: -0.02em;
+    color: --color-- !important;
+    text-decoration: none;
+    display: inline-block;
+    white-space: nowrap;
+    border-radius: 999px;
+    border: none;
+    transition: color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+    min-height: 40px;
+    box-sizing: border-box;
+  }
+
+  .modulexmenunav ul a:hover {
+    color: --clinicalDark-- !important;
+    background: color-mix(in srgb, --clinical-- 14%, transparent);
+  }
+
+  .modulexmenunav ul a:focus-visible {
+    outline: 2px solid --clinical--;
+    outline-offset: 2px;
+  }
+
+  .modulexmenunav ul a.modulex-menu-list-active,
+  .modulex-menu-list-active {
+    color: --activecolor-- !important;
+    background: --activebgcolor--;
+    font-weight: 700;
+    box-shadow: 0 2px 8px color-mix(in srgb, --activebgcolor-- 28%, transparent);
+    cursor: pointer;
+  }
+
+  
+  .modulex-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 18px;
+    min-height: 40px;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    color: --activebgcolor-- !important;
+    background: transparent;
+    border: 2px solid --activebgcolor--;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
+    flex-shrink: 0;
+  }
+
+  .modulex-cta:hover {
+    color: --activecolor-- !important;
+    background: --activebgcolor--;
+    box-shadow: 0 6px 20px color-mix(in srgb, --activebgcolor-- 38%, transparent);
+    transform: translateY(-1px);
+  }
+
+  .modulex-cta:focus-visible {
+    outline: 2px solid --clinical--;
+    outline-offset: 3px;
+  }
+
+  .modulexmenulistbody {
+    width: auto;
+  }
+
+  .modulex-drawer-header {
+    display: none;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 12px 14px;
+    box-sizing: border-box;
+    border-bottom: none;
+    background: linear-gradient(125deg, --color-- 0%, --clinicalDark-- 55%, --clinical-- 100%);
+    flex-shrink: 0;
+  }
+
+  .modulex-drawer-title {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: --bgcolor--;
+  }
+
+  .modulex-drawer-close {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 46px;
+    height: 46px;
+    padding: 0;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 251, 235, 0.35);
+    background: rgba(255, 255, 255, 0.1);
+    color: --bgcolor--;
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+
+  .modulex-drawer-close:hover {
+    background: rgba(255, 255, 255, 0.22);
+    color: --bgcolor--;
+  }
+
+  .modulex-drawer-close:focus-visible {
+    outline: 2px solid --bgcolor--;
+    outline-offset: 2px;
+  }
+
+  .modulex-drawer-close span {
+    font-size: 24px;
+  }
+
+  .modulexlanguages-mobile {
+    display: none;
+    padding: 16px 18px 22px 18px;
+    border-top: 1px solid --line--;
+    background: color-mix(in srgb, --clinical-- 5%, --bgcolor--);
+  }
+
+  .modulexlanguages-mobile:empty,
+  .modulexlanguages-mobile ul:empty {
+    display: none !important;
+  }
+
+  .modulexlanguages-mobile ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    justify-content: center;
+  }
+
+  .modulexlanguages-mobile li {
+    list-style: none;
+  }
+
+  .modulexlanguages-mobile li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 48px;
+    min-height: 48px;
+    padding: 4px;
+    color: --color-- !important;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 999px;
+    border: 1px solid color-mix(in srgb, --clinical-- 25%, transparent);
+    background: --bgcolor--;
+  }
+
+  .modulexlanguages-mobile li a .modulex-lang-flag {
+    display: block;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+  }
+
+  .modulexlanguages-mobile li a.modulex-lang-link-active {
+    box-shadow: 0 0 0 2px --activebgcolor--;
+    border-color: --activebgcolor--;
+  }
+
+  .modulexlanguages-mobile li a:hover {
+    background: color-mix(in srgb, --clinical-- 10%, --bgcolor--);
+  }
+
+  .modulex-menu-backdrop {
+    display: none;
+  }
+
+  
+  .modulex-wave {
+    width: 100%;
+    line-height: 0;
+    margin-top: -2px;
+    margin-bottom: -1px;
+    pointer-events: none;
+    color: --bgcolor--;
+  }
+
+  .modulex-wave-svg {
+    display: block;
+    width: 100%;
+    height: clamp(8px, 1.8vw, 16px);
+  }
+
+  @media screen and (min-width: 1024px) {
+    .modulexbodylogo {
+      max-width: min(280px, 36vw);
+      max-height: 64px;
+      object-fit: contain;
+    }
+  }
+
+  
+  @media screen and (max-width: 1023px) and (min-width: 769px) {
+    .modulex-shell {
+      flex-wrap: nowrap;
+      gap: 10px 14px;
+    }
+
+    .modulexbody {
+      max-width: 38%;
+      flex: 0 1 auto;
+    }
+
+    .modulexbody-inner {
+      justify-content: flex-start;
+    }
+
+    .modulexbodylogo {
+      max-width: min(240px, 38vw);
+      max-height: 58px;
+      object-fit: contain;
+    }
+
+    .modulexmenubody {
+      flex: 1 1 auto;
+      min-width: 0;
+      justify-content: flex-end;
+    }
+
+    .modulexmenu {
+      align-items: flex-end;
+    }
+
+    .modulex-nav-dock {
+      justify-content: flex-end;
+      padding: 5px 8px 5px 12px;
+    }
+
+    .modulexmenunav ul {
+      justify-content: flex-end;
+    }
+
+    .modulexmenunav ul a {
+      padding: 7px 11px;
+      font-size: 13px;
+      min-height: 38px;
+    }
+
+    .modulex-cta {
+      padding: 7px 14px;
+      min-height: 38px;
+      font-size: 11px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    
+    .modulextitle {
+      display: none;
+    }
+
+    .modulex-dr-signature:has(.modulextitlebodylang ul:not(:empty)) .modulex-bar {
+      padding-top: 6px;
+    }
+
+    
+    .modulex-dr-signature:has(.modulextitlebodylang ul:not(:empty)) .modulex-shell {
+      padding-right: 0;
+    }
+
+    .modulex-bar {
+      padding: 6px 12px 2px 12px;
+    }
+
+    .modulex-shell {
+      flex-wrap: nowrap;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .modulexbody {
+      flex: 1 1 auto;
+      width: 100%;
+      max-width: 100%;
+    }
+
+    .modulexbody-inner {
+      justify-content: space-between;
+      padding: 0 6px 0 4px;
+      box-sizing: border-box;
+    }
+
+    .modulex-mobile-toggle {
+      display: inline-flex;
+    }
+
+    .modulexbodylogo {
+      max-width: 200px;
+      max-height: 54px;
+    }
+
+    .modulex-nav-dock {
+      display: none;
+    }
+
+    .modulexmenubody {
+      position: fixed;
+      top: 0;
+      right: 0;
+      padding-top: 0;
+      width: min(92vw, 360px);
+      height: 100vh;
+      max-height: 100dvh;
+      flex: none;
+      z-index: 1000;
+      transform: translateX(104%);
+      transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+      overflow-y: auto;
+      background: --bgcolor--;
+      border-left: none;
+      border-top-left-radius: 22px;
+      border-bottom-left-radius: 22px;
+      box-shadow: -16px 0 48px rgba(19, 78, 74, 0.22);
+      align-items: stretch;
+    }
+
+    .modulex.modulexmenu-open .modulexmenubody {
+      transform: translateX(0);
+    }
+
+    .modulex-menu-backdrop {
+      display: block;
+      position: fixed;
+      inset: 0;
+      background: color-mix(in srgb, #134E4A 55%, #000000 35%);
+      z-index: 999;
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+      transition: opacity 0.28s ease, visibility 0.28s ease;
+      cursor: pointer;
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+    }
+
+    .modulex.modulexmenu-open .modulex-menu-backdrop {
+      opacity: 1;
+      visibility: visible;
+      pointer-events: auto;
+    }
+
+    .modulex-drawer-header {
+      display: flex;
+    }
+
+    .modulexmenu {
+      align-items: stretch;
+      min-height: 100%;
+    }
+
+    .modulex-nav-dock {
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      width: 100%;
+      border-radius: 0;
+      border: none;
+      box-shadow: none;
+      background: transparent;
+      backdrop-filter: none;
+      -webkit-backdrop-filter: none;
+      padding: 8px 12px 6px 12px;
+      gap: 8px;
+    }
+
+    .modulexmenulistbody {
+      flex: 1;
+      overflow-y: auto;
+      width: 100%;
+    }
+
+    .modulexmenulist {
+      width: 100%;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    .modulexmenunav ul {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 6px;
+    }
+
+    .modulexmenunav ul a {
+      width: 100%;
+      text-align: left;
+      white-space: normal;
+      border-radius: 12px;
+      min-height: 44px;
+      padding: 10px 14px;
+      font-size: 14px;
+      background: color-mix(in srgb, --clinical-- 7%, transparent);
+      border: 1px solid color-mix(in srgb, --clinical-- 15%, transparent);
+    }
+
+    .modulexmenunav ul a:hover {
+      background: color-mix(in srgb, --clinical-- 14%, transparent);
+    }
+
+    .modulexmenunav ul a.modulex-menu-list-active,
+    .modulex.modulexmenu-open .modulexmenunav ul a.modulex-menu-list-active {
+      background: --activebgcolor--;
+      color: --activecolor-- !important;
+      border-color: color-mix(in srgb, --activebgcolor-- 80%, transparent);
+    }
+
+    .modulex-cta {
+      width: auto;
+      max-width: none;
+      margin: 4px 4px 10px 4px;
+      text-align: center;
+    }
+
+    .modulex.modulexmenu-open .modulexlanguages-mobile {
+      display: block;
+      flex-shrink: 0;
+    }
+  }
+</style>
+<script>
+  
+  
+  function menu2_sync_scroll_and_aria(isOpen, moduleEl) {
+    var mq =
+      typeof window.matchMedia === "function"
+        ? window.matchMedia("(max-width: 768px)")
+        : null;
+    var isMobile = mq && mq.matches;
+    var lock = isMobile && isOpen;
+    if (lock) {
+      document.documentElement.style.overflow = "hidden";
+      document.body.style.overflow = "hidden";
+    } else {
+      document.documentElement.style.overflow = "";
+      document.body.style.overflow = "";
+    }
+    var back =
+      moduleEl && moduleEl.querySelector
+        ? moduleEl.querySelector(".modulex-menu-backdrop")
+        : null;
+    if (back) {
+      
+      if (isMobile) {
+        back.setAttribute("aria-hidden", isOpen ? "false" : "true");
+      } else {
+        back.setAttribute("aria-hidden", "true");
+      }
+    }
+  }
+
+  if (typeof window.menu2_toggle === "undefined") {
+    window.menu2_toggle = function menu2_toggle() {
+      var root = document.getElementById("menu-2-root");
+      if (!root) {
+        return;
+      }
+      var wrapper = root.closest ? root.closest(".modulex") : null;
+      var target = wrapper || root;
+      if (target.classList.contains("modulexmenu-open")) {
+        target.classList.remove("modulexmenu-open");
+        menu2_sync_scroll_and_aria(false, target);
+      } else {
+        target.classList.add("modulexmenu-open");
+        menu2_sync_scroll_and_aria(true, target);
+      }
+    };
+  }
+
+  setTimeout(function() {
+    document.addEventListener("keydown", function(ev) {
+      if (ev.key !== "Escape" && ev.keyCode !== 27) {
+        return;
+      }
+      var open = document.querySelector(".modulex.modulexmenu-open");
+      if (open && typeof window.menu2_toggle === "function") {
+        window.menu2_toggle();
+      }
+    });
+
+    if (typeof window.matchMedia === "function") {
+      var mqWide = window.matchMedia("(min-width: 769px)");
+      var onWide = function() {
+        if (!mqWide.matches) {
+          return;
+        }
+        var m = document.querySelector(".modulex.modulexmenu-open");
+        if (m) {
+          m.classList.remove("modulexmenu-open");
+          menu2_sync_scroll_and_aria(false, m);
+        }
+      };
+      if (mqWide.addEventListener) {
+        mqWide.addEventListener("change", onWide);
+      } else if (mqWide.addListener) {
+        mqWide.addListener(onWide);
+      }
+    }
+  }, 0);
+</script>

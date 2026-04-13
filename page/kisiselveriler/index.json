@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "de": "Personendaten",
+    "ar": "البيانات الشخصية"
+  },
+  "status": "play",
+  "id": "kisiselveriler",
+  "path": "kisisel-veriler",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 5,
+  "icon": "home",
+  "description": {
+    "tr": "Kişisel verilerinizin korunması ve işlenmesi hakkında bilgiler.",
+    "en": "Information about the protection and processing of your personal data.",
+    "de": "Informationen zum Schutz und zur Verarbeitung Ihrer Personendaten.",
+    "ar": "معلومات حول حماية ومعالجة بياناتك الشخصية."
+  },
+  "keyword": {
+    "tr": "kişisel veriler, veri koruma, gizlilik",
+    "en": "personal data, data protection, privacy",
+    "de": "personendaten, datenschutz, vertraulichkeit",
+    "ar": "البيانات الشخصية، حماية البيانات، الخصوصية"
+  },
+  "update": "2026-04-13T12:17:38.081Z",
+  "date": "2026-04-11T07:11:42.494Z",
+  "title": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "de": "Personendaten",
+    "ar": "البيانات الشخصية"
+  },
+  "text": {
+    "tr": "<h2>Kişisel Verilerin Korunması Aydınlatma Metni</h2><p>Op. Dr. Halil İbrahim Öçalan olarak, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında kişisel verilerinizin işlenmesi, saklanması ve korunmasına büyük önem veriyoruz.</p><h3>Veri Sorumlusu</h3><p>Kişisel verileriniz, Op. Dr. Halil İbrahim Öçalan tarafından veri sorumlusu sıfatıyla işlenmektedir.</p><h3>İşlenen Kişisel Veriler</h3><ul><li>Kimlik bilgileri (ad, soyad)</li><li>İletişim bilgileri (telefon, e-posta, adres)</li><li>Sağlık verileri (tedavi süreçleri kapsamında)</li><li>Web sitesi kullanım verileri</li></ul><h3>Kişisel Verilerin İşlenme Amaçları</h3><ul><li>Sağlık hizmetlerinin sunulması ve tedavi süreçlerinin yürütülmesi</li><li>Randevu taleplerinin değerlendirilmesi</li><li>Yasal yükümlülüklerin yerine getirilmesi</li><li>Hasta iletişiminin sağlanması</li></ul><h3>Kişisel Verilerin Aktarılması</h3><p>Kişisel verileriniz, yasal zorunluluklar dışında üçüncü kişilere aktarılmamaktadır. Sağlık verileri, ilgili mevzuat kapsamında yetkili kurum ve kuruluşlarla paylaşılabilir.</p><h3>Haklarınız</h3><p>KVKK kapsamında kişisel verilerinizle ilgili bilgi alma, düzeltme, silme ve itiraz etme haklarına sahipsiniz. Haklarınızı kullanmak için bizimle iletişime geçebilirsiniz.</p>",
+    "en": "<h2>Personal Data Protection Disclosure</h2><p>As Op. Dr. Halil Ibrahim Ocalan, we attach great importance to the processing, storage and protection of your personal data within the scope of the Personal Data Protection Law (KVKK) No. 6698.</p><h3>Data Controller</h3><p>Your personal data is processed by Op. Dr. Halil Ibrahim Ocalan as the data controller.</p><h3>Personal Data Processed</h3><ul><li>Identity information (name, surname)</li><li>Contact information (phone, email, address)</li><li>Health data (within treatment processes)</li><li>Website usage data</li></ul><h3>Purposes of Processing</h3><ul><li>Provision of healthcare services and management of treatment processes</li><li>Evaluation of appointment requests</li><li>Fulfillment of legal obligations</li><li>Ensuring patient communication</li></ul><h3>Transfer of Personal Data</h3><p>Your personal data is not transferred to third parties except for legal obligations. Health data may be shared with authorized institutions within the scope of relevant legislation.</p><h3>Your Rights</h3><p>Under KVKK, you have the right to access, correct, delete and object to your personal data. Contact us to exercise your rights.</p>",
+    "de": "<h2>Datenschutzinformation</h2><p>Als OP-Dr. Halil Ibrahim Ocalan legen wir großen Wert auf die Verarbeitung, Speicherung und den Schutz Ihrer persönlichen Daten im Rahmen des Datenschutzgesetzes (KVKK) Nr. 6698.</p><h3>Verantwortlicher</h3><p>Ihre persönlichen Daten werden von OP-Dr. Halil Ibrahim Ocalan als Verantwortlicher verarbeitet.</p><h3>Verarbeitete Daten</h3><ul><li>Identitätsinformationen (Name, Nachname)</li><li>Kontaktinformationen (Telefon, E-Mail, Adresse)</li><li>Gesundheitsdaten (im Rahmen von Behandlungsprozessen)</li><li>Website-Nutzungsdaten</li></ul><h3>Zwecke der Verarbeitung</h3><ul><li>Erbringung von Gesundheitsdienstleistungen und Verwaltung von Behandlungsprozessen</li><li>Bearbeitung von Terminanfragen</li><li>Erfüllung gesetzlicher Verpflichtungen</li><li>Sicherstellung der Patientenkommunikation</li></ul><h3>Ihre Rechte</h3><p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Widerspruch bezüglich Ihrer persönlichen Daten.</p>",
+    "ar": "<h2>نص التوضيح لحماية البيانات الشخصية</h2><p>بصفتنا الدكتور جراح خليل إبراهيم أوتشالان، نولي أهمية كبيرة لمعالجة وتخزين وحماية بياناتك الشخصية في إطار قانون حماية البيانات الشخصية (KVKK) رقم 6698.</p><h3>مسؤول البيانات</h3><p>تتم معالجة بياناتك الشخصية من قبل الدكتور جراح خليل إبراهيم أوتشالان بصفته مسؤول البيانات.</p><h3>البيانات المعالجة</h3><ul><li>معلومات الهوية (الاسم واللقب)</li><li>معلومات الاتصال (الهاتف والبريد الإلكتروني والعنوان)</li><li>البيانات الصحية (في إطار عمليات العلاج)</li><li>بيانات استخدام الموقع</li></ul><h3>أغراض المعالجة</h3><ul><li>تقديم الخدمات الصحية وإدارة عمليات العلاج</li><li>تقييم طلبات المواعيد</li><li>الوفاء بالالتزامات القانونية</li><li>ضمان التواصل مع المرضى</li></ul><h3>حقوقك</h3><p>بموجب KVKK لديك الحق في الوصول إلى بياناتك الشخصية وتصحيحها وحذفها والاعتراض عليها.</p>"
+  }
+}

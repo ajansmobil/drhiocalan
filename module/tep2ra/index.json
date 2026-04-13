@@ -1,0 +1,16 @@
+{
+  "name": "Menu 2",
+  "desing": {
+    "bgcolor": "#FFFCF8",
+    "color": "#134E4A",
+    "activebgcolor": "#B45309",
+    "activecolor": "#FFFBEB",
+    "clinical": "#0D9488",
+    "clinicalDark": "#0F766E",
+    "line": "rgba(28, 25, 23, 0.09)"
+  },
+  "category": "code",
+  "description": "Dr. Öçalan: tek satır logo sol + menü dock sağ; büyütülmüş logo ve linkler; diller sağ üst; SVG dalga; mobil logo–hamburger.",
+  "version": "1.0.0",
+  "icon": "menu"
+}

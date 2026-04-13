@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Diyabetik Ayak Cerrahisi",
+    "en": "Diabetic Foot Surgery",
+    "de": "Diabetische Fußchirurgie",
+    "ar": "جراحة القدم السكرية"
+  },
+  "status": "play",
+  "id": "diyabetik-ayak-cerrahisi",
+  "path": "diyabetik-ayak-cerrahisi",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 5,
+  "icon": "healing",
+  "description": {
+    "tr": "Diyabetik ayak cerrahisi: diyabete bağlı ayak yaraları, enfeksiyonlar ve doku hasarlarının cerrahi tedavisi. Erken tanı ve uzman müdahale.",
+    "en": "Diabetic foot surgery: surgical treatment of diabetes-related foot wounds, infections and tissue damage. Early diagnosis and expert intervention.",
+    "de": "Diabetische Fußchirurgie: chirurgische Behandlung von diabetischen Fußwunden, Infektionen und Gewebeschäden. Früherkennung und fachärztliche Intervention.",
+    "ar": "جراحة القدم السكرية: العلاج الجراحي لجروح القدم المرتبطة بالسكري والالتهابات وتلف الأنسجة. التشخيص المبكر والتدخل المتخصص."
+  },
+  "keyword": {
+    "tr": "diyabetik ayak, diyabet ayak yarası, ayak cerrahisi, diyabetik nöropati, ayak enfeksiyonu, gaziantep",
+    "en": "diabetic foot, diabetic foot wound, foot surgery, diabetic neuropathy, foot infection, gaziantep",
+    "de": "diabetischer Fuß, diabetische Fußwunde, Fußchirurgie, diabetische Neuropathie, Fußinfektion, Gaziantep",
+    "ar": "القدم السكرية، جروح القدم السكرية، جراحة القدم، اعتلال الأعصاب السكري، عدوى القدم، غازي عنتاب"
+  },
+  "update": "2026-04-13T12:17:38.016Z",
+  "date": "2026-04-13T12:00:00.000Z",
+  "title": {
+    "tr": "Diyabetik Ayak Cerrahisi | Op. Dr. Halil İbrahim Öçalan - Gaziantep",
+    "en": "Diabetic Foot Surgery | Op. Dr. Halil Ibrahim Ocalan - Gaziantep",
+    "de": "Diabetische Fußchirurgie | OP-Dr. Halil Ibrahim Oçalan - Gaziantep",
+    "ar": "جراحة القدم السكرية | دكتور جراح خليل إبراهيم أوتشالان - غازي عنتاب"
+  },
+  "slider": [],
+  "text": {
+    "tr": "<article class=\"page-rich-text\"><h2>Diyabetik Ayak Cerrahisi</h2><p>Diyabetik ayak; diyabette sinir hasarı (nöropati) ve damar hastalıklarına bağlı yaralar, enfeksiyonlar ve doku kayıpları ile seyredebilir. Zamanında tedavi edilmeyen yaralar ilerleyebilir ve ciddi komplikasyonlara yol açabilir.</p><p>Diyabetik ayak cerrahisi; enfeksiyonu kontrol altına almak, yara iyileşmesini sağlamak ve ayağın fonksiyonunu korumayı amaçlar.</p><h2>Diyabetik Ayak Neden Oluşur?</h2><ul><li>Diyabetik nöropati</li><li>Ayak damarlarında dolaşım bozukluğu</li><li>Uzun süreli yüksek kan şekeri</li><li>Küçük yaralar veya basınç noktaları</li><li>Uygun olmayan ayakkabı</li></ul><h2>Belirtiler</h2><ul><li>Yara veya açık lezyon</li><li>Kızarıklık ve şişlik</li><li>Enfeksiyon ve akıntı</li><li>Uyuşma veya his kaybı</li><li>İyileşmeyen yaralar</li></ul><h2>Cerrahi Yaklaşımlar</h2><ul><li>Debridman (enfekte doku temizliği)</li><li>Apse ve enfeksiyon cerrahisi</li><li>Rekonstrüksiyon</li><li>Osteomiyelit tedavisi</li><li>İleri vakalarda uzuv koruyucu cerrahi</li></ul><p>Erken tanı, düzenli ayak kontrolü ve diyabetin iyi kontrolü riski azaltır. İyileşmeyen yara veya enfeksiyon belirtilerinde vakit kaybetmeden başvurun.</p></article>",
+    "en": "<article class=\"page-rich-text\"><h2>Diabetic Foot Surgery</h2><p>Diabetic foot problems include ulcers, infection and tissue loss related to neuropathy and vascular disease. Surgery aims to control infection, heal wounds and preserve function.</p><h2>Risk Factors</h2><ul><li>Neuropathy</li><li>Poor circulation</li><li>Hyperglycemia</li><li>Pressure points and poor footwear</li></ul><h2>Warning Signs</h2><ul><li>Non-healing wounds</li><li>Redness and swelling</li><li>Drainage or infection</li><li>Numbness</li></ul><h2>Surgical Options</h2><ul><li>Debridement</li><li>Infection and abscess surgery</li><li>Reconstruction</li><li>Osteomyelitis management</li></ul><p>Early care and good glucose control reduce complications.</p></article>",
+    "de": "<article class=\"page-rich-text\"><h2>Diabetische Fußchirurgie</h2><p>Der diabetische Fuß umfasst Ulzera, Infektionen und Gewebeverlust bei Neuropathie und Makroangiopathie. Ziel ist Infektionskontrolle, Wundheilung und Erhalt der Funktion.</p><ul><li>Neuropathie und Durchblutungsstörung</li><li>Hyperglykämie</li><li>Druckstellen, falsches Schuhwerk</li></ul><h2>Zeichen</h2><ul><li>Heilungsstörung</li><li>Rötung, Schwellung</li><li>Infektzeichen</li></ul><h2>Therapie</h2><ul><li>Debridement</li><li>Infektchirurgie</li><li>Rekonstruktion</li></ul></article>",
+    "ar": "<article class=\"page-rich-text\" dir=\"rtl\"><h2>جراحة القدم السكرية</h2><p>تشمل جروح القدم والعدوى وفقدان الأنسجة بسبب اعتلال الأعصاب وأمراض الأوعية لدى مرضى السكري.</p><h2>عوامل الخطر</h2><ul><li>اعتلال الأعصاب</li><li>ضعف الدورة الدموية</li><li>ارتفاع السكر المزمن</li></ul><h2>علامات تحذيرية</h2><ul><li>جروح لا تلتئم</li><li>احمرار وانتفاخ</li><li>إفرازات أو عدوى</li></ul><h2>تداخل جراحي</h2><ul><li>تنضيد الأنسجة الميتة</li><li>علاج الخراج والعدوى</li><li>إعادة الإعمار</li></ul></article>"
+  }
+}

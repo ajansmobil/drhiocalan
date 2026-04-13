@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Kalça ve Diz Protez Cerrahisi",
+    "en": "Hip and Knee Replacement Surgery",
+    "de": "Hüft- und Knieprothesenchirurgie",
+    "ar": "جراحة استبدال مفصل الورك والركبة"
+  },
+  "status": "play",
+  "id": "kalca-ve-diz-protez-cerrahisi",
+  "path": "kalca-ve-diz-protez-cerrahisi",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 4,
+  "icon": "accessible",
+  "description": {
+    "tr": "Kalça ve diz protez cerrahisi: ileri derecede eklem hasarı ve kireçlenmede yapay eklem uygulaması. Ağrısız hareket ve yaşam kalitesi.",
+    "en": "Hip and knee replacement surgery: artificial joint application for advanced joint damage and osteoarthritis. Pain-free movement and quality of life.",
+    "de": "Hüft- und Knieprothesenchirurgie: künstlicher Gelenkersatz bei fortgeschrittenen Gelenkschäden und Arthrose. Schmerzfreie Bewegung und Lebensqualität.",
+    "ar": "جراحة استبدال مفصل الورك والركبة: تطبيق المفصل الصناعي لتلف المفاصل المتقدم والتهاب المفاصل. حركة بدون ألم وجودة حياة."
+  },
+  "keyword": {
+    "tr": "kalça protezi, diz protezi, eklem protezi, kireçlenme, osteoartrit, protez ameliyatı, gaziantep",
+    "en": "hip replacement, knee replacement, joint replacement, osteoarthritis, prosthesis surgery, gaziantep",
+    "de": "Hüftprothese, Knieprothese, Gelenkersatz, Arthrose, Prothesenoperation, Gaziantep",
+    "ar": "استبدال مفصل الورك، استبدال مفصل الركبة، استبدال المفاصل، التهاب المفاصل، جراحة الأطراف الاصطناعية، غازي عنتاب"
+  },
+  "update": "2026-04-13T12:17:38.006Z",
+  "date": "2026-04-13T12:00:00.000Z",
+  "title": {
+    "tr": "Kalça ve Diz Protez Cerrahisi | Op. Dr. Halil İbrahim Öçalan - Gaziantep",
+    "en": "Hip and Knee Replacement Surgery | Op. Dr. Halil Ibrahim Ocalan - Gaziantep",
+    "de": "Hüft- und Knieprothesenchirurgie | OP-Dr. Halil Ibrahim Oçalan - Gaziantep",
+    "ar": "جراحة استبدال مفصل الورك والركبة | دكتور جراح خليل إبراهيم أوتشالان - غازي عنتاب"
+  },
+  "slider": [],
+  "text": {
+    "tr": "<article class=\"page-rich-text\"><h2>Kalça ve Diz Protez Cerrahisi</h2><p>Kalça ve diz protez cerrahisi; ileri eklem hasarı, kireçlenme (osteoartrit) ve diğer ortopedik nedenlere bağlı ağrı ve hareket kısıtlılığında hasarlı eklem yüzeylerinin çıkarılıp yapay eklem (protez) yerleştirilmesidir. Ağrı azalır, hareket düzelir ve yaşam kalitesi artar.</p><h2>Kalça Protez Cerrahisi</h2><p>Kalça kireçlenmesi, kırıklar, romatizmal hastalıklar, doğumsal bozukluklar ve travma sonrası hasarlarda uygulanır. Metal, seramik veya özel plastik bileşenler kullanılabilir.</p><h2>Diz Protez Cerrahisi</h2><p>İleri diz kireçlenmesi, şekil bozukluğu, romatoid artrit, travma sonrası hasar ve şiddetli ağrı ile hareket kısıtlılığında tercih edilir. Yürüyüş ve günlük aktiviteler kolaylaşır.</p><h2>Avantajlar</h2><ul><li>Kronik eklem ağrısında azalma</li><li>Hareket artışı</li><li>Günlük yaşamda rahatlama</li><li>Yürüme ve mobilizasyonun iyileşmesi</li><li>Yaşam kalitesinin artması</li></ul><p>Uzun süren ağrı, sertlik veya yürümede zorlanmada Ortopedi ve Travmatoloji Uzmanı değerlendirmesi önemlidir.</p></article>",
+    "en": "<article class=\"page-rich-text\"><h2>Hip and Knee Replacement</h2><p>Joint replacement removes damaged surfaces and implants a prosthesis to reduce pain and restore function in advanced osteoarthritis and other joint disorders.</p><h2>Hip Replacement</h2><p>Indicated for severe hip osteoarthritis, fractures, inflammatory arthritis, dysplasia and post-traumatic damage.</p><h2>Knee Replacement</h2><p>Used for advanced knee arthritis, deformity, inflammatory disease and post-traumatic joint damage when conservative care is insufficient.</p><h2>Expected Benefits</h2><ul><li>Less chronic pain</li><li>Better motion</li><li>Easier walking and daily tasks</li><li>Improved quality of life</li></ul></article>",
+    "de": "<article class=\"page-rich-text\"><h2>Hüft- und Knieprothetik</h2><p>Beim Gelenkersatz werden geschädigte Gelenkflächen ersetzt, um Schmerzen zu lindern und die Funktion zu verbessern.</p><h2>Hüftprothese</h2><p>Bei fortgeschrittener Koxarthrose, Frakturen, chronisch-entzündlichen Erkrankungen und Dysplasie.</p><h2>Knieprothese</h2><p>Bei schwerer Gonarthrose, Fehlstellung, rheumatoider Arthritis und posttraumatischen Schäden.</p><ul><li>Weniger Schmerz</li><li>Bessere Belastbarkeit</li><li>Höhere Lebensqualität</li></ul></article>",
+    "ar": "<article class=\"page-rich-text\" dir=\"rtl\"><h2>استبدال مفصل الورك والركبة</h2><p>يُستبدل السطح المفصلي التالف بمفصل صناعي لتخفيف الألم وتحسين الحركة في التهاب المفاصل المتقدم.</p><h2>مفصل الورك</h2><p>للتهاب الورك الشديد والكسور والأمراض الروماتيزمية.</p><h2>مفصل الركبة</h2><p>للتهاب الركبة المتقدم والتشوهات وما بعد الصدمة.</p><ul><li>تقليل الألم</li><li>تحسين المشي</li><li>جودة حياة أفضل</li></ul></article>"
+  }
+}
