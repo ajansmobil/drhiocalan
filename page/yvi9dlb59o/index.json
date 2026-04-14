@@ -23,7 +23,6 @@
     "de": "OP-Dr. Halil İbrahim Öçalan – Facharzt für Orthopädie und Unfallchirurgie. Aus Kirkağaç, Manisa stammend, bietet professionelle orthopädische Dienstleistungen in Gaziantep an.",
     "ar": "دكتور جراح خليل إبراهيم أوتشالان - أخصائي العظام والصدمات. من كيركاجاق، مانيسا مولود، يقدم خدمات عظمية احترافية في غازي عنتاب."
   },
-  "desc": {},
   "icon": "home",
   "keyword": {
     "tr": "ortopedi uzmanı, gaziantep ortopedi, dr halil öçalan, travma cerrahisi",
@@ -31,7 +30,7 @@
     "de": "Orthopädie Facharzt, Orthopädie Gaziantep, Dr. Halil Oçalan, Unfallchirurgie",
     "ar": "أخصائي عظام، عظام غازي عنتاب، دكتور خليل أوشالان، جراحة الصدمات"
   },
-  "update": "2026-04-13T12:17:37.938Z",
+  "update": "2026-04-13T21:08:57.966Z",
   "date": "2026-04-11T07:11:42.448Z",
   "title": {
     "tr": "Op. Dr. Halil İbrahim Öçalan | Ortopedi ve Travmatoloji Uzmanı - Gaziantep",
@@ -39,5 +38,6 @@
     "de": "OP-Dr. Halil Ibrahim Oçalan – Facharzt für Orthopädie und Unfallchirurgie - Gaziantep",
     "ar": "دكتور جراح خليل إبراهيم أوتشالان | أخصائي العظام والصدمات - غازي عنتاب"
   },
-  "slider": []
+  "slider": [],
+  "textmodul": false
 }

@@ -14,7 +14,6 @@
     "body": [],
     "footer": []
   },
-  "desc": {},
   "index": 6,
   "icon": "home",
   "description": {
@@ -29,7 +28,7 @@
     "de": "benutzerrechte, patientenrechte, nutzungsbedingungen",
     "ar": "حقوق المستخدمين، حقوق المرضى، شروط الاستخدام"
   },
-  "update": "2026-04-13T12:17:38.089Z",
+  "update": "2026-04-13T21:08:58.100Z",
   "date": "2026-04-11T07:11:42.500Z",
   "title": {
     "tr": "Kullanıcı Hakları",
@@ -42,5 +41,6 @@
     "en": "<h2>User Rights</h2><p>You have the following rights when using the Op. Dr. Halil Ibrahim Ocalan website. These rights are part of our approach that prioritizes patient safety and satisfaction.</p><h3>Patient Rights</h3><ul><li><strong>Right to Information:</strong> You have the right to receive complete information about your health condition, treatment options and process.</li><li><strong>Right to Choose:</strong> You have the right to choose among recommended treatment methods and to accept or refuse treatment.</li><li><strong>Right to Privacy:</strong> All your personal and health information is kept confidential and not shared with third parties except for legal obligations.</li><li><strong>Right to Safe Treatment:</strong> You have the right to be treated in a safe environment compliant with modern medical standards.</li><li><strong>Right to Respectful Treatment:</strong> You have the right to be treated with respect regardless of religion, language, race, gender and social status.</li></ul><h3>Website Terms of Use</h3><ul><li>Medical information on our website is for general informational purposes and does not replace professional medical advice.</li><li>Treatment decisions must be made after face-to-face examination.</li><li>Content on the website is protected by copyright.</li></ul><h3>Complaints and Feedback</h3><p>For complaints or feedback about our services, please contact us through our contact page.</p>",
     "de": "<h2>Benutzerrechte</h2><p>Sie haben die folgenden Rechte bei der Nutzung der Website von OP-Dr. Halil Ibrahim Ocalan.</p><h3>Patientenrechte</h3><ul><li><strong>Recht auf Information:</strong> Sie haben das Recht auf vollständige Information über Ihren Gesundheitszustand, Behandlungsoptionen und -prozess.</li><li><strong>Wahlrecht:</strong> Sie haben das Recht, zwischen empfohlenen Behandlungsmethoden zu wählen und eine Behandlung anzunehmen oder abzulehnen.</li><li><strong>Recht auf Privatsphäre:</strong> Alle Ihre persönlichen und gesundheitlichen Informationen werden vertraulich behandelt.</li><li><strong>Recht auf sichere Behandlung:</strong> Sie haben das Recht auf Behandlung in einer sicheren Umgebung gemäß modernen medizinischen Standards.</li><li><strong>Recht auf respektvolle Behandlung:</strong> Sie haben das Recht, unabhängig von Religion, Sprache, Rasse, Geschlecht und sozialem Status respektvoll behandelt zu werden.</li></ul><h3>Nutzungsbedingungen der Website</h3><ul><li>Medizinische Informationen auf unserer Website dienen allgemeinen Informationszwecken.</li><li>Behandlungsentscheidungen müssen nach persönlicher Untersuchung getroffen werden.</li><li>Inhalte der Website sind urheberrechtlich geschützt.</li></ul>",
     "ar": "<h2>حقوق المستخدمين</h2><p>لديك الحقوق التالية عند استخدام موقع الدكتور جراح خليل إبراهيم أوتشالان.</p><h3>حقوق المرضى</h3><ul><li><strong>الحق في المعلومات:</strong> لديك الحق في الحصول على معلومات كاملة حول حالتك الصحية وخيارات العلاج والعملية.</li><li><strong>حق الاختيار:</strong> لديك الحق في الاختيار بين طرق العلاج الموصى بها وقبول أو رفض العلاج.</li><li><strong>الحق في الخصوصية:</strong> جميع معلوماتك الشخصية والصحية تُحفظ بسرية.</li><li><strong>الحق في العلاج الآمن:</strong> لديك الحق في العلاج في بيئة آمنة وفقاً للمعايير الطبية الحديثة.</li><li><strong>الحق في المعاملة المحترمة:</strong> لديك الحق في المعاملة باحترام بغض النظر عن الدين واللغة والعرق والجنس والوضع الاجتماعي.</li></ul><h3>شروط استخدام الموقع</h3><ul><li>المعلومات الطبية على موقعنا هي لأغراض المعلومات العامة.</li><li>يجب اتخاذ قرارات العلاج بعد الفحص الشخصي.</li><li>محتويات الموقع محمية بموجب حقوق النشر.</li></ul>"
-  }
+  },
+  "slider": []
 }

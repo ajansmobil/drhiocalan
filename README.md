@@ -1,142 +1,159 @@
-# Proje — web talimat kontrol listesi
+# Dr. Halil İbrahim Öçalan - Web Projesi
 
-> **Ne bu dosya?** elo web `talimatlar/web/rust.js` çalıştığında proje veri köküne `README.md` olarak yazılır. Üç dosya aynı içeriktir: `README.md`, `.cursorrules`, `CLAUDE.md`.
-> **LLM Talimat:** Bu dosyayı okuduğunda aşağıdaki kontrol listesini madde madde **gerçekten kontrol et**. Projedeki ilgili JSON dosyalarını aç, veriyi incele ve her maddeyi doğrula. Doğrulanan maddeyi `[ ]` → `[x]` olarak işaretle, sorunlu olanları `[ ]` bırakıp altına kısa açıklama yaz. Yeniden yazılmada aynı metinli maddelerin `[x]` işareti korunur.
+Bu proje, Op. Dr. Halil İbrahim Öçalan'ın profesyonel web sitesinin kaynak kodlarını içermektedir. Site; ortopedi ve travmatoloji alanındaki uzmanlık bilgilerini, tedavi yöntemlerini ve doktorun özgeçmişini paylaşmak amacıyla geliştirilmiştir.
 
-| Alan | Değer |
-|------|-------|
-| Veri kökü | `D:\matrix\public\data\proje\drhiocalan\web` |
-| Üretim | 2026-04-13T17:59:28.081Z |
-| Talimat slug | `web` |
-| Tam kural metni | elo web `talimatlar/web/rust.md` |
-| Proje kontrol şablonu | `talimatlar/web/CLAUDE.md` ile aynı maddeler (bu dosya üreticide tanımlı) |
+## 👨‍⚕️ Doktor Bilgileri
 
-## Zorunlu JSON dosyaları
+**Op. Dr. Halil İbrahim Öçalan**
+*Ortopedi ve Travmatoloji Uzmanı*
 
-- [ ] `setting.json` mevcut ve geçerli JSON
-- [ ] `desing.json` mevcut ve geçerli JSON
-- [ ] `modules.json` mevcut ve geçerli JSON
-- [ ] `pagesetting.json` mevcut ve geçerli JSON
-- [ ] `page.json` mevcut ve geçerli JSON
+### 📜 Özgeçmiş
+1984 yılında Manisa'nın Kırkağaç ilçesinde doğmuş olup aslen Çankırı'nın Çerkeş ilçesindendir. İlköğretim eğitimine Elazığ'ın Palu ilçesinde başlamış, eğitimine Elazığ merkezde bulunan Yunus Emre İlköğretim Okulu'nda devam etmiştir. Ortaöğrenimini Elazığ Anadolu Lisesi'nde tamamlayan Dr. Öçalan, 2002 yılında mezun olmuştur.
 
-## R1 — Ana sayfa listeye eklenmez
+2002 yılında Kırıkkale Üniversitesi Tıp Fakültesi'ni kazanarak tıp eğitimine başlamış ve 2009 yılında tıp doktoru unvanını almıştır. Mezuniyetinin ardından 2009–2011 yılları arasında Ağrı'nın Taşlıçay ilçesinde pratisyen hekim olarak görev yapmıştır. Ardından Gaziantep'te Ortopedi ve Travmatoloji alanında uzmanlık eğitimine başlamış ve 2016 yılında Ortopedi ve Travmatoloji Uzmanı olmuştur.
 
-- [ ] Hiçbir kategori JSON `data[]` içinde `id`, `path` veya `name` değeri `"home"` / `"Ana Sayfa"` yok
-- [ ] `page/home/` klasörü mevcut değil
+Uzmanlık eğitiminin ardından 2016–2023 yılları arasında Niğde Eğitim ve Araştırma Hastanesi'nde Ortopedi ve Travmatoloji Uzmanı olarak görev yapmıştır.
 
-## R2 — path: sadece slug, slash yok
+2023 yılından itibaren mesleki çalışmalarını Gaziantep Özel Deva Hastanesi'nde sürdürmektedir.
 
-- [ ] Tüm `path` alanlarında başında ve sonunda `/` yok
+### 📞 İletişim Bilgileri
+* **Telefon:** +90 533 643 74 27
+* **Adres:** 25 Aralık Mah. Tüfekçi Yusuf Bulvarı No: 98 Özel Deva Hastanesi Şahinbey/Gaziantep
 
-## R3 — page.json yapısı
+---
 
-- [ ] `page.json` üst seviyede `name`, `path`, `desc`, `data`, `index`, `desing`, `modulestatus` alanları mevcut
-- [ ] `index` alanı sayı tipinde (string değil)
+## 🛠 Uzmanlık Alanları ve Tedavi Yöntemleri (Detaylı)
 
-## R4 — pagesetting.json yapısı
+### 🦴 Artroskopi Cerrahisi (Omuz, Diz ve Ayak Bileği)
+Artroskopi cerrahisi, eklem hastalıklarının tanı ve tedavisinde kullanılan minimal invaziv (kapalı) cerrahi yöntemlerden biridir. Bu yöntemde eklem içerisine küçük kesilerden yerleştirilen bir kamera (artroskop) ve özel cerrahi aletler sayesinde eklem yapıları detaylı şekilde görüntülenir ve gerekli tedavi uygulanır. Omuz, diz ve ayak bileği artroskopisi, eklem içindeki hasarların daha küçük kesilerle tedavi edilmesini sağladığı için hastalara daha az ağrı, daha hızlı iyileşme ve kısa sürede günlük yaşama dönüş avantajı sunar.
 
-- [ ] `pagesetting.json` üst seviyede yalnızca `{ "data": [...] }` var
-- [ ] `name` tek string (`"name": "Sayfalar"` doğru; obje yanlış)
+#### Diz Artroskopisi
+Diz artroskopisi, diz ekleminde meydana gelen birçok hastalığın tanı ve tedavisinde kullanılan modern bir cerrahi yöntemdir. Diz ekleminde görülen kıkırdak hasarları, bağ yaralanmaları ve menisküs problemleri artroskopik yöntemle tedavi edilebilir. Uygulandığı durumlar:
+* Menisküs yırtıkları
+* Ön çapraz bağ (ACL) yaralanmaları
+* Diz kıkırdak hasarları
+* Diz içi serbest cisimler
+* Diz ekleminde ağrı ve hareket kısıtlılığı
 
-## R5 — setting.json domain ve çoklu dil
+#### Omuz Artroskopisi
+Omuz artroskopisi, omuz ekleminde oluşan yaralanma ve hastalıkların kapalı yöntemle tedavi edilmesini sağlar. Artroskopik cerrahi sayesinde omuz eklemindeki sorunlar daha küçük kesilerle tedavi edilebilir. Uygulandığı başlıca durumlar:
+* Omuz çıkıkları ve tekrarlayan omuz çıkığı
+* Rotator manşet yırtıkları
+* Omuz sıkışma sendromu
+* Omuz kıkırdak hasarları
+* Omuz bağ yaralanmaları
 
-- [ ] `domain` alanında `http://`, `https://` ve sonda `/` yok
-- [ ] `description` ve `keyword` alanları çoklu dil objesi (`{ "tr": "...", "en": "..." }`)
+#### Ayak Bileği Artroskopisi
+Ayak bileği artroskopisi, ayak bileği ekleminde oluşan yaralanma ve hastalıkların tanı ve tedavisinde kullanılan modern bir cerrahi yöntemdir. Bu yöntem özellikle spor yaralanmalarında ve kronik ayak bileği ağrılarında etkili sonuçlar sağlar. Uygulandığı durumlar:
+* Ayak bileği bağ yaralanmaları
+* Kıkırdak hasarları
+* Ayak bileği sıkışma sendromu
+* Eklem içi serbest cisimler
+* Kronik ayak bileği ağrıları
 
-## R6 — desing.json renk anahtarları
+#### Artroskopi Avantajları
+* Daha küçük cerrahi kesiler
+* Daha az ağrı
+* Daha hızlı iyileşme süreci
+* Daha kısa hastanede kalış süresi
+* Günlük yaşama ve spora daha hızlı dönüş
 
-- [ ] Renk anahtarları `lite` ve `dark` (`"light"` kullanılmamış)
+---
 
-## R7 — Modül ekleme kuralı
+### 🦾 Protez Cerrahisi (Kalça ve Diz)
+Kalça ve diz protez cerrahisi, ileri derecede eklem hasarı, kireçlenme (osteoartrit) ve çeşitli ortopedik hastalıklar nedeniyle ağrı ve hareket kısıtlılığı yaşayan hastalarda uygulanan etkili bir tedavi yöntemidir. Bu cerrahi işlemde hasar görmüş eklem yüzeyleri çıkarılarak yerine özel olarak tasarlanmış yapay eklem (protez) yerleştirilir.
 
-- [ ] `modules.json` içindeki her modül `path` değeri WebYapar katalogunda tanımlı
-- [ ] `desing.json` ve `pagesetting` modül id'leri `modules.json` ile uyumlu
+#### Kalça Protezi Cerrahisi
+Kalça protezi ameliyatı, kalça ekleminde ciddi kireçlenme veya hasar oluştuğunda uygulanan bir cerrahi işlemdir. Ameliyatta kalça ekleminin hasarlı bölümleri çıkarılarak yerine metal, seramik veya özel plastik materyallerden oluşan protez yerleştirilir. Uygulandığı durumlar:
+* Kalça kireçlenmesi (kalça osteoartriti)
+* Kalça kırıkları
+* Romatizmal eklem hastalıkları
+* Kalça ekleminde doğumsal bozukluklar
+* Kalça ekleminde travma sonrası hasar
 
-## R8 — Zorunlu modüller
+#### Diz Protezi Cerrahisi
+Diz protezi ameliyatı, diz ekleminde ileri derecede kireçlenme ve eklem hasarı bulunan hastalarda uygulanan bir cerrahi tedavi yöntemidir. Diz eklemindeki aşınmış kıkırdak ve kemik yüzeyleri çıkarılarak yerine yapay eklem yüzeyleri yerleştirilir. Uygulandığı durumlar:
+* İleri derecede diz kireçlenmesi
+* Diz ekleminde şekil bozukluğu
+* Romatoid artrit gibi romatizmal hastalıklar
+* Travma sonrası gelişen eklem hasarları
+* Şiddetli diz ağrısı ve hareket kısıtlılığı
 
-- [ ] `desing.json` içinde `header` ve `headerdefault` dizilerinde menü modülü id'si var
-- [ ] `desing.json` içinde `footer` ve `footerdefault` dizilerinde footer modülü id'si var
+#### Protez Cerrahisi Avantajları
+* Kronik eklem ağrısının azalması
+* Eklem hareketlerinin artması
+* Günlük yaşam aktivitelerinde rahatlama
+* Yürüme ve hareket kabiliyetinin iyileşmesi
+* Yaşam kalitesinin önemli ölçüde artması
 
-## R9 — Çoklu kategori dosyaları
+---
 
-- [ ] `pagesetting.json` her `path` için karşılık gelen `[path].json` dosyası mevcut
+### 🏃 Spor Cerrahisi
+Spor cerrahisi, spor yaparken veya günlük fiziksel aktiviteler sırasında oluşan kas, bağ, tendon ve eklem yaralanmalarının tanı ve tedavisi ile ilgilenen ortopedi ve travmatoloji alanıdır. Doğru tanı ve zamanında tedavi, spora güvenli bir şekilde geri dönüş için büyük önem taşır.
 
-## R10 — Aktif dillere göre çeviri tamlığı
+#### Spor Yaralanmaları
+* Ön çapraz bağ (ACL) yaralanmaları
+* Menisküs yırtıkları
+* Omuz çıkıkları ve omuz bağ yaralanmaları
+* Rotator manşet yırtıkları
+* Ayak bileği bağ yaralanmaları
+* Kas ve tendon yırtıkları
+* Spor kaynaklı kırık ve çıkıklar
+* Diz ve omuz kıkırdak yaralanmaları
 
-- [ ] `setting.langs` içinde `true` olan her kod için `setting.description` ve `setting.keyword` dolu (anahtar var, değer anlamlı; boş string yok)
-- [ ] Kök `page.json` ve ilgili `[path].json` `data[]` öğelerinde: `name`, `description`, `keyword` ve tanımlıysa `title` — aktif dillere göre çok dilli nesne (`text` konumu **R11 / R14** ile belirlenir, liste satırında `text` olmayabilir)
-- [ ] `pagesetting.json` içindeki her `path` ile eşleşen `[path].json` dosyasında `data[]` için aynı çok dilli tamlık; **DIL** rapor satırı hangi dosyayı gösteriyorsa o dosya bu kapsamdadır
-- [ ] **Liste + detay** (`detail` açık) kategorilerde birleşik `text` tüm aktif dillerde dolu; kanonik kaynak **`page/{id}/index.json`** (R14 — listede `text` yok)
-- [ ] `status === "play"` kayıtlarda eksik dil anahtarı kalmamalı
+#### Tedavi Yöntemleri
+* Artroskopik (kapalı) cerrahi yöntemleri
+* Ön çapraz bağ (ACL) rekonstrüksiyonu
+* Menisküs onarımı veya menisküs cerrahisi
+* Omuz stabilizasyon ameliyatları
+* Tendon ve bağ onarımları
+* Spor rehabilitasyonu ve güçlendirme programları
 
-## R11 — modulestatus.detail === false ve text yokluğu
+---
 
-- [ ] `detail: false` olan kategorilerde `page/{id}/index.json` içinde `text` anahtarı yok
+### 🩹 Travma Cerrahisi
+Travma cerrahisi, düşme, trafik kazası, spor yaralanmaları veya çeşitli kazalar sonucu oluşan kırık, çıkık, bağ yaralanmaları ve yumuşak doku hasarlarının cerrahi ve cerrahi dışı yöntemlerle tedavisini kapsayan bir ortopedi alanıdır.
 
-## R12 — Modül seçimi: önce katalogdan, son çare code
+#### Tedavi Edilen Durumlar
+* Kemik kırıkları
+* Eklem çıkıkları
+* Spor yaralanmaları
+* Bağ ve tendon yaralanmaları
+* Kas ve yumuşak doku hasarları
+* Trafik kazası sonrası ortopedik yaralanmalar
+* Yüksekten düşme sonucu oluşan travmalar
 
-- [ ] Modül `path` değerleri gerçek WebYapar katalog modülü (code modülü yalnızca son çare)
+#### Tedavi Yöntemleri
+* Kırık tespiti (plak, vida veya çivi uygulamaları)
+* Kapalı veya açık kırık ameliyatları
+* Artroskopik cerrahi yöntemleri
+* Bağ ve tendon onarımları
+* Rehabilitasyon ve fizik tedavi süreçleri
 
-## R13 — page.json modulestatus
+---
 
-- [ ] `page.json` üst seviye `modulestatus`: `detail: false`, `img: false`
+### 🖐 El Cerrahisi ve Mikrocerrahi
+El cerrahisi ve mikrocerrahi, el, bilek ve ön kol bölgesinde oluşan hastalıkların, yaralanmaların ve doğumsal sorunların tanı ve tedavisini kapsayan ileri bir cerrahi alandır. Mikrocerrahi ise mikroskop ve özel cerrahi ekipmanlar kullanılarak çok küçük damar ve sinirlerin onarılmasını sağlayan ileri bir cerrahi yöntemdir.
 
-## R14 — `text` yalnızca `page/{id}/index.json` (liste→detay açıkken)
+#### Tedavi Edilen Hastalıklar
+* El ve el bileği kırıkları
+* Tendon kesileri ve tendon yaralanmaları
+* Sinir yaralanmaları
+* Parmak kopmaları ve uzuv kopmaları
+* Karpal tünel sendromu
+* Tetik parmak
+* El ve bilek bağ yaralanmaları
+* Doğumsal el deformiteleri
+* El kistleri ve tümörleri
 
-- [ ] `detail` açık kategorilerde (`modulestatus.detail !== false`) liste `data[]` satırında **`text` anahtarı yok**; gövde metni yalnızca `page/{id}/index.json` içinde
-- [ ] R11 istisnası: `detail === false` ise tam tersi — `page/{id}/index.json` içinde `text` yok, metin liste satırında olabilir
+#### Mikrocerrahi Yöntemleri
+* Kopan parmak veya uzuvların yeniden dikilmesi
+* Sinir onarımları
+* Damar onarımları
+* Kompleks el yaralanmalarının tedavisi
+* Doku nakli ve rekonstrüksiyon cerrahisi
 
-## R15 — Üst liste satırı: yalnızca beyaz liste anahtarları
+---
 
-- [ ] `[path].json` `data[]` satırında yalnızca: `name`, `id`, `index`, `path`, `category`, `img`, `bg`, `bgimg`, `status`, `url`, `icon`, `desing`, `pathnext`, `description`, `modulestatus` (+ R11 iken liste satırında `text`)
-- [ ] `keyword`, `title`, `textmodul`, `slider`, `update`, `date` ve diğer ek anahtarlar **`page/{id}/index.json`** içinde (üst liste şişmesin)
-
-## DIL bulguları — genel yorumlama ve düzeltme (rust.js çıktısı)
-
-> Bu bölüm **belirli bir projeye özel değildir**; `talimatlar/web/rust.js` veya eşdeğer kontrolün ürettiği **DIL** satırlarını her veri kökünde aynı mantıkla okumak ve gidermek içindir.
-
-### DIL satırı ne anlama gelir?
-
-- **DIL**, kayıtta **zorunlu çok dilli alanın** (`name`, `description`, `keyword`, `title`, `text` vb.) `setting.json` → `langs` içinde **`true`** olan dil kodlarından en az biri için **eksik** olduğunu veya **boş string** olduğunu ifade eder.
-- Çıktıda **(liste+detay)** ifadesi geçiyorsa denetleyici birleşik alanı kontrol eder; **`text` düzeltmesi** çoğunlukla **`page/{id}/index.json`** üzerinden yapılır (**R14**: `detail` açıkken listede `text` olmamalı).
-
-### Rapor satırını ayrıştırma (şablon)
-
-| Parça | Yorum |
-|-------|-------|
-| `dosya.json` | Veri köküne göre göreli yol; tam dosyayı aç |
-| `data[i]` | Kök `data` dizinindeki indeks; `id:...` ile çakışma varsa `id` üzerinden doğrula |
-| `.alan` | Örn. `.text` → ilgili nesnede `text` yoksa ekle; varsa eksik dil alt anahtarlarını tamamla |
-
-### Aktif dil kümesi (tek doğruluk kaynağı)
-
-- Düzeltmeden önce **`setting.json` → `langs`** okunur: yalnızca değeri **`true`** olan kodlar zorunludur (ör. `tr`, `en`, `de`, `ar`). `false` olanlar için anahtar açmak gerekmez.
-
-### Önerilen düzeltme sırası
-
-1. `read_file` ile `setting.json` ve raporda adı geçen JSON.
-2. Eksik çok dilli nesneyi, aynı kayıttaki `name` / `description` ile **aynı dil kodları** üzerinden doldur; içerik o dilde tutarlı olsun (SEO bölümündeki TR/EN ayrımı ve kopya yasağı geçerlidir).
-3. `patch_file` veya eşdeğer diff ile kaydet; JSON sözdizimi ve UTF-8 korunur.
-4. Rapor açıkça bir **HTML** dosyası gösteriyorsa müdahale orada; aksi halde veri katmanı JSON’da kalır.
-
-### R10 / R11 / R14 / R15 ile hizalama
-
-- **R10** çok dilli tamlığı geniş kapsar (kök sayfa + `[path].json` kategori dosyaları).
-- **R11** yalnızca `modulestatus.detail === false` durumunda `page/{id}/index.json` içinde **`text` olmamasını** ister; eksik `text` tamamlanacaksa liste `data[]` satırına bakılır.
-- **R14** `detail` açıkken **`text` yalnızca** `page/{id}/index.json` içindedir; DIL `(liste+detay).text` gösteriyorsa önce bu dosyayı açın, listeden `text` kaldırın.
-- **R15** `R15:` satırı izinsiz anahtar gösteriyorsa alanı `page/{id}/index.json` dosyasına taşıyın (beyaz liste dışı).
-
-### Kanonik kuralın yeri
-
-- Otomatik kurallar ve tam denetim mantığı **ELO web** `talimatlar/web/rust.md` + `rust.js` üzerindedir. Bu dosya **elle kontrol özeti**dir; denetleyici ile çelişki varsa ELO tarafındaki talimat güncellenmelidir. Bu DIL bölümü, raporu okuyan LLM veya geliştirici için **ortak sözlük ve iş akışı** sağlar.
-
-## SEO ve içerik kalitesi
-
-- [ ] TR description uzunluğu ~120–160 karakter aralığında
-- [ ] TR/EN metinleri farklı (kopyala-yapıştır çeviri yok)
-- [ ] Sayfalar arası Jaccard benzerliği %65 altında
-- [ ] Yetim `page/*` klasörü yok (listedeki id ile eşleşmeyen)
-
-## Elle notlar
-
-_(İsteğe bağlı: kullanıcı veya LLM buraya serbest not ekleyebilir; yeniden üretimde bu blok şablonda sabitlenmez — dosyayı elle genişletiyorsanız yedek alın.)_
+### 📏 Boy Uzatma Cerrahisi
+Boy uzatma cerrahisi, kemiklerin kontrollü olarak uzatılması prensibine dayanan modern ortopedik cerrahi yöntemlerden biridir. Bu yöntem; doğuştan veya sonradan oluşan bacak kısalıkları, bacak boyu eşitsizlikleri ve bazı deformitelerin tedavisinde uygulanabildiği gibi, estetik amaçlı boy uzatma taleplerinde de t

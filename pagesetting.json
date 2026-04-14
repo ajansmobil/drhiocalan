@@ -3,7 +3,6 @@
     {
       "name": "Sayfalar",
       "path": "page",
-      "desc": [],
       "data": [],
       "index": 0,
       "desing": {
@@ -21,7 +20,6 @@
     {
       "name": "Tedavi Yöntemleri",
       "path": "products",
-      "desc": [],
       "data": [],
       "index": 1,
       "desing": {
@@ -40,7 +38,6 @@
     {
       "name": "Kurumsal",
       "path": "kurumsal",
-      "desc": [],
       "data": [],
       "index": 2,
       "desing": {

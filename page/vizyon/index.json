@@ -14,7 +14,6 @@
     "body": [],
     "footer": []
   },
-  "desc": {},
   "index": 2,
   "icon": "home",
   "description": {
@@ -29,7 +28,7 @@
     "de": "vision, orthopädische technologie, moderne medizin",
     "ar": "الرؤية، تكنولوجيا العظام، الطب الحديث"
   },
-  "update": "2026-04-13T12:17:38.058Z",
+  "update": "2026-04-13T21:08:58.068Z",
   "date": "2026-04-11T07:11:42.477Z",
   "title": {
     "tr": "Vizyon",
@@ -42,5 +41,6 @@
     "en": "<h2>Our Vision</h2><p>As Op. Dr. Halil Ibrahim Ocalan, our vision is to become a reference center in orthopedics and traumatology in Gaziantep and surrounding areas with a reliable, innovative healthcare approach that prioritizes patient satisfaction.</p><p>By closely following continuously developing medical technologies, we aim to offer our patients the most current and effective treatment methods. We strive for excellence in orthopedic surgery, working to restore every patient's health and improve their quality of life.</p><h3>Our Goals</h3><ul><li>Becoming a nationally recognized reference center in orthopedics</li><li>Applying state-of-the-art surgical methods and treatment protocols</li><li>Continuously improving service quality by measuring patient satisfaction</li><li>Providing comprehensive orthopedic treatment with a multidisciplinary approach</li><li>Conducting awareness and educational activities contributing to public health</li></ul>",
     "de": "<h2>Unsere Vision</h2><p>Als OP-Dr. Halil Ibrahim Ocalan ist unsere Vision, ein Referenzzentrum für Orthopädie und Unfallchirurgie in Gaziantep und Umgebung zu werden — mit einem zuverlässigen, innovativen Gesundheitskonzept, das die Patientenzufriedenheit in den Vordergrund stellt.</p><h3>Unsere Ziele</h3><ul><li>Ein national anerkanntes Referenzzentrum für Orthopädie werden</li><li>Modernste chirurgische Methoden und Behandlungsprotokolle anwenden</li><li>Servicequalität durch kontinuierliche Messung der Patientenzufriedenheit verbessern</li><li>Umfassende orthopädische Behandlung mit multidisziplinärem Ansatz bieten</li><li>Aufklärungs- und Bildungsaktivitäten für die öffentliche Gesundheit durchführen</li></ul>",
     "ar": "<h2>رؤيتنا</h2><p>بصفتنا الدكتور جراح خليل إبراهيم أوتشالان، رؤيتنا هي أن نصبح مركزاً مرجعياً في مجال جراحة العظام والصدمات في غازي عنتاب والمناطق المحيطة بنهج رعاية صحية موثوق ومبتكر يضع رضا المرضى في المقدمة.</p><h3>أهدافنا</h3><ul><li>أن نصبح مركزاً مرجعياً معترفاً به وطنياً في مجال جراحة العظام</li><li>تطبيق أحدث الأساليب الجراحية وبروتوكولات العلاج</li><li>تحسين جودة الخدمة باستمرار من خلال قياس رضا المرضى</li><li>تقديم علاج عظمي شامل بنهج متعدد التخصصات</li><li>إجراء أنشطة توعوية وتثقيفية تساهم في الصحة العامة</li></ul>"
-  }
+  },
+  "slider": []
 }

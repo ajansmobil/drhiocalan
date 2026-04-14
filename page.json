@@ -28,8 +28,7 @@
         "de": "OP-Dr. Halil İbrahim Öçalan – Facharzt für Orthopädie und Unfallchirurgie. Aus Kirkağaç, Manisa stammend, bietet professionelle orthopädische Dienstleistungen in Gaziantep an.",
         "ar": "دكتور جراح خليل إبراهيم أوتشالان - أخصائي العظام والصدمات. من كيركاجاق، مانيسا مولود، يقدم خدمات عظمية احترافية في غازي عنتاب."
       },
-      "icon": "home",
-      "desc": {}
+      "icon": "home"
     },
     {
       "name": {
@@ -58,8 +57,7 @@
         "en": "Orthopedic treatment services provided by Op. Dr. Halil İbrahim Öçalan: Trauma Surgery, Sports Surgery, Hand Surgery, Prosthesis Surgery, Diabetic Foot and more.",
         "de": "Von OP-Dr. Halil İbrahim Öçalan angebotene orthopädische Behandlungsdienstleistungen: Unfallchirurgie, Sportchirurgie, Handchirurgie, Prothesenchirurgie, diabetischer Fuß und mehr.",
         "ar": "خدمات العلاج العظمي المقدمة من الدكتور جراح خليل إبراهيم أوتشالان: جراحة الصدمات، جراحة الرياضة، جراحة اليد، جراحة التعويضات، القدم السكري والمزيد."
-      },
-      "desc": {}
+      }
     },
     {
       "name": {
@@ -88,23 +86,7 @@
         "en": "Contact Op. Dr. Halil İbrahim Öçalan. Get in touch with us to make an appointment for the orthopedics and traumatology specialist in Gaziantep.",
         "de": "Kontaktieren Sie OP-Dr. Halil İbrahim Öçalan. Wenden Sie sich an uns, um einen Termin für den Orthopädie- und Unfallchirurgie-Facharzt in Gaziantep zu vereinbaren.",
         "ar": "اتصل بالدكتور جراح خليل إبراهيم أوتشالان. تواصل معنا لحجز موعد مع أخصائي العظام والصدمات في غازي عنتاب."
-      },
-      "desc": {},
-      "keyword": {
-        "tr": "ortopedi uzmanı, gaziantep ortopedi, dr halil öçalan, randevu, iletişim",
-        "en": "orthopedic specialist, gaziantep orthopedics, dr halil ocalan, appointment, contact",
-        "de": "Orthopädie Facharzt, Orthopädie Gaziantep, Dr. Halil Oçalan, Terminvereinbarung, Kontakt",
-        "ar": "أخصائي عظام، عظام غازي عنتاب، دكتور خليل أوشالان، حجز موعد، اتصال"
-      },
-      "update": "2026-04-13T19:01:58.937Z",
-      "date": "2026-04-11T07:11:42.461Z",
-      "title": {
-        "tr": "İletişim | Op. Dr. Halil Öçalan - Ortopedi ve Travmatoloji Uzmanı",
-        "en": "Contact | Op. Dr. Halil Ocalan - Orthopedics and Traumatology Specialist",
-        "de": "Kontakt | OP-Dr. Halil Oçalan – Facharzt für Orthopädie und Unfallchirurgie",
-        "ar": "اتصل | الدكتور جراح خليل أوشالان - أخصائي العظام والصدمات"
-      },
-      "slider": []
+      }
     }
   ],
   "index": 0,

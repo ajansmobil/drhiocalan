@@ -26,14 +26,13 @@
     "de": "Kontaktieren Sie OP-Dr. Halil İbrahim Öçalan. Wenden Sie sich an uns, um einen Termin für den Orthopädie- und Unfallchirurgie-Facharzt in Gaziantep zu vereinbaren.",
     "ar": "اتصل بالدكتور جراح خليل إبراهيم أوتشالان. تواصل معنا لحجز موعد مع أخصائي العظام والصدمات في غازي عنتاب."
   },
-  "desc": {},
   "keyword": {
     "tr": "ortopedi uzmanı, gaziantep ortopedi, dr halil öçalan, randevu, iletişim",
     "en": "orthopedic specialist, gaziantep orthopedics, dr halil ocalan, appointment, contact",
     "de": "Orthopädie Facharzt, Orthopädie Gaziantep, Dr. Halil Oçalan, Terminvereinbarung, Kontakt",
     "ar": "أخصائي عظام، عظام غازي عنتاب، دكتور خليل أوشالان، حجز موعد، اتصال"
   },
-  "update": "2026-04-13T19:01:58.937Z",
+  "update": "2026-04-13T21:08:57.984Z",
   "date": "2026-04-11T07:11:42.461Z",
   "title": {
     "tr": "İletişim | Op. Dr. Halil Öçalan - Ortopedi ve Travmatoloji Uzmanı",
@@ -41,5 +40,6 @@
     "de": "Kontakt | OP-Dr. Halil Oçalan – Facharzt für Orthopädie und Unfallchirurgie",
     "ar": "اتصل | الدكتور جراح خليل أوشالان - أخصائي العظام والصدمات"
   },
-  "slider": []
+  "slider": [],
+  "textmodul": false
 }
