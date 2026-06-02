@@ -22,26 +22,97 @@
     },
     {
       "index": 1,
-      "name": "Slider",
-      "path": "slider",
+      "name": "Slider Text",
+      "path": "slider-text",
       "local": "header",
-      "category": "menu",
+      "category": "slider",
       "id": "vey1el",
       "desing": {
-        "delay": 4500,
-        "margin": "0px 0 12px 0"
+        "delay": 5000,
+        "margin": "0px 0 12px 0",
+        "height": "560px",
+        "max": "1200px",
+        "overlay": "0.55",
+        "align": "left",
+        "titlecolor": "#FFFBEB",
+        "desccolor": "rgba(255, 251, 235, 0.92)",
+        "btncolor": "#FFFBEB",
+        "btnbg": "#B45309",
+        "border_radius": "10px",
+        "bgcolor": "#134E4A",
+        "layout": ""
       },
       "version": "1.0.0",
-      "icon": "menu",
+      "icon": "view_carousel",
       "data": [
         {
-          "img": "1.webp"
+          "bg": "1.webp",
+          "bgcolor": "#134E4A",
+          "title": {
+            "tr": "Op. Dr. Halil İbrahim Öçalan",
+            "en": "Op. Dr. Halil Ibrahim Ocalan",
+            "de": "OP-Dr. Halil İbrahim Öçalan",
+            "ar": "د. خليل إبراهيم أوتشالان"
+          },
+          "description": {
+            "tr": "Ortopedi ve Travmatoloji Uzmanı — Gaziantep'te modern tanı, koruyucu yaklaşım ve cerrahi tedavi.",
+            "en": "Orthopedics and Traumatology Specialist — modern diagnosis, preventive care and surgical treatment in Gaziantep.",
+            "de": "Facharzt für Orthopädie und Unfallchirurgie — moderne Diagnostik, Prävention und chirurgische Behandlung in Gaziantep.",
+            "ar": "أخصائي العظام والصدمات — تشخيص حديث ووقاية وعلاج جراحي في غازي عنتاب."
+          },
+          "button": {
+            "tr": "Hakkımda",
+            "en": "About Me",
+            "de": "Über mich",
+            "ar": "نبذة عني"
+          },
+          "link": "hakkimizda"
         },
         {
-          "img": "2.webp"
+          "bg": "2.webp",
+          "bgcolor": "#0F766E",
+          "title": {
+            "tr": "Travma ve Spor Cerrahisi",
+            "en": "Trauma and Sports Surgery",
+            "de": "Unfall- und Sportchirurgie",
+            "ar": "جراحة الصدمات والرياضة"
+          },
+          "description": {
+            "tr": "Kırık, çıkık, bağ ve tendon yaralanmalarında uzman tanı ve tedavi. Diz, omuz ve ayak bileği cerrahisi.",
+            "en": "Expert diagnosis and treatment for fractures, dislocations, ligament and tendon injuries. Knee, shoulder and ankle surgery.",
+            "de": "Fachärztliche Diagnose und Behandlung bei Frakturen, Luxationen sowie Band- und Sehnenverletzungen. Knie-, Schulter- und Sprunggelenkchirurgie.",
+            "ar": "تشخيص وعلاج متخصص للكسور والخلع وإصابات الأربطة والأوتار. جراحة الركبة والكتف والكاحل."
+          },
+          "button": {
+            "tr": "Tedavileri Gör",
+            "en": "View Treatments",
+            "de": "Behandlungen ansehen",
+            "ar": "عرض العلاجات"
+          },
+          "link": "urunler"
         },
         {
-          "img": "3.webp"
+          "bg": "3.webp",
+          "bgcolor": "#115E59",
+          "title": {
+            "tr": "Kalça ve Diz Protezi",
+            "en": "Hip and Knee Replacement",
+            "de": "Hüft- und Knieprothese",
+            "ar": "زراعة مفصل الورك والركبة"
+          },
+          "description": {
+            "tr": "Eklem protezi, artroskopi, el cerrahisi ve mikrocerrahi ile hareket özgürlüğünüze kavuşun.",
+            "en": "Regain your mobility with joint replacement, arthroscopy, hand surgery and microsurgery.",
+            "de": "Wieder Bewegungsfreiheit durch Gelenkersatz, Arthroskopie, Handchirurgie und Mikrochirurgie.",
+            "ar": "استعد حركتك بزراعة المفاصل وتنظير المفاصل وجراحة اليد والجراحة المجهرية."
+          },
+          "button": {
+            "tr": "Randevu Alın",
+            "en": "Book Appointment",
+            "de": "Termin vereinbaren",
+            "ar": "احجز موعداً"
+          },
+          "link": "iletisim"
         }
       ]
     },
@@ -108,7 +179,17 @@
       "desing": {
         "channelUrl": "",
         "bandTitle": "YouTube videoları",
-        "videoIds": [],
+        "videoIds": [
+          "1aQX9ukUf2k",
+          "MsQriKjzF-8",
+          "fDgrmFXGJzo",
+          "c6XgVveBSq8",
+          "HuyJyrPkzCo",
+          "LCPyr02xXao",
+          "bq2WNClc-40",
+          "Pkujli26rHQ",
+          "TXO5NzxgfKU"
+        ],
         "bgcolor": "#134E4A",
         "color": "#ECFEFF",
         "accent": "#F59E0B",

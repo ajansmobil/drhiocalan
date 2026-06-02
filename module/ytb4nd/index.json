@@ -7,7 +7,17 @@
   "desing": {
     "channelUrl": "",
     "bandTitle": "YouTube videoları",
-    "videoIds": [],
+    "videoIds": [
+      "1aQX9ukUf2k",
+      "MsQriKjzF-8",
+      "fDgrmFXGJzo",
+      "c6XgVveBSq8",
+      "HuyJyrPkzCo",
+      "LCPyr02xXao",
+      "bq2WNClc-40",
+      "Pkujli26rHQ",
+      "TXO5NzxgfKU"
+    ],
     "bgcolor": "#0d1926",
     "color": "#e2e8f0",
     "accent": "#F59E0B",

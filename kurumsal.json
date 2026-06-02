@@ -4,10 +4,10 @@
   "data": [
     {
       "name": {
-        "tr": "Hakkımızda",
-        "en": "About Us",
-        "de": "Über uns",
-        "ar": "من نحن"
+        "tr": "Özgeçmiş",
+        "en": "Curriculum Vitae",
+        "de": "Lebenslauf",
+        "ar": "السيرة الذاتية"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -23,10 +23,10 @@
       "index": 0,
       "icon": "person",
       "description": {
-        "tr": "Op. Dr. Halil İbrahim Öçalan, Ortopedi ve Travmatoloji alanında uzman hekim. Gaziantep'te modern tıbbi hizmetler.",
-        "en": "Op. Dr. Halil Ibrahim Ocalan, specialist in Orthopedics and Traumatology. Modern medical services in Gaziantep.",
-        "de": "OP-Dr. Halil İbrahim Öçalan, Facharzt für Orthopädie und Unfallchirurgie. Moderne medizinische Dienstleistungen in Gaziantep.",
-        "ar": "دكتور جراح خليل إبراهيم أوتشالان، أخصائي في مجال العظام والصدمات. خدمات طبية حديثة في غازي عنتاب."
+        "tr": "Op. Dr. Halil İbrahim Öçalan özgeçmişi: Kırkağaç doğumlu, Çerkeş kökenli. Kırıkkale Tıp (2009), Gaziantep uzmanlık (2016), Niğde EAH ve Özel Deva Hastanesi.",
+        "en": "CV of Op. Dr. Halil Ibrahim Ocalan: born Kirkağaç, from Çerkeş. Kırıkkale Medicine (2009), Gaziantep residency (2016), Niğde and Private Deva Hospital.",
+        "de": "Lebenslauf OP-Dr. Halil Ibrahim Oçalan: Kırıkkale (2009), Facharzt Gaziantep (2016), Niğde und Özel Deva.",
+        "ar": "سيرة الدكتور خليل إبراهيم أوشالان: كيريكالي 2009، تخصص غازي عنتاب 2016، نيجدة ومستشفى ديفا."
       }
     },
     {
@@ -34,7 +34,7 @@
         "tr": "Misyon",
         "en": "Mission",
         "de": "Mission",
-        "ar": "الرؤية"
+        "ar": "المهمة"
       },
       "status": "play",
       "id": "misyon",
@@ -46,12 +46,12 @@
         "footer": []
       },
       "index": 1,
-      "icon": "home",
+      "icon": "flag",
       "description": {
-        "tr": "Misyonumuz, hastalarımıza en kaliteli ortopedik hizmeti sunmak ve yaşam kalitelerini artırmaktır.",
-        "en": "Our mission is to provide our patients with the highest quality orthopedic service and improve their quality of life.",
-        "de": "Unsere Mission ist es, unseren Patienten die höchstwertige orthopädische Versorgung zu bieten und ihre Lebensqualität zu verbessern.",
-        "ar": "مهمتنا هي تزويد مرضى بأعلى جودة من الخدمة العظمية وتحسين جودة حياتهم."
+        "tr": "Hastalarımıza en kaliteli ortopedik sağlık hizmetini sunmak; travma, spor cerrahisi, protez ve el cerrahisinde güvenilir, bilimsel tedavi.",
+        "en": "Provide highest quality orthopedic care with reliable, evidence-based treatment in trauma, sports surgery, prosthetics and hand surgery.",
+        "de": "Höchstwertige orthopädische Versorgung in Unfall-, Sport-, Prothesen- und Handchirurgie mit wissenschaftlicher Grundlage.",
+        "ar": "تقديم أعلى جودة من الرعاية العظمية في الصدمات وجراحة الرياضة والتعويضات وجراحة اليد."
       }
     },
     {
@@ -71,12 +71,12 @@
         "footer": []
       },
       "index": 2,
-      "icon": "home",
+      "icon": "visibility",
       "description": {
-        "tr": "Vizyonumuz, Gaziantep ve çevresinde ortopedi alanında referans hastane olmak ve en son teknoloji tedavi yöntemlerini uygulamaktır.",
-        "en": "Our vision is to become a reference hospital in orthopedics in Gaziantep and surrounding areas and apply the latest technology treatment methods.",
-        "de": "Unsere Vision ist es, in Gaziantep und Umgebung ein Referenzkrankenhaus für Orthopädie zu werden und modernste Behandlungsmethoden anzuwenden.",
-        "ar": "رؤيتنا أن نكون مستشفى مرجعي في مجال العظام في غازي عنتاب والمناطق المحيطة وتطبيق أحدث تقنيات العلاج."
+        "tr": "Gaziantep ve bölgede ortopedi alanında güncel cerrahi tekniklerle referans hekim olmak; hasta odaklı sürekli gelişim.",
+        "en": "Become a regional reference in orthopedics with current surgical techniques and patient-centered continuous improvement.",
+        "de": "Regionale Referenz in Orthopädie mit modernen Techniken und patientenorientierter Weiterentwicklung.",
+        "ar": "أن نكون مرجعاً إقليمياً في العظام بتقنيات جراحية حديثة وتحسين مستمر يركز على المريض."
       }
     },
     {
@@ -96,12 +96,12 @@
         "footer": []
       },
       "index": 3,
-      "icon": "home",
+      "icon": "verified",
       "description": {
-        "tr": "Hastalarımıza en iyi hizmeti sunmak için sürekli iyileştirme politikası izliyoruz.",
-        "en": "We follow a continuous improvement policy to provide the best service to our patients.",
-        "de": "Wir verfolgen eine kontinuierliche Verbesserungsrichtlinie, um unseren Patienten den besten Service zu bieten.",
-        "ar": "نحن نتبع سياسة التحسين المستمر لتوفير أفضل خدمة لمرضانا."
+        "tr": "Hasta güvenliği, kılavuz uyumu, enfeksiyon kontrolü ve geri bildirimle ortopedi hizmetlerinde sürekli iyileştirme.",
+        "en": "Continuous improvement in orthopedic services through patient safety, guideline adherence, infection control and feedback.",
+        "de": "Kontinuierliche Verbesserung durch Patientensicherheit, Leitlinien, Infektionskontrolle und Feedback.",
+        "ar": "التحسين المستمر عبر سلامة المرضى والالتزام بالإرشادات ومكافحة العدوى."
       }
     },
     {
@@ -121,12 +121,12 @@
         "footer": []
       },
       "index": 4,
-      "icon": "home",
+      "icon": "policy",
       "description": {
-        "tr": "Kişisel verileriniz güvence altındadır. KVKK uyumlu veri işleme politikamız.",
-        "en": "Your personal data is secure. Our data processing policy compliant with KVKK.",
-        "de": "Ihre persönlichen Daten sind sicher. Unsere Datenschutzrichtlinie in Übereinstimmung mit KVKK.",
-        "ar": "بياناتك الشخصية آمنة. سياسة معالجة البيانات الخاصة بنا متوافقة مع KVKK."
+        "tr": "drhiocalan.com: kişisel verilerin toplanması, işlenme amaçları, saklama, güvenlik ve çerezler — gizlilik özeti.",
+        "en": "drhiocalan.com: collection, processing, storage, security and cookies — privacy summary.",
+        "de": "drhiocalan.com: Erhebung, Verarbeitung, Speicherung, Sicherheit und Cookies — Datenschutzübersicht.",
+        "ar": "drhiocalan.com: جمع البيانات والمعالجة والتخزين والأمان — ملخص الخصوصية."
       }
     },
     {
@@ -146,12 +146,12 @@
         "footer": []
       },
       "index": 5,
-      "icon": "home",
+      "icon": "shield",
       "description": {
-        "tr": "Kişisel verilerinizin korunması ve işlenmesi hakkında bilgiler.",
-        "en": "Information about the protection and processing of your personal data.",
-        "de": "Informationen zum Schutz und zur Verarbeitung Ihrer Personendaten.",
-        "ar": "معلومات حول حماية ومعالجة بياناتك الشخصية."
+        "tr": "KVKK kapsamında veri sorumlusu, işleme amaçları, hukuki sebepler, saklama ve güvenlik — kişisel veri bilgilendirmesi.",
+        "en": "KVKK: data controller, processing purposes, legal grounds, storage and security — personal data notice.",
+        "de": "KVKK: Verantwortlicher, Zwecke, Rechtsgrundlagen, Speicherung und Sicherheit.",
+        "ar": "قانون حماية البيانات: المسؤول عن المعالجة والأغراض والأسس القانونية."
       }
     },
     {
@@ -171,12 +171,12 @@
         "footer": []
       },
       "index": 6,
-      "icon": "home",
+      "icon": "gavel",
       "description": {
-        "tr": "Hasta hakları ve kullanım koşulları hakkında bilgiler.",
-        "en": "Information about patient rights and terms of use.",
-        "de": "Informationen über Patientenrechte und Nutzungsbedingungen.",
-        "ar": "معلومات حول حقوق المرضى وشروط الاستخدام."
+        "tr": "KVKK md. 11: bilgi talebi, erişim, düzeltme, silme, itiraz ve şikayet — başvuru özeti.",
+        "en": "KVKK Art. 11: information, access, rectification, erasure, objection and complaint rights.",
+        "de": "KVKK Art. 11: Auskunft, Zugang, Berichtigung, Löschung, Widerspruch und Beschwerde.",
+        "ar": "الحقوق بموجب المادة 11: المعلومات والوصول والتصحيح والحذف والاعتراض."
       }
     },
     {
@@ -196,12 +196,12 @@
         "footer": []
       },
       "index": 7,
-      "icon": "home",
+      "icon": "warning",
       "description": {
-        "tr": "Yasal uyarılar ve kullanım koşulları.",
-        "en": "Legal notices and terms of use.",
-        "de": "Rechtliche Hinweise und Nutzungsbedingungen.",
-        "ar": "إخلاءات المسؤولية القانونية وشروط الاستخدام."
+        "tr": "Site kullanım koşulları, tıbbi bilgilendirme sınırı, fikri mülkiyet ve sorumluluk reddi — yasal uyarı.",
+        "en": "Terms of use, scope of medical information, intellectual property and liability disclaimer.",
+        "de": "Nutzungsbedingungen, Grenzen medizinischer Information, Haftungsausschluss.",
+        "ar": "شروط الاستخدام وحدود المعلومات الطبية وإخلاء المسؤولية."
       }
     }
   ],
