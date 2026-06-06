@@ -58,7 +58,8 @@ if (backhtml === "" && !channelUrl) {
     '<p style="margin:0;opacity:0.9;">YouTube videoları yakında eklenecek. <code>modules.json</code> içinde <code>ytb4nd.desing.channelUrl</code> ve <code>videoIds</code> alanlarını doldurun.</p></div></div>';
 }
 
-var loopOn = ids.length > 1 ? "true" : "false";
+
+var loopOn = ids.length > 4 ? "true" : "false";
 html = html.replace(new RegExp("__YT_LOOP__", "g"), loopOn);
 html = html.replace(new RegExp("__YT_AUTOPLAY__", "g"), "false");
 html = html.replace(new RegExp("{{name}}", "g"), safeTitle);

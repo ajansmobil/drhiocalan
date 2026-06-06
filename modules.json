@@ -226,27 +226,22 @@
         {
           "img": "/src/icon/facebook.png",
           "name": "Facebook",
-          "externalUrl": ""
+          "externalUrl": "https://www.facebook.com/profile.php?id=61587664775520#"
         },
         {
           "img": "/src/icon/instagram.png",
           "name": "Instagram",
-          "externalUrl": ""
-        },
-        {
-          "img": "/src/icon/linkedin.png",
-          "name": "LinkedIn",
-          "externalUrl": ""
+          "externalUrl": "https://www.instagram.com/gazianteportopedi"
         },
         {
           "img": "/src/icon/youtube.png",
           "name": "YouTube",
-          "externalUrl": ""
+          "externalUrl": "https://www.youtube.com/@OrtopediGaziantep"
         },
         {
           "img": "/src/icon/whatsapp.png",
           "name": "WhatsApp",
-          "externalUrl": ""
+          "externalUrl": "https://wa.me/905336437427"
         }
       ],
       "version": "1.0.0",
@@ -256,7 +251,7 @@
       "index": 5,
       "name": "yan iletişim",
       "path": "code",
-      "local": "body",
+      "local": "footer",
       "category": "code",
       "id": "o4ql3g",
       "desing": {
@@ -270,9 +265,31 @@
         "position": "fixed",
         "color": "#25D366",
         "z_index": 10000,
-        "custom_design": true,
-        "layout": "custom",
-        "customizable": true
+        "img": "logo.png",
+        "status": {
+          "tr": "Şu anda çevrimiçi",
+          "en": "Currently online",
+          "ar": "متصل الآن"
+        },
+        "message": {
+          "tr": "Merhaba! Size nasıl yardımcı olabilirim?",
+          "en": "Hello! How can I help you?",
+          "ar": "مرحباً! كيف يمكنني مساعدتك؟"
+        },
+        "time": {
+          "tr": "Şimdi",
+          "en": "Now",
+          "ar": "الآن"
+        },
+        "button_text": {
+          "tr": "Sohbete Başla",
+          "en": "Start Chat",
+          "ar": "ابدأ المحادثة"
+        },
+        "avatar": "agent.png",
+        "advanced_features": true,
+        "custom_functions": true,
+        "advanced_integration": true
       },
       "data": [],
       "version": "1.0.0",

@@ -2,7 +2,7 @@
   "name": {
     "tr": "Gizlilik Politikası",
     "en": "Privacy Policy",
-    "de": "Datenschutzrichtlinie",
+    "de": "Datenschutzerklärung",
     "ar": "سياسة الخصوصية"
   },
   "status": "play",
@@ -11,18 +11,16 @@
   "category": "",
   "desing": {
     "header": [],
-    "body": [
-      "tp5jo4"
-    ],
+    "body": [],
     "footer": []
   },
-  "index": 5,
-  "icon": "lock",
+  "index": 4,
+  "icon": "policy",
   "description": {
-    "tr": "Web sitemizde kişisel verilerinizin korunması ve işlenmesi hakkında bilgilendirme. KVKK uyumlu politikalar.",
-    "en": "Information about protection and processing of your personal data on our website. GDPR-compliant policies.",
-    "de": "Information über Schutz und Verarbeitung Ihrer persönlichen Daten auf unserer Website. DSGVO-konforme Richtlinien.",
-    "ar": "معلومات حول حماية ومعالجة بياناتك الشخصية على موقعنا. سياسات متوافقة مع اللائحة العامة لحماية البيانات."
+    "tr": "drhiocalan.com: kişisel verilerin toplanması, işlenme amaçları, saklama, güvenlik ve çerezler — gizlilik özeti.",
+    "en": "drhiocalan.com: collection, processing, storage, security and cookies — privacy summary.",
+    "de": "drhiocalan.com: Erhebung, Verarbeitung, Speicherung, Sicherheit und Cookies — Datenschutzübersicht.",
+    "ar": "drhiocalan.com: جمع البيانات والمعالجة والتخزين والأمان — ملخص الخصوصية."
   },
   "keyword": {
     "tr": "gizlilik politikası, KVKK, kişisel veriler, veri koruma, gizlilik",
@@ -30,7 +28,7 @@
     "de": "Datenschutzrichtlinie, DSGVO, Personendaten, Datenschutz, Vertraulichkeit",
     "ar": "سياسة الخصوصية، اللائحة العامة لحماية البيانات، البيانات الشخصية، حماية البيانات، الخصوصية"
   },
-  "update": "2026-06-02T04:44:03.228Z",
+  "update": "2026-06-06T18:38:56.885Z",
   "date": "2026-04-13T12:00:00.000Z",
   "title": {
     "tr": "Gizlilik Politikası | Op. Dr. Halil İbrahim Öçalan",

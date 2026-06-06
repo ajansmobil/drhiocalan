@@ -11,18 +11,16 @@
   "category": "",
   "desing": {
     "header": [],
-    "body": [
-      "tp5jo4"
-    ],
+    "body": [],
     "footer": []
   },
   "index": 3,
-  "icon": "star",
+  "icon": "verified",
   "description": {
-    "tr": "Op. Dr. Halil İbrahim Öçalan olarak kalite politikamız, ortopedi ve travmatoloji alanında sunduğumuz sağlık hizmetlerini sürekli iyileştirmek.",
-    "en": "As Op. Dr. Halil İbrahim Öçalan our quality policy is to continuously improve healthcare services we provide in orthopedics and traumatology.",
-    "de": "Als OP-Dr. Halil İbrahim Öçalan ist unsere Qualitätsrichtlinie die von uns angebotenen Gesundheitsdienstleistungen in Orthopädie und Unfallchirurgie kontinuierlich zu verbessern.",
-    "ar": "بصفتنا الدكتور جراح خليل إبراهيم أوتشالان، سياسة الجودة لدينا هي تحسين خدمات الرعاية الصحية التي نقدمها في مجال جراحة العظام والصدمات باستمرار."
+    "tr": "Hasta güvenliği, kılavuz uyumu, enfeksiyon kontrolü ve geri bildirimle ortopedi hizmetlerinde sürekli iyileştirme.",
+    "en": "Continuous improvement in orthopedic services through patient safety, guideline adherence, infection control and feedback.",
+    "de": "Kontinuierliche Verbesserung durch Patientensicherheit, Leitlinien, Infektionskontrolle und Feedback.",
+    "ar": "التحسين المستمر عبر سلامة المرضى والالتزام بالإرشادات ومكافحة العدوى."
   },
   "keyword": {
     "tr": "kalite politikası, iyileştirme, hasta memnuniyeti, hasta güvenliği, gaziantep",
@@ -30,7 +28,7 @@
     "de": "Qualitätsrichtlinie, Verbesserung, Patientenzufriedenheit, Patientensicherheit, Gaziantep",
     "ar": "سياسة الجودة، التحسين، رضا المرضى، سلامة المرضى، غازي عنتاب"
   },
-  "update": "2026-06-02T04:44:03.228Z",
+  "update": "2026-06-06T18:38:56.881Z",
   "date": "2026-04-13T12:00:00.000Z",
   "title": {
     "tr": "Kalite Politikamız | Op. Dr. Halil İbrahim Öçalan",

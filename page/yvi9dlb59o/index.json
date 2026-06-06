@@ -16,7 +16,7 @@
     "body": [],
     "footer": []
   },
-  "pathnext": "hakkimizda",
+  "pathnext": "ozgecmis",
   "description": {
     "tr": "Op. Dr. Halil İbrahim Öçalan - Ortopedi ve Travmatoloji Uzmanı. Manisa Kırkağaç doğumlu, Gaziantep'te profesyonel ortopedik hizmetler.",
     "en": "Op. Dr. Halil Ibrahim Ocalan - Orthopedics and Traumatology Specialist. Born in Kirkağaç, Manisa, providing professional orthopedic services in Gaziantep.",
@@ -30,7 +30,7 @@
     "de": "Orthopädie Facharzt, Orthopädie Gaziantep, Dr. Halil Oçalan, Unfallchirurgie",
     "ar": "أخصائي عظام، عظام غازي عنتاب، دكتور خليل أوشالان، جراحة الصدمات"
   },
-  "update": "2026-04-13T21:08:57.966Z",
+  "update": "2026-06-06T18:40:03.752Z",
   "date": "2026-04-11T07:11:42.448Z",
   "title": {
     "tr": "Op. Dr. Halil İbrahim Öçalan | Ortopedi ve Travmatoloji Uzmanı - Gaziantep",
@@ -39,5 +39,11 @@
     "ar": "دكتور جراح خليل إبراهيم أوتشالان | أخصائي العظام والصدمات - غازي عنتاب"
   },
   "slider": [],
-  "textmodul": false
+  "textmodul": false,
+  "text": {
+    "tr": "",
+    "en": "",
+    "de": "",
+    "ar": ""
+  }
 }

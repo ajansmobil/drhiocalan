@@ -11,18 +11,16 @@
   "category": "",
   "desing": {
     "header": [],
-    "body": [
-      "tp5jo4"
-    ],
+    "body": [],
     "footer": []
   },
   "index": 1,
   "icon": "flag",
   "description": {
-    "tr": "Op. Dr. Halil İbrahim Öçalan olarak misyonumuz, hastalarımıza en yüksek kalitede ortopedik sağlık hizmeti sunmak ve yaşam kalitesini artırmak.",
-    "en": "As Op. Dr. Halil İbrahim Öçalan our mission is to provide our patients with the highest quality orthopedic healthcare and improve their quality of life.",
-    "de": "Als OP-Dr. Halil İbrahim Öçalan ist unsere Mission unseren Patienten die höchstwertige orthopädische Gesundheitsversorgung zu bieten und ihre Lebensqualität zu verbessern.",
-    "ar": "بصفتنا الدكتور جراح خليل إبراهيم أوتشالان، مهمتنا هي تزويد مرضى بأعلى جودة من الرعاية الصحية العظمية وتحسين جودة حياتهم."
+    "tr": "Hastalarımıza en kaliteli ortopedik sağlık hizmetini sunmak; travma, spor cerrahisi, protez ve el cerrahisinde güvenilir, bilimsel tedavi.",
+    "en": "Provide highest quality orthopedic care with reliable, evidence-based treatment in trauma, sports surgery, prosthetics and hand surgery.",
+    "de": "Höchstwertige orthopädische Versorgung in Unfall-, Sport-, Prothesen- und Handchirurgie mit wissenschaftlicher Grundlage.",
+    "ar": "تقديم أعلى جودة من الرعاية العظمية في الصدمات وجراحة الرياضة والتعويضات وجراحة اليد."
   },
   "keyword": {
     "tr": "misyon, ortopedi hizmeti, hasta memnuniyeti, yaşam kalitesi, gaziantep",
@@ -30,7 +28,7 @@
     "de": "Mission, orthopädischer Dienst, Patientenzufriedenheit, Lebensqualität, Gaziantep",
     "ar": "المهمة، خدمة العظام، رضا المرضى، جودة الحياة، غازي عنتاب"
   },
-  "update": "2026-06-02T04:44:03.228Z",
+  "update": "2026-06-06T18:38:56.872Z",
   "date": "2026-04-13T12:00:00.000Z",
   "title": {
     "tr": "Misyon | Op. Dr. Halil İbrahim Öçalan - Ortopedi ve Travmatoloji Uzmanı",

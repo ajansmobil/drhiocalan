@@ -32,7 +32,7 @@
     "de": "Orthopädie Facharzt, Orthopädie Gaziantep, Dr. Halil Oçalan, Terminvereinbarung, Kontakt",
     "ar": "أخصائي عظام، عظام غازي عنتاب، دكتور خليل أوشالان، حجز موعد، اتصال"
   },
-  "update": "2026-04-13T21:08:57.984Z",
+  "update": "2026-06-06T18:38:56.820Z",
   "date": "2026-04-11T07:11:42.461Z",
   "title": {
     "tr": "İletişim | Op. Dr. Halil Öçalan - Ortopedi ve Travmatoloji Uzmanı",
@@ -41,5 +41,11 @@
     "ar": "اتصل | الدكتور جراح خليل أوشالان - أخصائي العظام والصدمات"
   },
   "slider": [],
-  "textmodul": false
+  "textmodul": false,
+  "text": {
+    "tr": "",
+    "en": "",
+    "de": "",
+    "ar": ""
+  }
 }

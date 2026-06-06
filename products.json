@@ -10,24 +10,24 @@
         "de": "Unfallchirurgie",
         "ar": "جراحة الصدمات"
       },
-      "status": "play",
       "id": "travma-cerrahisi",
+      "index": 0,
       "path": "travma-cerrahisi",
       "category": "",
+      "img": "kart.webp",
+      "status": "play",
+      "icon": "emergency",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 0,
-      "icon": "emergency",
       "description": {
         "tr": "Travma cerrahisi: kırık, çıkık, bağ yaralanmaları ve yumuşak doku hasarlarının cerrahi ve cerrahi dışı tedavisi. Gaziantep'te uzman hizmet.",
         "en": "Trauma surgery: surgical and non-surgical treatment of fractures, dislocations, ligament injuries and soft tissue damage. Expert care in Gaziantep.",
         "de": "Unfallchirurgie: chirurgische und konservative Behandlung von Frakturen, Luxationen, Bandverletzungen und Weichteilschäden. Fachärztliche Versorgung in Gaziantep.",
         "ar": "جراحة الصدمات: العلاج الجراحي وغير الجراحي للكسور والخلع وإصابات الأربطة وتلف الأنسجة الرخوة. رعاية متخصصة في غازي عنتاب."
-      },
-      "img": "kart.webp"
+      }
     },
     {
       "name": {
@@ -36,25 +36,24 @@
         "de": "Handchirurgie und Mikrochirurgie",
         "ar": "جراحة اليد والجراحة المجهرية"
       },
-      "status": "play",
       "id": "el-cerrahisi-ve-mikrocerrahi",
+      "index": 1,
       "path": "el-cerrahisi-ve-mikrocerrahi",
       "category": "",
+      "img": "kart.webp",
+      "status": "play",
+      "icon": "back_hand",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 1,
-      "icon": "back_hand",
       "description": {
         "tr": "El cerrahisi ve mikrocerrahi: el, bilek ve ön kol bölgesinde oluşan hastalık, yaralanma ve doğumsal sorunların ileri cerrahi tedavisi. Gaziantep.",
         "en": "Hand surgery and microsurgery: advanced surgical treatment of diseases, injuries and congenital problems of the hand, wrist and forearm. Gaziantep.",
         "de": "Handchirurgie und Mikrochirurgie: fortgeschrittene chirurgische Behandlung von Erkrankungen, Verletzungen und angeborenen Problemen der Hand, des Handgelenks und des Unterarms. Gaziantep.",
         "ar": "جراحة اليد والجراحة المجهرية: العلاج الجراحي المتقدم لأمراض وإصابات ومشاكل اليد والمعصم والساعد الخلقية. غازي عنتاب."
-      },
-      
-      "img": "kart.webp"
+      }
     },
     {
       "name": {
@@ -63,25 +62,24 @@
         "de": "Sportchirurgie",
         "ar": "جراحة الرياضة"
       },
-      "status": "play",
       "id": "spor-cerrahisi",
+      "index": 2,
       "path": "spor-cerrahisi",
       "category": "",
+      "img": "kart.webp",
+      "status": "play",
+      "icon": "sports_soccer",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 2,
-      "icon": "sports_soccer",
       "description": {
         "tr": "Spor cerrahisi: kas, bağ, tendon ve eklem yaralanmalarının tanı ve tedavisi. Diz, omuz, ayak bileği yaralanmalarında uzman cerrahi hizmet.",
         "en": "Sports surgery: diagnosis and treatment of muscle, ligament, tendon and joint injuries. Expert surgical care for knee, shoulder and ankle injuries.",
         "de": "Sportchirurgie: Diagnose und Behandlung von Muskel-, Band-, Sehnen- und Gelenkverletzungen. Fachärztliche chirurgische Versorgung bei Knie-, Schulter- und Sprunggelenkverletzungen.",
         "ar": "جراحة الرياضة: تشخيص وعلاج إصابات العضلات والأربطة والأوتار والمفاصل. رعاية جراحية متخصصة لإصابات الركبة والكتف والكاحل."
-      },
-
-      "img": "kart.webp"
+      }
     },
     {
       "name": {
@@ -90,25 +88,24 @@
         "de": "Arthroskopie-Chirurgie",
         "ar": "جراحة المنظار المفصلي"
       },
-      "status": "play",
       "id": "artroskopi-cerrahisi",
+      "index": 3,
       "path": "artroskopi-cerrahisi",
       "category": "",
+      "img": "kart.webp",
+      "status": "play",
+      "icon": "visibility",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 3,
-      "icon": "visibility",
       "description": {
         "tr": "Omuz, diz ve ayak bileği artroskopi cerrahisi: eklem hastalıklarının kapalı yöntemle tanı ve tedavisi. Daha az ağrı, hızlı iyileşme.",
         "en": "Shoulder, knee and ankle arthroscopy surgery: minimally invasive diagnosis and treatment of joint diseases. Less pain, faster recovery.",
         "de": "Schulter-, Knie- und Sprunggelenkarthroskopie: minimalinvasive Diagnose und Behandlung von Gelenkerkrankungen. Weniger Schmerzen, schnellere Genesung.",
         "ar": "جراحة تنظير الكتف والركبة والكاحل: التشخيص والعلاج طفيف التوغل لأمراض المفاصل. ألم أقل، تعافٍ أسرع."
-      },
-
-      "img": "kart.webp"
+      }
     },
     {
       "name": {
@@ -117,25 +114,24 @@
         "de": "Hüft- und Knieprothesenchirurgie",
         "ar": "جراحة استبدال مفصل الورك والركبة"
       },
-      "status": "play",
       "id": "kalca-ve-diz-protez-cerrahisi",
+      "index": 4,
       "path": "kalca-ve-diz-protez-cerrahisi",
       "category": "",
+      "img": "kart.webp",
+      "status": "play",
+      "icon": "accessible",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 4,
-      "icon": "accessible",
       "description": {
         "tr": "Kalça ve diz protez cerrahisi: ileri derecede eklem hasarı ve kireçlenmede yapay eklem uygulaması. Ağrısız hareket ve yaşam kalitesi.",
         "en": "Hip and knee replacement surgery: artificial joint application for advanced joint damage and osteoarthritis. Pain-free movement and quality of life.",
         "de": "Hüft- und Knieprothesenchirurgie: künstlicher Gelenkersatz bei fortgeschrittenen Gelenkschäden und Arthrose. Schmerzfreie Bewegung und Lebensqualität.",
         "ar": "جراحة استبدال مفصل الورك والركبة: تطبيق المفصل الصناعي لتلف المفاصل المتقدم والتهاب المفاصل. حركة بدون ألم وجودة حياة."
-      },
-
-      "img": "kart.webp"
+      }
     },
     {
       "name": {
@@ -144,25 +140,24 @@
         "de": "Diabetische Fußchirurgie",
         "ar": "جراحة القدم السكرية"
       },
-      "status": "play",
       "id": "diyabetik-ayak-cerrahisi",
+      "index": 5,
       "path": "diyabetik-ayak-cerrahisi",
       "category": "",
+      "img": "kart.webp",
+      "status": "play",
+      "icon": "healing",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 5,
-      "icon": "healing",
       "description": {
         "tr": "Diyabetik ayak cerrahisi: diyabete bağlı ayak yaraları, enfeksiyonlar ve doku hasarlarının cerrahi tedavisi. Erken tanı ve uzman müdahale.",
         "en": "Diabetic foot surgery: surgical treatment of diabetes-related foot wounds, infections and tissue damage. Early diagnosis and expert intervention.",
         "de": "Diabetische Fußchirurgie: chirurgische Behandlung von diabetischen Fußwunden, Infektionen und Gewebeschäden. Früherkennung und fachärztliche Intervention.",
         "ar": "جراحة القدم السكرية: العلاج الجراحي لجروح القدم المرتبطة بالسكري والالتهابات وتلف الأنسجة. التشخيص المبكر والتدخل المتخصص."
-      },
-
-      "img": "kart.webp"
+      }
     },
     {
       "name": {
@@ -171,25 +166,24 @@
         "de": "Deformitätenchirurgie",
         "ar": "جراحة التشوهات"
       },
-      "status": "play",
       "id": "deformite-cerrahisi",
+      "index": 6,
       "path": "deformite-cerrahisi",
       "category": "",
+      "img": "kart.webp",
+      "status": "play",
+      "icon": "straighten",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 6,
-      "icon": "straighten",
       "description": {
         "tr": "Deformite cerrahisi: kemik ve eklemlerdeki şekil bozukluklarının cerrahi düzeltilmesi. Bacak eğrilikleri, uzunluk farkları ve eklem sorunları.",
         "en": "Deformity surgery: surgical correction of bone and joint deformities. Leg curvatures, length discrepancies and joint problems.",
         "de": "Deformitätenchirurgie: chirurgische Korrektur von Knochen- und Gelenkdeformitäten. Beinverkrümmungen, Längendifferenzen und Gelenkprobleme.",
         "ar": "جراحة التشوهات: التصحيح الجراحي لتشوهات العظام والمفاصل. انحناءات الساق وفروق الطول ومشاكل المفاصل."
-      },
-
-      "img": "kart.webp"
+      }
     },
     {
       "name": {
@@ -198,25 +192,24 @@
         "de": "Beinverlängerungschirurgie",
         "ar": "جراحة إطالة القامة"
       },
-      "status": "play",
       "id": "boy-uzatma-cerrahisi",
+      "index": 7,
       "path": "boy-uzatma-cerrahisi",
       "category": "",
+      "img": "kart.webp",
+      "status": "play",
+      "icon": "height",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 7,
-      "icon": "height",
       "description": {
         "tr": "Boy uzatma cerrahisi: kemiklerin kontrollü uzatılması ile bacak kısalıkları ve boy eşitsizliklerinin tedavisi. Modern ortopedik yöntemler.",
         "en": "Limb lengthening surgery: treatment of limb shortness and height discrepancies through controlled bone lengthening. Modern orthopedic methods.",
         "de": "Beinverlängerungschirurgie: Behandlung von Beinverkürzungen und Größenunterschieden durch kontrollierte Knochenverlängerung. Moderne orthopädische Methoden.",
         "ar": "جراحة إطالة القامة: علاج قصر الأطراف وعدم تساوي الطول من خلال إطالة العظام المتحكم بها. أساليب عظمية حديثة."
-      },
-
-      "img": "kart.webp"
+      }
     }
   ],
   "index": 1,

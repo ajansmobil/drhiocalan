@@ -1,9 +1,9 @@
 {
   "name": {
-    "tr": "Kişisel Verilerin Korunması",
-    "en": "Protection of Personal Data",
-    "de": "Schutz personenbezogener Daten",
-    "ar": "حماية البيانات الشخصية"
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "de": "Personendaten",
+    "ar": "البيانات الشخصية"
   },
   "status": "play",
   "id": "kisiselveriler",
@@ -11,18 +11,16 @@
   "category": "",
   "desing": {
     "header": [],
-    "body": [
-      "tp5jo4"
-    ],
+    "body": [],
     "footer": []
   },
   "index": 5,
-  "icon": "security",
+  "icon": "shield",
   "description": {
-    "tr": "Kişisel verilerinizin korunması ve işlenmesi hakkında bilgilendirme metni. KVKK uyumlu veri politikaları.",
-    "en": "Information text about protection and processing of your personal data. GDPR-compliant data policies.",
-    "de": "Informationstext über Schutz und Verarbeitung Ihrer persönlichen Daten. DSGVO-konforme Datenschutzrichtlinien.",
-    "ar": "نص معلوماتي حول حماية ومعالجة بياناتك الشخصية. سياسات بيانات متوافقة مع اللائحة العامة لحماية البيانات."
+    "tr": "KVKK kapsamında veri sorumlusu, işleme amaçları, hukuki sebepler, saklama ve güvenlik — kişisel veri bilgilendirmesi.",
+    "en": "KVKK: data controller, processing purposes, legal grounds, storage and security — personal data notice.",
+    "de": "KVKK: Verantwortlicher, Zwecke, Rechtsgrundlagen, Speicherung und Sicherheit.",
+    "ar": "قانون حماية البيانات: المسؤول عن المعالجة والأغراض والأسس القانونية."
   },
   "keyword": {
     "tr": "kişisel veriler, KVKK, veri koruma, gizlilik politikası, aydınlatma metni",
@@ -30,7 +28,7 @@
     "de": "Personendaten, DSGVO, Datenschutz, Datenschutzrichtlinie, Offenlegungstext",
     "ar": "البيانات الشخصية، اللائحة العامة لحماية البيانات، حماية البيانات، سياسة الخصوصية، نص الإفصاح"
   },
-  "update": "2026-06-02T04:44:03.228Z",
+  "update": "2026-06-06T18:38:56.889Z",
   "date": "2026-04-13T12:00:00.000Z",
   "title": {
     "tr": "Kişisel Verilerin Korunması | Op. Dr. Halil İbrahim Öçalan",

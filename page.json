@@ -10,25 +10,25 @@
         "de": "OP-Dr. Halil Ibrahim Oçalan",
         "ar": "دكتور جراح خليل إبراهيم أوتشالان"
       },
-      "status": "play",
-      "category": "",
       "id": "yvi9dlb59o",
-      "url": "",
-      "path": "kurumsal",
       "index": 0,
+      "path": "kurumsal",
+      "category": "",
+      "status": "play",
+      "url": "",
+      "icon": "home",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "pathnext": "hakkimizda",
+      "pathnext": "ozgecmis",
       "description": {
         "tr": "Op. Dr. Halil İbrahim Öçalan - Ortopedi ve Travmatoloji Uzmanı. Manisa Kırkağaç doğumlu, Gaziantep'te profesyonel ortopedik hizmetler.",
         "en": "Op. Dr. Halil Ibrahim Ocalan - Orthopedics and Traumatology Specialist. Born in Kirkağaç, Manisa, providing professional orthopedic services in Gaziantep.",
         "de": "OP-Dr. Halil İbrahim Öçalan – Facharzt für Orthopädie und Unfallchirurgie. Aus Kirkağaç, Manisa stammend, bietet professionelle orthopädische Dienstleistungen in Gaziantep an.",
         "ar": "دكتور جراح خليل إبراهيم أوتشالان - أخصائي العظام والصدمات. من كيركاجاق، مانيسا مولود، يقدم خدمات عظمية احترافية في غازي عنتاب."
-      },
-      "icon": "home"
+      }
     },
     {
       "name": {
@@ -37,12 +37,12 @@
         "de": "Behandlungen und Verfahren",
         "ar": "العلاجات والإجراءات"
       },
-      "status": "play",
-      "category": "",
       "id": "hs54qzyeyo",
-      "url": "",
-      "path": "urunler",
       "index": 1,
+      "path": "tedaviler-ve-uygulamalar",
+      "category": "",
+      "status": "play",
+      "url": "",
       "icon": "home",
       "desing": {
         "header": [],
@@ -66,12 +66,12 @@
         "de": "Kontakt",
         "ar": "اتصل بنا"
       },
-      "status": "play",
-      "category": "",
       "id": "xnzu5au0ag",
-      "url": "",
-      "path": "iletisim",
       "index": 2,
+      "path": "iletisim",
+      "category": "",
+      "status": "play",
+      "url": "",
       "icon": "home",
       "desing": {
         "header": [],
@@ -98,7 +98,8 @@
   "modulestatus": {
     "page": true,
     "body": true,
-    "detail": false,
-    "img": false
+    "detail": true,
+    "img": false,
+    "bgimg": true
   }
 }

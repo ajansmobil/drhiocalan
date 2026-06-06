@@ -9,10 +9,13 @@
         "de": "Lebenslauf",
         "ar": "السيرة الذاتية"
       },
-      "status": "play",
       "id": "hakkimizda",
-      "path": "hakkimizda",
+      "index": 0,
+      "path": "ozgecmis",
       "category": "",
+      "img": "",
+      "status": "play",
+      "icon": "person",
       "desing": {
         "header": [],
         "body": [
@@ -20,8 +23,6 @@
         ],
         "footer": []
       },
-      "index": 0,
-      "icon": "person",
       "description": {
         "tr": "Op. Dr. Halil İbrahim Öçalan özgeçmişi: Kırkağaç doğumlu, Çerkeş kökenli. Kırıkkale Tıp (2009), Gaziantep uzmanlık (2016), Niğde EAH ve Özel Deva Hastanesi.",
         "en": "CV of Op. Dr. Halil Ibrahim Ocalan: born Kirkağaç, from Çerkeş. Kırıkkale Medicine (2009), Gaziantep residency (2016), Niğde and Private Deva Hospital.",
@@ -36,17 +37,17 @@
         "de": "Mission",
         "ar": "المهمة"
       },
-      "status": "play",
       "id": "misyon",
+      "index": 1,
       "path": "misyon",
       "category": "",
+      "status": "play",
+      "icon": "flag",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 1,
-      "icon": "flag",
       "description": {
         "tr": "Hastalarımıza en kaliteli ortopedik sağlık hizmetini sunmak; travma, spor cerrahisi, protez ve el cerrahisinde güvenilir, bilimsel tedavi.",
         "en": "Provide highest quality orthopedic care with reliable, evidence-based treatment in trauma, sports surgery, prosthetics and hand surgery.",
@@ -61,17 +62,17 @@
         "de": "Vision",
         "ar": "الرؤية"
       },
-      "status": "play",
       "id": "vizyon",
+      "index": 2,
       "path": "vizyon",
       "category": "",
+      "status": "play",
+      "icon": "visibility",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 2,
-      "icon": "visibility",
       "description": {
         "tr": "Gaziantep ve bölgede ortopedi alanında güncel cerrahi tekniklerle referans hekim olmak; hasta odaklı sürekli gelişim.",
         "en": "Become a regional reference in orthopedics with current surgical techniques and patient-centered continuous improvement.",
@@ -86,17 +87,17 @@
         "de": "Unsere Qualitätsrichtlinie",
         "ar": "سياسة الجودة لدينا"
       },
-      "status": "play",
       "id": "kalitepolitikamiz",
+      "index": 3,
       "path": "kalite-politikamiz",
       "category": "",
+      "status": "play",
+      "icon": "verified",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 3,
-      "icon": "verified",
       "description": {
         "tr": "Hasta güvenliği, kılavuz uyumu, enfeksiyon kontrolü ve geri bildirimle ortopedi hizmetlerinde sürekli iyileştirme.",
         "en": "Continuous improvement in orthopedic services through patient safety, guideline adherence, infection control and feedback.",
@@ -111,17 +112,17 @@
         "de": "Datenschutzerklärung",
         "ar": "سياسة الخصوصية"
       },
-      "status": "play",
       "id": "gizlilikpolitikasi",
+      "index": 4,
       "path": "gizlilik-politikasi",
       "category": "",
+      "status": "play",
+      "icon": "policy",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 4,
-      "icon": "policy",
       "description": {
         "tr": "drhiocalan.com: kişisel verilerin toplanması, işlenme amaçları, saklama, güvenlik ve çerezler — gizlilik özeti.",
         "en": "drhiocalan.com: collection, processing, storage, security and cookies — privacy summary.",
@@ -136,17 +137,17 @@
         "de": "Personendaten",
         "ar": "البيانات الشخصية"
       },
-      "status": "play",
       "id": "kisiselveriler",
+      "index": 5,
       "path": "kisisel-veriler",
       "category": "",
+      "status": "play",
+      "icon": "shield",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 5,
-      "icon": "shield",
       "description": {
         "tr": "KVKK kapsamında veri sorumlusu, işleme amaçları, hukuki sebepler, saklama ve güvenlik — kişisel veri bilgilendirmesi.",
         "en": "KVKK: data controller, processing purposes, legal grounds, storage and security — personal data notice.",
@@ -161,17 +162,17 @@
         "de": "Benutzerrechte",
         "ar": "حقوق المستخدمين"
       },
-      "status": "play",
       "id": "kullanicahaklari",
+      "index": 6,
       "path": "kullanici-haklari",
       "category": "",
+      "status": "play",
+      "icon": "gavel",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 6,
-      "icon": "gavel",
       "description": {
         "tr": "KVKK md. 11: bilgi talebi, erişim, düzeltme, silme, itiraz ve şikayet — başvuru özeti.",
         "en": "KVKK Art. 11: information, access, rectification, erasure, objection and complaint rights.",
@@ -186,17 +187,17 @@
         "de": "Rechtlicher Hinweis",
         "ar": "إخلاء مسؤولية قانوني"
       },
-      "status": "play",
       "id": "yasaluyari",
+      "index": 7,
       "path": "yasal-uyari",
       "category": "",
+      "status": "play",
+      "icon": "warning",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 7,
-      "icon": "warning",
       "description": {
         "tr": "Site kullanım koşulları, tıbbi bilgilendirme sınırı, fikri mülkiyet ve sorumluluk reddi — yasal uyarı.",
         "en": "Terms of use, scope of medical information, intellectual property and liability disclaimer.",
@@ -212,5 +213,6 @@
       "tp5jo4"
     ],
     "footer": []
-  }
+  },
+  "modulestatus": {}
 }

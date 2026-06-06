@@ -11,18 +11,16 @@
   "category": "",
   "desing": {
     "header": [],
-    "body": [
-      "tp5jo4"
-    ],
+    "body": [],
     "footer": []
   },
   "index": 6,
   "icon": "gavel",
   "description": {
-    "tr": "Hasta hakları ve kullanım koşulları hakkında bilgiler.",
-    "en": "Information about patient rights and terms of use.",
-    "de": "Informationen über Patientenrechte und Nutzungsbedingungen.",
-    "ar": "معلومات حول حقوق المرضى وشروط الاستخدام."
+    "tr": "KVKK md. 11: bilgi talebi, erişim, düzeltme, silme, itiraz ve şikayet — başvuru özeti.",
+    "en": "KVKK Art. 11: information, access, rectification, erasure, objection and complaint rights.",
+    "de": "KVKK Art. 11: Auskunft, Zugang, Berichtigung, Löschung, Widerspruch und Beschwerde.",
+    "ar": "الحقوق بموجب المادة 11: المعلومات والوصول والتصحيح والحذف والاعتراض."
   },
   "keyword": {
     "tr": "kullanıcı hakları, hasta hakları, kullanım koşulları",
@@ -30,7 +28,7 @@
     "de": "benutzerrechte, patientenrechte, nutzungsbedingungen",
     "ar": "حقوق المستخدمين، حقوق المرضى، شروط الاستخدام"
   },
-  "update": "2026-06-02T04:44:03.228Z",
+  "update": "2026-06-06T18:38:56.894Z",
   "date": "2026-04-11T07:11:42.500Z",
   "title": {
     "tr": "Kullanıcı Hakları",

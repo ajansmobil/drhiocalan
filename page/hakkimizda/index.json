@@ -7,7 +7,7 @@
   },
   "status": "play",
   "id": "hakkimizda",
-  "path": "hakkimizda",
+  "path": "ozgecmis",
   "category": "",
   "desing": {
     "header": [],
@@ -19,10 +19,10 @@
   "index": 0,
   "icon": "person",
   "description": {
-    "tr": "Op. Dr. Halil İbrahim Öçalan kimdir? Kırkağaç doğumlu, Çerkeş kökenli ortopedi uzmanı. Kırıkkale Tıp, Niğde EAH ve Gaziantep Özel Deva Hastanesi.",
-    "en": "Who is Op. Dr. Halil Ibrahim Ocalan? Orthopedics specialist; Kırıkkale Medical School, Niğde and Gaziantep Private Deva Hospital.",
-    "de": "OP-Dr. Halil Ibrahim Oçalan: Facharzt Orthopädie; Kırıkkale, Niğde, Özel Deva Gaziantep.",
-    "ar": "الدكتور خليل إبراهيم أوشالان: أخصائي عظام؛ كيريكالي، نيجدة، مستشفى ديفا غازي عنتاب."
+    "tr": "Op. Dr. Halil İbrahim Öçalan özgeçmişi: Kırkağaç doğumlu, Çerkeş kökenli. Kırıkkale Tıp (2009), Gaziantep uzmanlık (2016), Niğde EAH ve Özel Deva Hastanesi.",
+    "en": "CV of Op. Dr. Halil Ibrahim Ocalan: born Kirkağaç, from Çerkeş. Kırıkkale Medicine (2009), Gaziantep residency (2016), Niğde and Private Deva Hospital.",
+    "de": "Lebenslauf OP-Dr. Halil Ibrahim Oçalan: Kırıkkale (2009), Facharzt Gaziantep (2016), Niğde und Özel Deva.",
+    "ar": "سيرة الدكتور خليل إبراهيم أوشالان: كيريكالي 2009، تخصص غازي عنتاب 2016، نيجدة ومستشفى ديفا."
   },
   "keyword": {
     "tr": "özgeçmiş, dr halil öçalan, ortopedi uzmanı, gaziantep, hakkımızda",
@@ -30,7 +30,7 @@
     "de": "lebenslauf, dr. halil oçalan, orthopädie-facharzt, gaziantep",
     "ar": "السيرة الذاتية، دكتور خليل أوشالان، أخصائي عظام، غازي عنتاب"
   },
-  "update": "2026-06-02T04:40:52.498Z",
+  "update": "2026-06-06T18:38:56.867Z",
   "date": "2026-04-11T07:11:42.467Z",
   "title": {
     "tr": "Özgeçmiş",
@@ -46,5 +46,6 @@
     "ar": "<style id=\"modulex-cv-main-style\">#modulex-cv-main{width:100%;max-width:min(100%,var(--max,920px));margin:0 auto;padding:24px 16px 40px;background:#fff;box-sizing:border-box;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;}#modulex-cv-main *{box-sizing:border-box;}#modulex-cv-main .cv-row{display:flex;flex-wrap:wrap;gap:32px 48px;align-items:flex-start;}#modulex-cv-main .cv-main{flex:1;min-width:min(100%,260px);}#modulex-cv-main .cv-name{margin:0 0 16px;font-size:clamp(1.35rem,2.4vw,1.85rem);font-weight:700;color:#1e293b;letter-spacing:-0.02em;line-height:1.2;}#modulex-cv-main .cv-lead{margin:0 0 28px;font-size:0.95rem;line-height:1.65;color:#64748b;}#modulex-cv-main .cv-section{margin-bottom:26px;}#modulex-cv-main .cv-section h2{margin:0 0 12px;font-size:1.05rem;font-weight:700;color:#334155;}#modulex-cv-main .cv-section ul{margin:0;padding-left:1.15em;color:#64748b;font-size:0.9rem;line-height:1.55;list-style-type:disc;}#modulex-cv-main .cv-section li{margin-bottom:8px;}</style><div id=\"modulex-cv-main\"><div class=\"cv-row\"><div class=\"cv-main\"><h1 class=\"cv-name\">الدكتور الجراح خليل إبراهيم أوشالان</h1><p class=\"cv-lead\">أخصائي جراحة العظام والصدمات. مولود 1984 في قيرقاغاج بمانيسا، من أصل جركيش بشانكيري. كلية الطب كيريكالي (2009)، التخصص غازي عنتاب (2016). مستشفى نيجدة (2016–2023)؛ مستشفى ديفا غازي عنتاب منذ 2023.</p><section class=\"cv-section\"><h2>المعلومات الشخصية</h2><ul><li>الميلاد: 1984 — قيرقاغاج، مانيسا</li><li>الأصل: جركيش، شانكيري</li></ul></section><section class=\"cv-section\"><h2>التعليم</h2><ul><li>الابتدائي: يونس إمري، إلازيغ</li><li>الثانوي: ثانوية أناتوليا إلازيغ (2002)</li><li>الطب: جامعة كيريكالي (2009)</li><li>التخصص: العظام — غازي عنتاب (2016)</li></ul></section><section class=\"cv-section\"><h2>المناصب</h2><ul><li>طبيب عام — تاشليجاي (2009–2011)</li><li>تدريب تخصص — غازي عنتاب (2011–2016)</li><li>أخصائي — نيجدة (2016–2023)</li><li>أخصائي — ديفا غازي عنتاب (2023–الآن)</li></ul></section><section class=\"cv-section\"><h2>مجالات الخبرة</h2><ul><li>جراحة الصدمات</li><li>جراحة اليد والمجهرية</li><li>جراحة الرياضة</li><li>تنظير المفاصل</li><li>استبدال الورك والركبة</li><li>القدم السكري</li><li>جراحة التشوهات</li><li>إطالة الأطراف</li></ul></section><section class=\"cv-section\"><h2>الاتصال</h2><ul><li>العنوان: 25 Aralık Mah. Tüfekçi Yusuf Bulvarı No: 98، مستشفى ديفا</li><li>الهاتف: +90 533 643 74 27</li></ul></section></div></div></div>"
   },
   "textmodul": false,
-  "img": ""
+  "img": "",
+  "pathnext": ""
 }
