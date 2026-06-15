@@ -331,24 +331,6 @@
       "icon": "contact_mail"
     },
     {
-      "index": 7,
-      "name": "Maps",
-      "path": "map",
-      "local": "body",
-      "category": "map",
-      "id": "bi4hta",
-      "desing": {
-        "height": "200",
-        "opacity": "0.5",
-        "backgroundcolor": "#fff",
-        "color": "#134E4A",
-        "img": "map.png",
-        "externalUrl": ""
-      },
-      "version": "1.0.0",
-      "icon": "map"
-    },
-    {
       "index": 8,
       "name": "Kurumsal Sayfa Desing",
       "path": "code",
@@ -399,6 +381,111 @@
         "accent": "#F59E0B",
         "desc-size": "14px"
       }
+    },
+    {
+      "name": "Google Yorumlar",
+      "desing": {
+        "title": {
+          "tr": "Google Yorumları",
+          "en": "Google Reviews"
+        },
+        "subtitle": {
+          "tr": "Müşterilerimizin deneyimleri",
+          "en": "What our customers say"
+        },
+        "loadingText": {
+          "tr": "Yorumlar yükleniyor...",
+          "en": "Loading reviews..."
+        },
+        "errorText": {
+          "tr": "Yorumlar şu an gösterilemiyor.",
+          "en": "Reviews are unavailable right now."
+        },
+        "viewOnGoogle": {
+          "tr": "Google'da görüntüle",
+          "en": "View on Google"
+        },
+        "poweredBy": {
+          "tr": "Google yorumları",
+          "en": "Google reviews"
+        },
+        "placeId": "",
+        "placeQuery": "Özel Deva Hastanesi Şahinbey Gaziantep Op. Dr. Halil İbrahim Öçalan ortopedi",
+        "apiProxy": "/api/google-reviews",
+        "googleMapsUrl": "",
+        "maxReviews": "10",
+        "scrollDuration": "40",
+        "padding": "48px 0 48px 0",
+        "margin": "0",
+        "bgcolor": "var(--color-bg-secondary, #f8fafc)",
+        "cardBg": "var(--color-bg-primary, #ffffff)",
+        "textColor": "var(--color-text-primary, #0f172a)",
+        "mutedColor": "var(--color-text-secondary, #64748b)",
+        "accentColor": "var(--color-primary, #4285f4)",
+        "starColor": "#fbbc04",
+        "borderColor": "var(--color-border, #e2e8f0)"
+      },
+      "data": [
+        {
+          "author": {
+            "tr": "Ayşe K.",
+            "en": "Ayse K."
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Profesyonel ekip, hızlı iletişim ve kaliteli hizmet. Kesinlikle tavsiye ederim.",
+            "en": "Professional team, fast communication and quality service. Highly recommended."
+          },
+          "date": "2025-11-12",
+          "avatar": ""
+        },
+        {
+          "author": {
+            "tr": "Mehmet Y.",
+            "en": "Mehmet Y."
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Randevu süreci çok kolaydı. Sonuçtan çok memnun kaldım.",
+            "en": "The appointment process was very easy. I am very satisfied with the result."
+          },
+          "date": "2025-10-28",
+          "avatar": ""
+        },
+        {
+          "author": {
+            "tr": "Zeynep A.",
+            "en": "Zeynep A."
+          },
+          "rating": 4,
+          "text": {
+            "tr": "Güler yüzlü personel ve temiz ortam. Tekrar tercih edeceğim.",
+            "en": "Friendly staff and clean environment. I will choose again."
+          },
+          "date": "2025-09-15",
+          "avatar": ""
+        },
+        {
+          "author": {
+            "tr": "Can D.",
+            "en": "Can D."
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Beklentimin üzerinde bir deneyim yaşadım. Teşekkürler.",
+            "en": "I had an experience beyond my expectations. Thank you."
+          },
+          "date": "2025-08-03",
+          "avatar": ""
+        }
+      ],
+      "category": "social",
+      "description": "Google Maps işletme yorumlarını otomatik çeken ve kaydırmalı kartlarla gösteren modül. placeId ve apiProxy ile Google Places API proxy'sine bağlanır; API yoksa index.json data[] yedek olarak kullanılır. Yatay otomatik kaydırma, yıldız puanı, mobil uyum ve prefers-reduced-motion desteği içerir.",
+      "version": "1.0.0",
+      "icon": "reviews",
+      "id": "244kge",
+      "path": "google-yorumlar",
+      "local": "body"
     }
   ]
 }
