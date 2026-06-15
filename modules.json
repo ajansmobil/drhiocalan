@@ -383,15 +383,17 @@
       }
     },
     {
+      "index": 10,
       "name": "Google Yorumlar",
+      "path": "google-yorumlar",
       "desing": {
         "title": {
           "tr": "Google Yorumları",
           "en": "Google Reviews"
         },
         "subtitle": {
-          "tr": "Müşterilerimizin deneyimleri",
-          "en": "What our customers say"
+          "tr": "",
+          "en": ""
         },
         "loadingText": {
           "tr": "Yorumlar yükleniyor...",
@@ -413,8 +415,8 @@
         "placeQuery": "Op. Dr. Halil İbrahim Öçalan, Ortopedi Ve Travmatoloji",
         "apiProxy": "/api/google-reviews",
         "googleMapsUrl": "https://www.google.com/maps/place/Op.+Dr.+Halil+%C4%B0brahim+%C3%96%C3%A7alan,+Ortopedi+Ve+Travmatoloji/@37.0659523,37.378109,17z/data=!4m6!3m5!1s0x1531e176d7142cd9:0x208b8f7a6079a856!8m2!3d37.0659523!4d37.378109!16s%2Fg%2F11vb0y20cl",
-        "maxReviews": "10",
-        "scrollDuration": "40",
+        "maxReviews": "50",
+        "minRating": "4",
         "padding": "48px 0 48px 0",
         "margin": "0",
         "bgcolor": "var(--color-bg-secondary, #f8fafc)",
@@ -423,68 +425,733 @@
         "mutedColor": "var(--color-text-secondary, #64748b)",
         "accentColor": "var(--color-primary, #4285f4)",
         "starColor": "#fbbc04",
-        "borderColor": "var(--color-border, #e2e8f0)"
+        "borderColor": "var(--color-border, #e2e8f0)",
+        "prevLabel": {
+          "tr": "Daha yeni yorum",
+          "en": "Newer review"
+        },
+        "nextLabel": {
+          "tr": "Daha eski yorum",
+          "en": "Older review"
+        },
+        "navHint": {
+          "tr": "",
+          "en": ""
+        },
+        "cardsPerView": "3",
+        "autoPlayInterval": "6",
+        "viewOnGoogleBg": "var(--color-primary, #4285f4)",
+        "viewOnGoogleColor": "var(--color-text-inverse, #ffffff)",
+        "_greviewsBuildRating": 0,
+        "_greviewsBuildTotal": 50,
+        "_greviewsBuildAt": "2026-06-15"
       },
       "data": [
         {
           "author": {
-            "tr": "Ayşe K.",
-            "en": "Ayse K."
+            "tr": "Mehmet Kurt",
+            "en": "Mehmet Kurt"
           },
           "rating": 5,
           "text": {
-            "tr": "Profesyonel ekip, hızlı iletişim ve kaliteli hizmet. Kesinlikle tavsiye ederim.",
-            "en": "Professional team, fast communication and quality service. Highly recommended."
+            "tr": "Oğlum okulda geçirdiği iş kazası sonucu 4 parmağı koptu İbrahim Halil hoca ve ekibinden Allah razı olsun sürecin başından sonuna kadar gerek ameliyat gerek tedavi sürecinde ilgili güler yüzlü hijyenik çok gönülden tedavi süreci geçirdik Allah hepinizden razı olsun varolan sizlerin sayesinde oğlumun geleceği sağlığı tekrar eskisi gibi oldu çok teşekürler hepinize",
+            "en": "Oğlum okulda geçirdiği iş kazası sonucu 4 parmağı koptu İbrahim Halil hoca ve ekibinden Allah razı olsun sürecin başından sonuna kadar gerek ameliyat gerek tedavi sürecinde ilgili güler yüzlü hijyenik çok gönülden tedavi süreci geçirdik Allah hepinizden razı olsun varolan sizlerin sayesinde oğlumun geleceği sağlığı tekrar eskisi gibi oldu çok teşekürler hepinize"
           },
-          "date": "2025-11-12",
-          "avatar": ""
+          "date": "2026-05-23",
+          "avatar": "",
+          "sortTime": 1779485145547
         },
         {
           "author": {
-            "tr": "Mehmet Y.",
-            "en": "Mehmet Y."
+            "tr": "Cuma Yıldız",
+            "en": "Cuma Yıldız"
           },
           "rating": 5,
           "text": {
-            "tr": "Randevu süreci çok kolaydı. Sonuçtan çok memnun kaldım.",
-            "en": "The appointment process was very easy. I am very satisfied with the result."
+            "tr": "İs kazası geçirdim ve sağ ayağımdan çok ciddi yaralanmıştım .olay sonrası Halil hocayla sürecimiz başladı.halil hocanın hem ilgisinden hem yaptığı ameliyatlardan çok memnun kaldım.gercekten işini severek yapan bir doktor. Şu an geldigim noktada emeği çok ve sağlığımi kendisine borçluyum.",
+            "en": "İs kazası geçirdim ve sağ ayağımdan çok ciddi yaralanmıştım .olay sonrası Halil hocayla sürecimiz başladı.halil hocanın hem ilgisinden hem yaptığı ameliyatlardan çok memnun kaldım.gercekten işini severek yapan bir doktor. Şu an geldigim noktada emeği çok ve sağlığımi kendisine borçluyum."
           },
-          "date": "2025-10-28",
-          "avatar": ""
+          "date": "2026-03-10",
+          "avatar": "",
+          "sortTime": 1773128440169
         },
         {
           "author": {
-            "tr": "Zeynep A.",
-            "en": "Zeynep A."
+            "tr": "eFe CaN",
+            "en": "eFe CaN"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "09.01.2026 tarihinde yaşadığım iş kazası sonucunda Deva Hastanesi'ne sevk edildim. Serçe parmağımda ciddi bir yaralanma meydana gelmişti. Sayın Halil Hocamızın başarılı operasyonu sayesinde parmağım eski sağlığına kavuştu. Şu an sağlık durumum ve parmağımın işlevselliği oldukça iyi düzeydedir. Kendisine derin şükranlarımı sunarım.🙏",
+            "en": "09.01.2026 tarihinde yaşadığım iş kazası sonucunda Deva Hastanesi'ne sevk edildim. Serçe parmağımda ciddi bir yaralanma meydana gelmişti. Sayın Halil Hocamızın başarılı operasyonu sayesinde parmağım eski sağlığına kavuştu. Şu an sağlık durumum ve parmağımın işlevselliği oldukça iyi düzeydedir. Kendisine derin şükranlarımı sunarım.🙏"
+          },
+          "date": "2026-03-05",
+          "avatar": "",
+          "sortTime": 1772699179342
+        },
+        {
+          "author": {
+            "tr": "Büşra Son",
+            "en": "Büşra Son"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Birkaç gün önce abimin omuz ağrısı sebebiyle doktor beye başvurduk . İlaç ve iğne tedavisi ile takip etti ameliyat önermedi . iyi ki doktor beyi dinlemiş ve  ameliyat olmamışız . Halil hoca bu şekilde de ağrılarımıza çare buldu .Gerçekten işini hakkıyla yapan bir doktor . Sürece dair  asla soru işareti bırakmadı tüm sorularımızı detaylı bir şekilde yanıtladı. Kendisine emekleri için çok teşekkür ederiz",
+            "en": "Birkaç gün önce abimin omuz ağrısı sebebiyle doktor beye başvurduk . İlaç ve iğne tedavisi ile takip etti ameliyat önermedi . iyi ki doktor beyi dinlemiş ve  ameliyat olmamışız . Halil hoca bu şekilde de ağrılarımıza çare buldu .Gerçekten işini hakkıyla yapan bir doktor . Sürece dair  asla soru işareti bırakmadı tüm sorularımızı detaylı bir şekilde yanıtladı. Kendisine emekleri için çok teşekkür ederiz"
+          },
+          "date": "2026-03-03",
+          "avatar": "",
+          "sortTime": 1772518331247
+        },
+        {
+          "author": {
+            "tr": "Hakan Aydin",
+            "en": "Hakan Aydin"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "İşinin ehli  sorumluluk sahibi olan  ve bir o kadar hastaları ile yakından ilgilenen  çok kıymetli bir doktor. Ne kadar teşekkür etsek azdır. Poliklinik bölümünde çalışan yardımcıları da bir o kadar ilgililer . Allah razı olsun hepinizden",
+            "en": "İşinin ehli  sorumluluk sahibi olan  ve bir o kadar hastaları ile yakından ilgilenen  çok kıymetli bir doktor. Ne kadar teşekkür etsek azdır. Poliklinik bölümünde çalışan yardımcıları da bir o kadar ilgililer . Allah razı olsun hepinizden"
+          },
+          "date": "2026-03-02",
+          "avatar": "",
+          "sortTime": 1772436277016
+        },
+        {
+          "author": {
+            "tr": "Sedef Dinç",
+            "en": "Sedef Dinç"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Kızımın parmaklarını kesilmesi sonucu Doktor bey ameliyatını gerçekleştirdi gerçekten sürecin başından sonuna kadar Halil Hoca'dan Çok memnun kaldık kendisine emekleri için teşekkür ediyoruz. Halil  Hoca bölümünde gerçekten uzman bir hekim.",
+            "en": "Kızımın parmaklarını kesilmesi sonucu Doktor bey ameliyatını gerçekleştirdi gerçekten sürecin başından sonuna kadar Halil Hoca'dan Çok memnun kaldık kendisine emekleri için teşekkür ediyoruz. Halil  Hoca bölümünde gerçekten uzman bir hekim."
+          },
+          "date": "2026-02-23",
+          "avatar": "",
+          "sortTime": 1771829752847
+        },
+        {
+          "author": {
+            "tr": "Mikail Vural",
+            "en": "Mikail Vural"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Yaklaşık 2,5 ay önce parmağım koptu ve halil hoca parmağımı dikti parmağım çok şükür ki tuttu halil hocamdan allah razı olsun. Her muayene gidişimde güler yüz ile karşılandım ilgisi de gayet yerindeydi ve iletişim konusunda hiçbir sorun yaşamadım takibim çok güzel sağlandı. Halil hocaya ve asistanına emekleri için buradan çok teşekkür ederim",
+            "en": "Yaklaşık 2,5 ay önce parmağım koptu ve halil hoca parmağımı dikti parmağım çok şükür ki tuttu halil hocamdan allah razı olsun. Her muayene gidişimde güler yüz ile karşılandım ilgisi de gayet yerindeydi ve iletişim konusunda hiçbir sorun yaşamadım takibim çok güzel sağlandı. Halil hocaya ve asistanına emekleri için buradan çok teşekkür ederim"
+          },
+          "date": "2026-02-16",
+          "avatar": "",
+          "sortTime": 1771231897494
+        },
+        {
+          "author": {
+            "tr": "Ayşe Fatma Yaramışlı",
+            "en": "Ayşe Fatma Yaramışlı"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Eşimin traktör aletiyle yaptığı bir kaza sonrası orta ve yüzük parmağı tırnakları koptu ve yüzük parmağında da kopma oluştu.Biz o gün bulunduğumuz ilçenin acil servisine gittik ama daha fazlasının yapılması lazımdı o gün çok aradık ve Halil İbrahim hocayı tavsiye ettiler iyi ki de bulmusuz.Hocamız mükemmel bir ameliyat yaptı.Esimin parmakları Beklentimizin çok çok üstünde iyileşme gösterdi.",
+            "en": "Eşimin traktör aletiyle yaptığı bir kaza sonrası orta ve yüzük parmağı tırnakları koptu ve yüzük parmağında da kopma oluştu.Biz o gün bulunduğumuz ilçenin acil servisine gittik ama daha fazlasının yapılması lazımdı o gün çok aradık ve Halil İbrahim hocayı tavsiye ettiler iyi ki de bulmusuz.Hocamız mükemmel bir ameliyat yaptı.Esimin parmakları Beklentimizin çok çok üstünde iyileşme gösterdi."
+          },
+          "date": "2026-02-07",
+          "avatar": "",
+          "sortTime": 1770447705033
+        },
+        {
+          "author": {
+            "tr": "Sbsnnas Shsbbs",
+            "en": "Sbsnnas Shsbbs"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Merhaba ben yakın tarihte parmağımda kilitlenme nedeni ile saygıdeğer doktorum Halil hocaya ameliyat oldum süreçten çok memnun kaldım şu an parmak hareketlerim de çok iyi . Ben Halil hocayi tercih ederken yorumlar çok etkili oldu o yüzden başkalarını da doğru yönlendirmek adına bu yorumu yapıyorum .ayrıca nazik asistanı müşerref hanıma da ilgisi için teşekkür ediyorum",
+            "en": "Merhaba ben yakın tarihte parmağımda kilitlenme nedeni ile saygıdeğer doktorum Halil hocaya ameliyat oldum süreçten çok memnun kaldım şu an parmak hareketlerim de çok iyi . Ben Halil hocayi tercih ederken yorumlar çok etkili oldu o yüzden başkalarını da doğru yönlendirmek adına bu yorumu yapıyorum .ayrıca nazik asistanı müşerref hanıma da ilgisi için teşekkür ediyorum"
+          },
+          "date": "2026-01-12",
+          "avatar": "",
+          "sortTime": 1768239341608
+        },
+        {
+          "author": {
+            "tr": "Mehmet Can Eroğlu",
+            "en": "Mehmet Can Eroğlu"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Merhabalar 10 kasımda iş kazası geçirdim . Bu süreçte Halil ibrahim bey herzaman yanımda oldu . Ben çok memnun kaldım. 2 parmağım kopmasına rahmet şuan çok iyi durumu . Halil ibrahim bey e çok teşekkür ediyorum",
+            "en": "Merhabalar 10 kasımda iş kazası geçirdim . Bu süreçte Halil ibrahim bey herzaman yanımda oldu . Ben çok memnun kaldım. 2 parmağım kopmasına rahmet şuan çok iyi durumu . Halil ibrahim bey e çok teşekkür ediyorum"
+          },
+          "date": "2026-01-03",
+          "avatar": "",
+          "sortTime": 1767444536979
+        },
+        {
+          "author": {
+            "tr": "Ali Avcı",
+            "en": "Ali Avcı"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Arkadaşlar ben iş kazası geçirdim\nBen hocamızın hem işinde hem hastasına karşı ilgisi ve alakasını çok güzel gördüm\nKısacası Gönül rahatlığıyla tavsiye edilecek\nBir hocamız ayrıca ben tekrar teşekkür ederim hocamıza\nAllah'ım böyle anlayışlı işinde ve hastasına karşı güzel insanlarımızın sayısını çoğaltsın İnşallah\nNot: fotoğraflara bakabilirsiniz",
+            "en": "Arkadaşlar ben iş kazası geçirdim\nBen hocamızın hem işinde hem hastasına karşı ilgisi ve alakasını çok güzel gördüm\nKısacası Gönül rahatlığıyla tavsiye edilecek\nBir hocamız ayrıca ben tekrar teşekkür ederim hocamıza\nAllah'ım böyle anlayışlı işinde ve hastasına karşı güzel insanlarımızın sayısını çoğaltsın İnşallah\nNot: fotoğraflara bakabilirsiniz"
+          },
+          "date": "2026-01-03",
+          "avatar": "",
+          "sortTime": 1767444433034
+        },
+        {
+          "author": {
+            "tr": "Rabia Sürket",
+            "en": "Rabia Sürket"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Eşim trafik kazası geçirmişti eşimin ayağına unuversite hastanesi kesilir dediler  sonra Allah bize Halil hocayla Numan hocayla karislaştirdi eşimin ayağı şuanda çok iyi önce Allah'ın sonra Halil hoca ve Numan hoca sayesinde Allah ikisindende razı olsun iyiki varsınız hocam",
+            "en": "Eşim trafik kazası geçirmişti eşimin ayağına unuversite hastanesi kesilir dediler  sonra Allah bize Halil hocayla Numan hocayla karislaştirdi eşimin ayağı şuanda çok iyi önce Allah'ın sonra Halil hoca ve Numan hoca sayesinde Allah ikisindende razı olsun iyiki varsınız hocam"
+          },
+          "date": "2026-01-03",
+          "avatar": "",
+          "sortTime": 1767443361306
+        },
+        {
+          "author": {
+            "tr": "Esra Abar",
+            "en": "Esra Abar"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "2 yaşında bebeğimizin kapı arasında kalma suretiyle parmağı kopma noktasına geldi, sallanıyordu. Halil İbrahim hoca ve ekibinin gerçekleştirdiği operasyonla parmağı yerine dikildi.Şu an için her şey yolunda gidiyor. Bu süreçte Halil hocanın bize vermiş olduğu güven, moral ve ilgi için cooook teşekkür ederiz. Ayrıca asistanınn da ilgisi ve güler yüzü için çok teşekkürler..",
+            "en": "2 yaşında bebeğimizin kapı arasında kalma suretiyle parmağı kopma noktasına geldi, sallanıyordu. Halil İbrahim hoca ve ekibinin gerçekleştirdiği operasyonla parmağı yerine dikildi.Şu an için her şey yolunda gidiyor. Bu süreçte Halil hocanın bize vermiş olduğu güven, moral ve ilgi için cooook teşekkür ederiz. Ayrıca asistanınn da ilgisi ve güler yüzü için çok teşekkürler.."
+          },
+          "date": "2025-11-26",
+          "avatar": "",
+          "sortTime": 1764179465790
+        },
+        {
+          "author": {
+            "tr": "İsmail Abar",
+            "en": "İsmail Abar"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "2 yaşındaki kızımın parmağı kapı arasında kalmıştı. Serçe parmağı kopmak üzereydi. İbrahim hocam ve Numan hocam sağ olsunlar ameliyatına girdiler. Şu an için 3 hafta oldu ve İbrahim hocam çekilen filmde kemiğin kaynadigini söyledi. Pansumanlarla bizzat kendisi ilgilendi. Pansumanlar devam ediyor. Her şey için teşekkür ediyorum...",
+            "en": "2 yaşındaki kızımın parmağı kapı arasında kalmıştı. Serçe parmağı kopmak üzereydi. İbrahim hocam ve Numan hocam sağ olsunlar ameliyatına girdiler. Şu an için 3 hafta oldu ve İbrahim hocam çekilen filmde kemiğin kaynadigini söyledi. Pansumanlarla bizzat kendisi ilgilendi. Pansumanlar devam ediyor. Her şey için teşekkür ediyorum..."
+          },
+          "date": "2025-11-26",
+          "avatar": "",
+          "sortTime": 1764178741632
+        },
+        {
+          "author": {
+            "tr": "Mustafa Akdag",
+            "en": "Mustafa Akdag"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Kızıma parmak kopması sebebi ile Doktor bey ile Tanışmış olduk kızımın ameliyatını başarılı birn şekilde gerçekleştirdi. Halil hoca gerçekten ilk andan itibaren güven veren ve samimi bir doktor. İyiki kendisine denk geldik emekleri için kendisine ve asistanına çok teşekkür ederiz",
+            "en": "Kızıma parmak kopması sebebi ile Doktor bey ile Tanışmış olduk kızımın ameliyatını başarılı birn şekilde gerçekleştirdi. Halil hoca gerçekten ilk andan itibaren güven veren ve samimi bir doktor. İyiki kendisine denk geldik emekleri için kendisine ve asistanına çok teşekkür ederiz"
+          },
+          "date": "2025-11-26",
+          "avatar": "",
+          "sortTime": 1764173529372
+        },
+        {
+          "author": {
+            "tr": "Şehmuz KAYAALP",
+            "en": "Şehmuz KAYAALP"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "5 Ekim'de iş kazası geçirmiştim sağ el orta parmağım da kırık ve açık yara vardı çok güzel ve başarılı bir ameliyat gerçekleştirdiği için hocama tekrardan teşekkür ediyorum.Ameliyat sonrasında da ilgilerini iyileşene kadar devam ettirdiler herşey için teşekkürler",
+            "en": "5 Ekim'de iş kazası geçirmiştim sağ el orta parmağım da kırık ve açık yara vardı çok güzel ve başarılı bir ameliyat gerçekleştirdiği için hocama tekrardan teşekkür ediyorum.Ameliyat sonrasında da ilgilerini iyileşene kadar devam ettirdiler herşey için teşekkürler"
+          },
+          "date": "2025-11-26",
+          "avatar": "",
+          "sortTime": 1764172909417
+        },
+        {
+          "author": {
+            "tr": "Abdulbaki Ceyhan",
+            "en": "Abdulbaki Ceyhan"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "3 parmak kopmasi sonrası takibimi doktor bey sağladı tedavi surecim boyunca kendisinden ve asistanindan cok memnun kaldım.Halil hoca gerçekten işinde her anlamda uzman bir doktor . Kendisine emekleri için buradan cok teşekkür ediyorum",
+            "en": "3 parmak kopmasi sonrası takibimi doktor bey sağladı tedavi surecim boyunca kendisinden ve asistanindan cok memnun kaldım.Halil hoca gerçekten işinde her anlamda uzman bir doktor . Kendisine emekleri için buradan cok teşekkür ediyorum"
+          },
+          "date": "2025-11-24",
+          "avatar": "",
+          "sortTime": 1763968975767
+        },
+        {
+          "author": {
+            "tr": "Mustafa Aydın",
+            "en": "Mustafa Aydın"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Kolumu sac kesmesi sonucu kolumda gerçekten çok derin bir kesi vardı. Halil İbrahim hocaya geldim ameliyatı gayet başarılı oldu ve ilgisi aşamasından çok memnun kaldım . Gönül rahatlığı ile kendinizi teslim edebileceğiniz bir hekim .",
+            "en": "Kolumu sac kesmesi sonucu kolumda gerçekten çok derin bir kesi vardı. Halil İbrahim hocaya geldim ameliyatı gayet başarılı oldu ve ilgisi aşamasından çok memnun kaldım . Gönül rahatlığı ile kendinizi teslim edebileceğiniz bir hekim ."
+          },
+          "date": "2025-11-18",
+          "avatar": "",
+          "sortTime": 1763464367716
+        },
+        {
+          "author": {
+            "tr": "Veysel Aksoy",
+            "en": "Veysel Aksoy"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Elimde lif kopuğu oluşması sonucu gittiğim hastanede Halil hocadan aldığım hizmetten memnun kaldım.her gittiğimde gereken ilgi ve Güleryüzü gösterdi.gercekten çok doğal ve samimi bir hekim kendisine buradan çok teşekkür",
+            "en": "Elimde lif kopuğu oluşması sonucu gittiğim hastanede Halil hocadan aldığım hizmetten memnun kaldım.her gittiğimde gereken ilgi ve Güleryüzü gösterdi.gercekten çok doğal ve samimi bir hekim kendisine buradan çok teşekkür"
+          },
+          "date": "2025-11-11",
+          "avatar": "",
+          "sortTime": 1762851239527
+        },
+        {
+          "author": {
+            "tr": "Derya Sarıçiçek",
+            "en": "Derya Sarıçiçek"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "İş kazası geçirmem sonucu yüksekten düşmüştüm ve dirseğim de çok parçalı bir kırık vardı. Gittiğim diğer hastanelerde diğer doktorlar pek yanaşmadı ana ameliyatı Halil hoca büyük bir özenle gerçekleştirdi ameliyat öncesinde ve sonrasında bütün detayları bana anlattı kendisine buradan çok teşekkür ederim",
+            "en": "İş kazası geçirmem sonucu yüksekten düşmüştüm ve dirseğim de çok parçalı bir kırık vardı. Gittiğim diğer hastanelerde diğer doktorlar pek yanaşmadı ana ameliyatı Halil hoca büyük bir özenle gerçekleştirdi ameliyat öncesinde ve sonrasında bütün detayları bana anlattı kendisine buradan çok teşekkür ederim"
+          },
+          "date": "2025-11-10",
+          "avatar": "",
+          "sortTime": 1762771501150
+        },
+        {
+          "author": {
+            "tr": "Huseyin Arslan",
+            "en": "Huseyin Arslan"
           },
           "rating": 4,
           "text": {
-            "tr": "Güler yüzlü personel ve temiz ortam. Tekrar tercih edeceğim.",
-            "en": "Friendly staff and clean environment. I will choose again."
+            "tr": "İş kazası sonucu el parmağımi kaybettim Urfa da metrolife hastahanesinde 4 gün kaldım ve operasyon başarısız oldu apar topar deva hastahanesine gittik ve İbrahim Halil hocanın tecrübesi ile parmağım uzatma operasyonu yapıldı ve hallen tedavim devam ediyor parmağım hemen hemen aynı seviviye geldi teşekkürler Halil hoca",
+            "en": "İş kazası sonucu el parmağımi kaybettim Urfa da metrolife hastahanesinde 4 gün kaldım ve operasyon başarısız oldu apar topar deva hastahanesine gittik ve İbrahim Halil hocanın tecrübesi ile parmağım uzatma operasyonu yapıldı ve hallen tedavim devam ediyor parmağım hemen hemen aynı seviviye geldi teşekkürler Halil hoca"
           },
-          "date": "2025-09-15",
-          "avatar": ""
+          "date": "2025-11-06",
+          "avatar": "",
+          "sortTime": 1762452220430
         },
         {
           "author": {
-            "tr": "Can D.",
-            "en": "Can D."
+            "tr": "Büşra Soran",
+            "en": "Büşra Soran"
           },
           "rating": 5,
           "text": {
-            "tr": "Beklentimin üzerinde bir deneyim yaşadım. Teşekkürler.",
-            "en": "I had an experience beyond my expectations. Thank you."
+            "tr": "Halil İbrahim hocam ile karşılaşmak bizim ve çocuğumuz için büyük şanstı. İlgisi alakası her daim sorulara verdiği cevaplar çok rahatlatıcı seviyedeydi. Çocuğumun tendon bağları kopmuş vaziyette gitmemize rağmen elhamdülillah sonuçları olumlu oldu ve bağlar kurtarıldı.",
+            "en": "Halil İbrahim hocam ile karşılaşmak bizim ve çocuğumuz için büyük şanstı. İlgisi alakası her daim sorulara verdiği cevaplar çok rahatlatıcı seviyedeydi. Çocuğumun tendon bağları kopmuş vaziyette gitmemize rağmen elhamdülillah sonuçları olumlu oldu ve bağlar kurtarıldı."
           },
-          "date": "2025-08-03",
-          "avatar": ""
+          "date": "2025-11-06",
+          "avatar": "",
+          "sortTime": 1762450716847
+        },
+        {
+          "author": {
+            "tr": "Baki Sablak",
+            "en": "Baki Sablak"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Hastalık sürecinde ( 4 aylık süreçte , Muğla’dan tavsiye üzerine gittim ) İlgi , samimiyet , iletişim ve  bilgilerini belirtme konusunda  fazlasıyla yardımcı oluyor . Bunlardan ötürü çok teşekkür İbrahim hocaya  🙂",
+            "en": "Hastalık sürecinde ( 4 aylık süreçte , Muğla’dan tavsiye üzerine gittim ) İlgi , samimiyet , iletişim ve  bilgilerini belirtme konusunda  fazlasıyla yardımcı oluyor . Bunlardan ötürü çok teşekkür İbrahim hocaya  🙂"
+          },
+          "date": "2025-11-06",
+          "avatar": "",
+          "sortTime": 1762450550898
+        },
+        {
+          "author": {
+            "tr": "Çagatay can Gören",
+            "en": "Çagatay can Gören"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "4 parmak kopması sonucu gittiğimiz hastanede Halil hocadan aldığımız hizmetten çok memnun kaldık .Birçok kez operasyon edildim her operasyon öncesinde detaylı bilgi verdi sorularımı detaylıca yanıtladı. Kendisine ve asistanına güleryüzü ve ilgileri için buradan çok teşekkür ederim",
+            "en": "4 parmak kopması sonucu gittiğimiz hastanede Halil hocadan aldığımız hizmetten çok memnun kaldık .Birçok kez operasyon edildim her operasyon öncesinde detaylı bilgi verdi sorularımı detaylıca yanıtladı. Kendisine ve asistanına güleryüzü ve ilgileri için buradan çok teşekkür ederim"
+          },
+          "date": "2025-11-04",
+          "avatar": "",
+          "sortTime": 1762237751930
+        },
+        {
+          "author": {
+            "tr": "Melike Basmaz",
+            "en": "Melike Basmaz"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Kardeşimin geçirdiği trafik kazası sonucu  başvurduğumuz doktor bey bütün ameliyatları sorunsuz bir şekilde yaptı. İşlem öncesi ve sonrası bizi bilgilendirdi sağolsun. Dr. Halil bey alanında en iyi doktorlardan birisi gerçekten. Ona ve ekibine çok teşekkür ediyorum 🙏",
+            "en": "Kardeşimin geçirdiği trafik kazası sonucu  başvurduğumuz doktor bey bütün ameliyatları sorunsuz bir şekilde yaptı. İşlem öncesi ve sonrası bizi bilgilendirdi sağolsun. Dr. Halil bey alanında en iyi doktorlardan birisi gerçekten. Ona ve ekibine çok teşekkür ediyorum 🙏"
+          },
+          "date": "2025-10-19",
+          "avatar": "",
+          "sortTime": 1760857677767
+        },
+        {
+          "author": {
+            "tr": "Burçin Sağık",
+            "en": "Burçin Sağık"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Geçirdiğim motor kazasından dolayı ayağım param parça oldu ve dizde kırık beni sayın halil ibrahim hocama yönlendirdiler iyikide yönlendirmişler çok şükür yavaş yavaş yürümeye başladım sayın halil ibrahim hocam ve ekibine çok teşekkür ederim.",
+            "en": "Geçirdiğim motor kazasından dolayı ayağım param parça oldu ve dizde kırık beni sayın halil ibrahim hocama yönlendirdiler iyikide yönlendirmişler çok şükür yavaş yavaş yürümeye başladım sayın halil ibrahim hocam ve ekibine çok teşekkür ederim."
+          },
+          "date": "2025-10-16",
+          "avatar": "",
+          "sortTime": 1760593097759
+        },
+        {
+          "author": {
+            "tr": "Sümeyye UĞUR",
+            "en": "Sümeyye UĞUR"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Her iki el bileğimde kırık olması sonucu ameliyatımı gerçekleştiren Doktorum Halil İbrahim hocaya sonsuz teşekkür ederim. Sayesinde yeniden sağlığıma kavuştum. Sizin gibi tecrübeli ilgili bir doktora denk gelmek büyük bir şans oldu benim için.",
+            "en": "Her iki el bileğimde kırık olması sonucu ameliyatımı gerçekleştiren Doktorum Halil İbrahim hocaya sonsuz teşekkür ederim. Sayesinde yeniden sağlığıma kavuştum. Sizin gibi tecrübeli ilgili bir doktora denk gelmek büyük bir şans oldu benim için."
+          },
+          "date": "2025-10-15",
+          "avatar": "",
+          "sortTime": 1760549897842
+        },
+        {
+          "author": {
+            "tr": "Serdar Kıvrık",
+            "en": "Serdar Kıvrık"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Oğlumun iş kazasinda elinde tendon kopması olmuştu deva Hastanesine geldik ve doktorumuzun ilgisinden alakasindan son derece memnun kaldık .bunu da burda belirtmek istiyorum ki gelecek olanlar hiç şüphesiz gelsinler.emegi geçen herk de teşekkür ediyoruz",
+            "en": "Oğlumun iş kazasinda elinde tendon kopması olmuştu deva Hastanesine geldik ve doktorumuzun ilgisinden alakasindan son derece memnun kaldık .bunu da burda belirtmek istiyorum ki gelecek olanlar hiç şüphesiz gelsinler.emegi geçen herk de teşekkür ediyoruz"
+          },
+          "date": "2025-10-09",
+          "avatar": "",
+          "sortTime": 1760013842362
+        },
+        {
+          "author": {
+            "tr": "Osman Yavuz",
+            "en": "Osman Yavuz"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Geçirdiğim talihsiz  bir kaza sonrası kolumda ciddi şekilde  damar ve tendon kesisi vardı . İlk gittiğimiz hastane bizi Halil hocaya yönlendirdi ve Halil hocayla ekibi kesilerime  müdahale ettiler .Sonrasında takibim şehir dışında olmama rağmen çok güzel sağlandı her aramam yanıtlandı doktor bey her sorumda verdiği yanıtlarla endişemi giderdi .Kendisine ve ekibine burdan çok teşekkür ediyorum.",
+            "en": "Geçirdiğim talihsiz  bir kaza sonrası kolumda ciddi şekilde  damar ve tendon kesisi vardı . İlk gittiğimiz hastane bizi Halil hocaya yönlendirdi ve Halil hocayla ekibi kesilerime  müdahale ettiler .Sonrasında takibim şehir dışında olmama rağmen çok güzel sağlandı her aramam yanıtlandı doktor bey her sorumda verdiği yanıtlarla endişemi giderdi .Kendisine ve ekibine burdan çok teşekkür ediyorum."
+          },
+          "date": "2025-10-09",
+          "avatar": "",
+          "sortTime": 1759988181922
+        },
+        {
+          "author": {
+            "tr": "Burakhan Aymak",
+            "en": "Burakhan Aymak"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Annemin düşmesi sonucu omzunda çok parçalı kırık vardı ve bu sebepten Halil hocaya müracaat ettik .hocamız uzmanlığı ve bilgisi ile ikinci operasyona gerek kalmadan kırıklara müdahale etti ve sonrasında da süreci asistanı ile beraber çok güzel takip etti . Biz gerçekten çok memnun kaldık sürecü sorunsuz atlattık emekleriniz için teşekkürler",
+            "en": "Annemin düşmesi sonucu omzunda çok parçalı kırık vardı ve bu sebepten Halil hocaya müracaat ettik .hocamız uzmanlığı ve bilgisi ile ikinci operasyona gerek kalmadan kırıklara müdahale etti ve sonrasında da süreci asistanı ile beraber çok güzel takip etti . Biz gerçekten çok memnun kaldık sürecü sorunsuz atlattık emekleriniz için teşekkürler"
+          },
+          "date": "2025-10-08",
+          "avatar": "",
+          "sortTime": 1759954385490
+        },
+        {
+          "author": {
+            "tr": "Nisanur Mercan",
+            "en": "Nisanur Mercan"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "3 ay önce  elimi bıçak kesmesi sonucu geçirdiğim tendon kopması ameliyatı hayatımın en zorlu süreçlerinden biriydi ama doktorumun güven veren yaklaşımı ve asistanının titiz takibiyle bu süreci çok daha kolay atlattım. Emekleri ve ilgileri için minnettarım. Gerçekten işini severek yapan, insana güven veren bir ekip. Gönül rahatlığıyla başvurabilirsiniz.",
+            "en": "3 ay önce  elimi bıçak kesmesi sonucu geçirdiğim tendon kopması ameliyatı hayatımın en zorlu süreçlerinden biriydi ama doktorumun güven veren yaklaşımı ve asistanının titiz takibiyle bu süreci çok daha kolay atlattım. Emekleri ve ilgileri için minnettarım. Gerçekten işini severek yapan, insana güven veren bir ekip. Gönül rahatlığıyla başvurabilirsiniz."
+          },
+          "date": "2025-10-08",
+          "avatar": "",
+          "sortTime": 1759948412266
+        },
+        {
+          "author": {
+            "tr": "Cebrail Yıldırım",
+            "en": "Cebrail Yıldırım"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "1 ay önce geçirdiğim kaza sonrası halil hocaya ameliyat oldum ve gayet konforlu bir süreç geçirdim halil hocanın yaklaşımi o kadar samimi ve doğal ki insan resmen yanında ağrısını unutuyor ayrıca surec boyunca bizimle ilgileneb asistanını da buradan çok teşekkür ederim",
+            "en": "1 ay önce geçirdiğim kaza sonrası halil hocaya ameliyat oldum ve gayet konforlu bir süreç geçirdim halil hocanın yaklaşımi o kadar samimi ve doğal ki insan resmen yanında ağrısını unutuyor ayrıca surec boyunca bizimle ilgileneb asistanını da buradan çok teşekkür ederim"
+          },
+          "date": "2025-10-08",
+          "avatar": "",
+          "sortTime": 1759909752838
+        },
+        {
+          "author": {
+            "tr": "Hasan Hüseyin Badem",
+            "en": "Hasan Hüseyin Badem"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Kolumda ciddi bir cam kesisi oluştu. 10 adet tendon 3 adet sinir 1 adet atar damar kesisi vardı. Hocam ameliyat ile hepsini dikti ve şuan iyileşme aşamasındayım. Hastaya yaklaşımı ve ilgisi çok iyi . Attığım her mesaja titizlikle cevap veriyor bütün pansumanların fotoğrafını isteyip yakından takip ediyor. Herşey için teşekkürler elinize emeğinize sağlık. İyi çalışmalar dilerim.",
+            "en": "Kolumda ciddi bir cam kesisi oluştu. 10 adet tendon 3 adet sinir 1 adet atar damar kesisi vardı. Hocam ameliyat ile hepsini dikti ve şuan iyileşme aşamasındayım. Hastaya yaklaşımı ve ilgisi çok iyi . Attığım her mesaja titizlikle cevap veriyor bütün pansumanların fotoğrafını isteyip yakından takip ediyor. Herşey için teşekkürler elinize emeğinize sağlık. İyi çalışmalar dilerim."
+          },
+          "date": "2025-10-01",
+          "avatar": "",
+          "sortTime": 1759269800211
+        },
+        {
+          "author": {
+            "tr": "Belgin Akgül",
+            "en": "Belgin Akgül"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Benim kızım iki ay önce devlet hastanesinde parmağı kesildi ve bizi gaziantep özel deva hastanesine  sevkettiler.Sayin İbrahim hocam ameliyatımızı gerçekleştirdi ve suan çok şükür kızımın parmağı olumlu sonuçlar veriyor..ibrahim hocam ve ekibine ilgilerinden dolayı çok teşekkür ederim…",
+            "en": "Benim kızım iki ay önce devlet hastanesinde parmağı kesildi ve bizi gaziantep özel deva hastanesine  sevkettiler.Sayin İbrahim hocam ameliyatımızı gerçekleştirdi ve suan çok şükür kızımın parmağı olumlu sonuçlar veriyor..ibrahim hocam ve ekibine ilgilerinden dolayı çok teşekkür ederim…"
+          },
+          "date": "2025-09-29",
+          "avatar": "",
+          "sortTime": 1759135669962
+        },
+        {
+          "author": {
+            "tr": "besir divanbeyli",
+            "en": "besir divanbeyli"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Eşimin ve kizimin ayağından kursunlanmasi üzerine urfa harrandan halil hocaya geldik. Esimin Urfada kesilecek denen ayağına halil hoca ve ekibi büyük bir özenle tedavi ettiler. Kesilmekten kurtuldu. Su an ise sadece uzatma işlemi kaldi .Halil hoca bilgisi ve uzmanlığı ile ekibi de ilgisi ve güleryüzü ile bu süreci kolaylıkla atlatmamızı sağladılar.  kendilerine buradan çok teşekkür ediyorum",
+            "en": "Eşimin ve kizimin ayağından kursunlanmasi üzerine urfa harrandan halil hocaya geldik. Esimin Urfada kesilecek denen ayağına halil hoca ve ekibi büyük bir özenle tedavi ettiler. Kesilmekten kurtuldu. Su an ise sadece uzatma işlemi kaldi .Halil hoca bilgisi ve uzmanlığı ile ekibi de ilgisi ve güleryüzü ile bu süreci kolaylıkla atlatmamızı sağladılar.  kendilerine buradan çok teşekkür ediyorum"
+          },
+          "date": "2025-09-29",
+          "avatar": "",
+          "sortTime": 1759133762536
+        },
+        {
+          "author": {
+            "tr": "Arif Han",
+            "en": "Arif Han"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Yaşadığım bir olay üzeri,Bileğimi kesilmesi dokuz tane tendon Kopması bir sinir, bir damar olmak üzere;Acilen Gaziantep deva Hastanesi’nin sevk edildim ameliyat oldum; Sağ olsun Halil İbrahim bey sayesinde ameliyat başarılı geçti ☺️bütün parmaklarım çalışıyor gerçekten hakkı yenilmeyecek bir doktor ayrıca çok samimi güler yüzlü biri Asistanını da unutmamak lazım😇 7/24 Yardımcı olduğun için ona da sonsuz teşekkürlerimi İletiyorum.",
+            "en": "Yaşadığım bir olay üzeri,Bileğimi kesilmesi dokuz tane tendon Kopması bir sinir, bir damar olmak üzere;Acilen Gaziantep deva Hastanesi’nin sevk edildim ameliyat oldum; Sağ olsun Halil İbrahim bey sayesinde ameliyat başarılı geçti ☺️bütün parmaklarım çalışıyor gerçekten hakkı yenilmeyecek bir doktor ayrıca çok samimi güler yüzlü biri Asistanını da unutmamak lazım😇 7/24 Yardımcı olduğun için ona da sonsuz teşekkürlerimi İletiyorum."
+          },
+          "date": "2025-09-22",
+          "avatar": "",
+          "sortTime": 1758540368943
+        },
+        {
+          "author": {
+            "tr": "Mustafa Biricik",
+            "en": "Mustafa Biricik"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Halil hoca ve müşerref hanım gerçekten işinin ehli cerrahi operasyonları çok başarılı ve aynı zamanda çok ilgili ve tatlı bir sekreteri müşerref hanıma da teşekkürlerimi iletiyorum başarılarının devamını diliyorum",
+            "en": "Halil hoca ve müşerref hanım gerçekten işinin ehli cerrahi operasyonları çok başarılı ve aynı zamanda çok ilgili ve tatlı bir sekreteri müşerref hanıma da teşekkürlerimi iletiyorum başarılarının devamını diliyorum"
+          },
+          "date": "2025-09-06",
+          "avatar": "",
+          "sortTime": 1757163326892
+        },
+        {
+          "author": {
+            "tr": "Ela Erdogan",
+            "en": "Ela Erdogan"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Babaannemin eli kesilmişti ve ameliyatı doktor halil hoca yaptı babaannem yaşlıydı ve kesisi derindi doktorumuz ameliyatı başarı  ile yaptıktan sonra şehir dışında olmamıza rağmen hem kendisi hem de asistanı müşerref hanım takibimizi çok güzel sağladı .Kontol için gittiğimizde  ise çok güleryüzlü ve ilgiliydiler kendilerine çok teşekkür ederim gönül rahatlığıyla başvurabilirsiniz.",
+            "en": "Babaannemin eli kesilmişti ve ameliyatı doktor halil hoca yaptı babaannem yaşlıydı ve kesisi derindi doktorumuz ameliyatı başarı  ile yaptıktan sonra şehir dışında olmamıza rağmen hem kendisi hem de asistanı müşerref hanım takibimizi çok güzel sağladı .Kontol için gittiğimizde  ise çok güleryüzlü ve ilgiliydiler kendilerine çok teşekkür ederim gönül rahatlığıyla başvurabilirsiniz."
+          },
+          "date": "2025-09-06",
+          "avatar": "",
+          "sortTime": 1757161065169
+        },
+        {
+          "author": {
+            "tr": "Gamze Taşkın",
+            "en": "Gamze Taşkın"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Bundan 1 ay önce bileğimin üst kısmında tendom kopması olmuştu o onun telaşıyla ve korkusuyla hemen devs hastanesine geldik ortopedi konusunda uzman olduklarını biliyorduk ve operasyonumu Halil İbrahim Öcalan adlı doktorumuz yapmıştı ameliyat olmadan önce çok stresliydim çok gergindim korkuyordum iyi olacak mıyım olmayacak mıyım hani elimi tekrar kullanabilecek miyim bu konular hakkında bayağı şüphem vardı ameliyata girdim Halil İbrahim hoca sağ olsun ameliyat sırasında konuşarak beni sakinleştirdi saatlerce konuştuk beni rahatlattı stres mi aldı çok tatlı naif birisi operasyonumu da başarılı bir şekilde gerçekleştirdi bir ay içinde kendimi toparladım kontrole giderken çok fazla soru soruyordum sağ olsunlar hiçbir sorumu cevaplamamazlık yapmadılar çok güzel ilgileniyorlardı doktorum da olsun doktorumuzun asistanı da olsun hiç yadırgamadan her soruma özenle cevap veriyorlardı şüphemi alıyorlardı yani iyi ki Halil İbrahim hoca'ya denk gelmişim gün içinde asistana yazıp bazı sorular soruyordum her mesajıma anında baktı her aramamı cevapladı çok güzel ilgilendiler çok da güzel bir ameliyat geçirdim hayatımda ilk defa ameliyat oldum çok da memnun kaldım eline emeğine sağlık aynı şekilde asistanının da o da çok kibar naif birisi çok güzel ilgilendiler kısa sürede toparladım her doktorun bu özenle yapabileceği bir ameliyat değildi",
+            "en": "Bundan 1 ay önce bileğimin üst kısmında tendom kopması olmuştu o onun telaşıyla ve korkusuyla hemen devs hastanesine geldik ortopedi konusunda uzman olduklarını biliyorduk ve operasyonumu Halil İbrahim Öcalan adlı doktorumuz yapmıştı ameliyat olmadan önce çok stresliydim çok gergindim korkuyordum iyi olacak mıyım olmayacak mıyım hani elimi tekrar kullanabilecek miyim bu konular hakkında bayağı şüphem vardı ameliyata girdim Halil İbrahim hoca sağ olsun ameliyat sırasında konuşarak beni sakinleştirdi saatlerce konuştuk beni rahatlattı stres mi aldı çok tatlı naif birisi operasyonumu da başarılı bir şekilde gerçekleştirdi bir ay içinde kendimi toparladım kontrole giderken çok fazla soru soruyordum sağ olsunlar hiçbir sorumu cevaplamamazlık yapmadılar çok güzel ilgileniyorlardı doktorum da olsun doktorumuzun asistanı da olsun hiç yadırgamadan her soruma özenle cevap veriyorlardı şüphemi alıyorlardı yani iyi ki Halil İbrahim hoca'ya denk gelmişim gün içinde asistana yazıp bazı sorular soruyordum her mesajıma anında baktı her aramamı cevapladı çok güzel ilgilendiler çok da güzel bir ameliyat geçirdim hayatımda ilk defa ameliyat oldum çok da memnun kaldım eline emeğine sağlık aynı şekilde asistanının da o da çok kibar naif birisi çok güzel ilgilendiler kısa sürede toparladım her doktorun bu özenle yapabileceği bir ameliyat değildi"
+          },
+          "date": "2025-09-03",
+          "avatar": "",
+          "sortTime": 1756919909021
+        },
+        {
+          "author": {
+            "tr": "İslim Geriş",
+            "en": "İslim Geriş"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Eşim talihsiz bir olay yaşadı ve ayağı paramparça hale gelmişti.Halil bey sağolsun büyük emekle operasyonumuzu gerçekleştirdi.gercekten kendisinden Allah razı olsun.Sayesinde şifayi bulduk. Asistanı da bizimle büyük bir özenle ilgilendi ne zaman arasak sorunlarımizi yanıtladı.biz çok memnun kaldık ...",
+            "en": "Eşim talihsiz bir olay yaşadı ve ayağı paramparça hale gelmişti.Halil bey sağolsun büyük emekle operasyonumuzu gerçekleştirdi.gercekten kendisinden Allah razı olsun.Sayesinde şifayi bulduk. Asistanı da bizimle büyük bir özenle ilgilendi ne zaman arasak sorunlarımizi yanıtladı.biz çok memnun kaldık ..."
+          },
+          "date": "2025-08-20",
+          "avatar": "",
+          "sortTime": 1755716980067
+        },
+        {
+          "author": {
+            "tr": "Ayse Denen",
+            "en": "Ayse Denen"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Kızımın yaşadığı rahatsızlık sürecinde çok endişeliydik ama doktorumuzun ilgisi, sakinliği ve açıklamaları sayesinde güven duyduk. Ameliyatı başarılı geçti ve süreci yakından takip etti. Hem hekimliği hem insani yaklaşımıyla çok kıymetli bir doktor.",
+            "en": "Kızımın yaşadığı rahatsızlık sürecinde çok endişeliydik ama doktorumuzun ilgisi, sakinliği ve açıklamaları sayesinde güven duyduk. Ameliyatı başarılı geçti ve süreci yakından takip etti. Hem hekimliği hem insani yaklaşımıyla çok kıymetli bir doktor."
+          },
+          "date": "2025-08-19",
+          "avatar": "",
+          "sortTime": 1755622690108
+        },
+        {
+          "author": {
+            "tr": "Ibrahim can Mujde",
+            "en": "Ibrahim can Mujde"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "El bileği kırığı sebebi ile annemin ameliyatıni yapan doktorumuz halil beye çok teşekkür ederiz annemin ağrıları resmen bitti ve elini de aktif olarak kullanmaya başladı.surecin basindan sonuna kadar bizimle ilgilenen müşerref hanım'i da asla unutamayiz . emeklerinis için teşekkür ederiz.",
+            "en": "El bileği kırığı sebebi ile annemin ameliyatıni yapan doktorumuz halil beye çok teşekkür ederiz annemin ağrıları resmen bitti ve elini de aktif olarak kullanmaya başladı.surecin basindan sonuna kadar bizimle ilgilenen müşerref hanım'i da asla unutamayiz . emeklerinis için teşekkür ederiz."
+          },
+          "date": "2025-07-21",
+          "avatar": "",
+          "sortTime": 1753126116028
+        },
+        {
+          "author": {
+            "tr": "Emel Eminoglu",
+            "en": "Emel Eminoglu"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Kardeşim tendon kopması sebebiyle başka bir  hastanede ameliyat olmuştu ki sonuç başarısız oldu. Yakınlarımızın tavsiyesi üzerine Gaziantep’te Halil İbrahim Hoca’ya gittik ve ilk görüşte verdiği güven, yaptığı açıklama ve bilgilendirmeler ile gönlümüzü ferahlattı . Sonraki süreçte de herşey yolunda ilerledi . Ayrıca bizim ile ilgilenen asistan hanıma yardımcı olduğu her konu için çok teşekkür ederiz.",
+            "en": "Kardeşim tendon kopması sebebiyle başka bir  hastanede ameliyat olmuştu ki sonuç başarısız oldu. Yakınlarımızın tavsiyesi üzerine Gaziantep’te Halil İbrahim Hoca’ya gittik ve ilk görüşte verdiği güven, yaptığı açıklama ve bilgilendirmeler ile gönlümüzü ferahlattı . Sonraki süreçte de herşey yolunda ilerledi . Ayrıca bizim ile ilgilenen asistan hanıma yardımcı olduğu her konu için çok teşekkür ederiz."
+          },
+          "date": "2025-07-21",
+          "avatar": "",
+          "sortTime": 1753125031388
+        },
+        {
+          "author": {
+            "tr": "umutlu veraa",
+            "en": "umutlu veraa"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Geçirdiğim iş kazası sonrası parmak kopması yaşadım ve deva hastanesinde Halil İbrahim hocam ile tanıştık kendisi operasyonumu büyük bir özenle gerçekleştirdi ve elinden gelenin en iyisini yaptığına eminim. Şükür ki parmak tuttu .Sonraki süreçte gerek tedavimle  ilgili gerek kendimi toparlamamla ilgili büyük destek oldu . Samimiyeti ve güler yüzü ile beni ve ailemi çok etkiledi . Ayrıca yoğun ilgisi ve hoşgörüsü için Halil hocanın asistanı müşerref Hanım’a çok teşekkür ederiz. Her konuda yardımcı olarak sürecin konforunu  çok güzel sağladı. Doktor bey ve asistan hanımın emeklerine sağlık.",
+            "en": "Geçirdiğim iş kazası sonrası parmak kopması yaşadım ve deva hastanesinde Halil İbrahim hocam ile tanıştık kendisi operasyonumu büyük bir özenle gerçekleştirdi ve elinden gelenin en iyisini yaptığına eminim. Şükür ki parmak tuttu .Sonraki süreçte gerek tedavimle  ilgili gerek kendimi toparlamamla ilgili büyük destek oldu . Samimiyeti ve güler yüzü ile beni ve ailemi çok etkiledi . Ayrıca yoğun ilgisi ve hoşgörüsü için Halil hocanın asistanı müşerref Hanım’a çok teşekkür ederiz. Her konuda yardımcı olarak sürecin konforunu  çok güzel sağladı. Doktor bey ve asistan hanımın emeklerine sağlık."
+          },
+          "date": "2025-07-21",
+          "avatar": "",
+          "sortTime": 1753124580186
+        },
+        {
+          "author": {
+            "tr": "Süleyman Tuncay Dinçer",
+            "en": "Süleyman Tuncay Dinçer"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Bileğimdeki 6 parça kırık vesilesiyle halil hoca ile tanıştım, emin ellerde olduğunuza dair hissi ilk karşılaşmanızda alıyorsunuz, zor bir kırık ve tedavi sürecini halil hocanın deneyimiyle rahat ve güvende geçirdim.",
+            "en": "Bileğimdeki 6 parça kırık vesilesiyle halil hoca ile tanıştım, emin ellerde olduğunuza dair hissi ilk karşılaşmanızda alıyorsunuz, zor bir kırık ve tedavi sürecini halil hocanın deneyimiyle rahat ve güvende geçirdim."
+          },
+          "date": "2025-07-21",
+          "avatar": "",
+          "sortTime": 1753102138722
+        },
+        {
+          "author": {
+            "tr": "Mehmet Akpìnar",
+            "en": "Mehmet Akpìnar"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Halil hocamla geçirmiş olduğumuz tedavi sürecimizden dolayı kendisine ve asistanina burdan teşekkür etmek isterim.Basta ilgileri ve Güleryüzü olmak üzere Halil Bey'in bilgisi ve uzmanlığı beni çok etkiledi . Sayesinde şifa buldum . Sürecin başından sonuna kadar ilgiyi alakayı asla kesmediler samimi bir yaklaşımla tüm sorunlarimi çözdüler .gelmek isteyenlere içtenlikle tavsiye ederim.",
+            "en": "Halil hocamla geçirmiş olduğumuz tedavi sürecimizden dolayı kendisine ve asistanina burdan teşekkür etmek isterim.Basta ilgileri ve Güleryüzü olmak üzere Halil Bey'in bilgisi ve uzmanlığı beni çok etkiledi . Sayesinde şifa buldum . Sürecin başından sonuna kadar ilgiyi alakayı asla kesmediler samimi bir yaklaşımla tüm sorunlarimi çözdüler .gelmek isteyenlere içtenlikle tavsiye ederim."
+          },
+          "date": "2025-06-28",
+          "avatar": "",
+          "sortTime": 1751139889720
+        },
+        {
+          "author": {
+            "tr": "Halil Alkan",
+            "en": "Halil Alkan"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Ben bir vahim olaydan dolayı Halil İbrahim hocam da dizimden ağır bir ameliyat oldum ve daha sonrada ailemin içi rahat olması için 2-3 doktora daha muayne olup danıştık ve gerçekten doktorların hepsi Halil İbrahim hocayı tebrik etiller ameliyatını çok beğendiler bizde ailece rahatladık.teşekkür ederim Halil hocam",
+            "en": "Ben bir vahim olaydan dolayı Halil İbrahim hocam da dizimden ağır bir ameliyat oldum ve daha sonrada ailemin içi rahat olması için 2-3 doktora daha muayne olup danıştık ve gerçekten doktorların hepsi Halil İbrahim hocayı tebrik etiller ameliyatını çok beğendiler bizde ailece rahatladık.teşekkür ederim Halil hocam"
+          },
+          "date": "2025-06-24",
+          "avatar": "",
+          "sortTime": 1750771165433
+        },
+        {
+          "author": {
+            "tr": "Fahri Almacı",
+            "en": "Fahri Almacı"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Merhabalar,\nKızımın trafik kazası sonucu ayağının kırılması sonucu Deva hastanesine gitmemizle Halil İbrahim Öçalan hocamızla tanıştık. Bizlerle hastane süreci ve kontrol takipleriyle devamlı ilgili olması, güler yüzlü ve sorularımıza içtenlikle cevap vermesi ve en önemlisi başarılı bir ameliyat yapması bizi baya etkiledi. Teşekkürler Halil hocam!..",
+            "en": "Merhabalar,\nKızımın trafik kazası sonucu ayağının kırılması sonucu Deva hastanesine gitmemizle Halil İbrahim Öçalan hocamızla tanıştık. Bizlerle hastane süreci ve kontrol takipleriyle devamlı ilgili olması, güler yüzlü ve sorularımıza içtenlikle cevap vermesi ve en önemlisi başarılı bir ameliyat yapması bizi baya etkiledi. Teşekkürler Halil hocam!.."
+          },
+          "date": "2025-05-30",
+          "avatar": "",
+          "sortTime": 1748620152290
+        },
+        {
+          "author": {
+            "tr": "Mehmet Akif Kavak",
+            "en": "Mehmet Akif Kavak"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "Ayak bileğimde kırık vardı. Ameliyattan korkuyordum ama Halil bey telkinleriyle ve samimiyetiyle beni rahatlattı. Operasyonumu gerçekleştirdi,süreç boyunca tüm sorularıma bıkmadan usanmadan cevap verdi ve vermeye devam ediyor. Şu an iyileşme dönemindeyim, hocamın desteğiyle daha iyi olacağıma şüphem yok. Kendisine ve ekibine teşekkür ederim.",
+            "en": "Ayak bileğimde kırık vardı. Ameliyattan korkuyordum ama Halil bey telkinleriyle ve samimiyetiyle beni rahatlattı. Operasyonumu gerçekleştirdi,süreç boyunca tüm sorularıma bıkmadan usanmadan cevap verdi ve vermeye devam ediyor. Şu an iyileşme dönemindeyim, hocamın desteğiyle daha iyi olacağıma şüphem yok. Kendisine ve ekibine teşekkür ederim."
+          },
+          "date": "2025-05-30",
+          "avatar": "",
+          "sortTime": 1748618880859
+        },
+        {
+          "author": {
+            "tr": "Mehmet Tutal",
+            "en": "Mehmet Tutal"
+          },
+          "rating": 5,
+          "text": {
+            "tr": "İş kazası sonucu kendisiyle tanıştığımız Halil İbrahim Hocamızın ilgisi, bilgisi ve güler yüzü için çok teşekkür ediyoruz. Tedavi sürecinde her zaman detaylı bilgilendirme yaptı ve bizi çok rahatlattı. Saat kaç Olursa olsun aramalarımız olsun mesajlarımız olsun hiç bir zaman cevapsız kalmadı, böyle hekimlerin sayısı artmalı. Gönül rahatlığıyla tavsiye ederim.",
+            "en": "İş kazası sonucu kendisiyle tanıştığımız Halil İbrahim Hocamızın ilgisi, bilgisi ve güler yüzü için çok teşekkür ediyoruz. Tedavi sürecinde her zaman detaylı bilgilendirme yaptı ve bizi çok rahatlattı. Saat kaç Olursa olsun aramalarımız olsun mesajlarımız olsun hiç bir zaman cevapsız kalmadı, böyle hekimlerin sayısı artmalı. Gönül rahatlığıyla tavsiye ederim."
+          },
+          "date": "2025-05-09",
+          "avatar": "",
+          "sortTime": 1746776585832
         }
       ],
       "category": "social",
-      "description": "Google Maps işletme yorumlarını otomatik çeken ve kaydırmalı kartlarla gösteren modül. placeId ve apiProxy ile Google Places API proxy'sine bağlanır; API yoksa index.json data[] yedek olarak kullanılır. Yatay otomatik kaydırma, yıldız puanı, mobil uyum ve prefers-reduced-motion desteği içerir.",
       "version": "1.0.0",
       "icon": "reviews",
       "id": "244kge",
-      "path": "google-yorumlar",
       "local": "body"
     }
   ]
