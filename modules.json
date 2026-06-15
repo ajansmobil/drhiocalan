@@ -410,9 +410,9 @@
           "en": "Google reviews"
         },
         "placeId": "",
-        "placeQuery": "Özel Deva Hastanesi Şahinbey Gaziantep Op. Dr. Halil İbrahim Öçalan ortopedi",
+        "placeQuery": "Op. Dr. Halil İbrahim Öçalan, Ortopedi Ve Travmatoloji",
         "apiProxy": "/api/google-reviews",
-        "googleMapsUrl": "",
+        "googleMapsUrl": "https://www.google.com/maps/place/Op.+Dr.+Halil+%C4%B0brahim+%C3%96%C3%A7alan,+Ortopedi+Ve+Travmatoloji/@37.0659523,37.378109,17z/data=!4m6!3m5!1s0x1531e176d7142cd9:0x208b8f7a6079a856!8m2!3d37.0659523!4d37.378109!16s%2Fg%2F11vb0y20cl",
         "maxReviews": "10",
         "scrollDuration": "40",
         "padding": "48px 0 48px 0",
