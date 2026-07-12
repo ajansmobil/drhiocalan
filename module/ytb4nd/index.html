@@ -2,11 +2,11 @@
 <div class="ytb4ndmodulexbody">
   <div class="ytb4ndmodulex">
     
-    <div class="ytb4ndmodulextitle">{{name}}</div>
-    {{channel_html}}
+    <div class="ytb4ndmodulextitle">YouTube videoları</div>
+    
     
     <div class="modulex swiper-container ytb4nd-modulex-swiper">
-      <div class="swiper-wrapper">{{html}}</div>
+      <div class="swiper-wrapper"><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/1aQX9ukUf2k?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 1/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/MsQriKjzF-8?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 2/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/fDgrmFXGJzo?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 3/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/c6XgVveBSq8?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 4/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/HuyJyrPkzCo?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 5/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/LCPyr02xXao?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 6/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/bq2WNClc-40?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 7/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/Pkujli26rHQ?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 8/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div><div class="swiper-slide"><div class="ytb4nd-frame"><iframe src="https://www.youtube-nocookie.com/embed/TXO5NzxgfKU?rel=0&modestbranding=1&enablejsapi=1" title="YouTube videoları — 9/9" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div></div>
       <div
         class="swiper-button-next swiper-button-next-ytb4nd-modulex"
         aria-hidden="true"
@@ -149,9 +149,9 @@
         slidesPerView: 1,
         spaceBetween: 12,
         simulateTouch: true,
-        loop: __YT_LOOP__,
+        loop: true,
         speed: 500,
-        autoplay: __YT_AUTOPLAY__,
+        autoplay: false,
         watchSlidesProgress: true,
         breakpoints: {
           640: {
@@ -199,7 +199,7 @@
           },
         },
       };
-      if ("{{button}}" !== "true") {
+      if ("true" !== "true") {
         var btnNext = document.querySelector(".swiper-button-next-ytb4nd-modulex");
         var btnPrev = document.querySelector(".swiper-button-prev-ytb4nd-modulex");
         if (btnNext) {
